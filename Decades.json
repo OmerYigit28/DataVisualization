@@ -1,0 +1,3782 @@
+[
+  {
+    "decade": 1960,
+    "Type": "Biofuel",
+    "Measure": "Consumption",
+    "value": 0
+  },
+  {
+    "decade": 1960,
+    "Type": "Biofuel",
+    "Measure": "Consumption Change",
+    "value": 0
+  },
+  {
+    "decade": 1960,
+    "Type": "Biofuel",
+    "Measure": "Consumption Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Biofuel",
+    "Measure": "Consumption per capita",
+    "value": 0
+  },
+  {
+    "decade": 1960,
+    "Type": "Biofuel",
+    "Measure": "Energy Share",
+    "value": 0
+  },
+  {
+    "decade": 1960,
+    "Type": "Coal",
+    "Measure": "Consumption",
+    "value": 16325.006
+  },
+  {
+    "decade": 1960,
+    "Type": "Coal",
+    "Measure": "Consumption Change",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Coal",
+    "Measure": "Consumption Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Coal",
+    "Measure": "Consumption per capita",
+    "value": 4692.5854
+  },
+  {
+    "decade": 1960,
+    "Type": "Coal",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Coal",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Coal",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Coal",
+    "Measure": "Energy Share",
+    "value": 34.1866
+  },
+  {
+    "decade": 1960,
+    "Type": "Coal",
+    "Measure": "Production",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Coal",
+    "Measure": "Production Change",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Coal",
+    "Measure": "Production Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Coal",
+    "Measure": "Production per capita",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Fossil",
+    "Measure": "Consumption",
+    "value": 44959.498
+  },
+  {
+    "decade": 1960,
+    "Type": "Fossil",
+    "Measure": "Consumption Change",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Fossil",
+    "Measure": "Consumption Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Fossil",
+    "Measure": "Consumption per capita",
+    "value": 12899.756
+  },
+  {
+    "decade": 1960,
+    "Type": "Fossil",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Fossil",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Fossil",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Fossil",
+    "Measure": "Energy Share",
+    "value": 93.7128
+  },
+  {
+    "decade": 1960,
+    "Type": "Gas",
+    "Measure": "Consumption",
+    "value": 7484.8824
+  },
+  {
+    "decade": 1960,
+    "Type": "Gas",
+    "Measure": "Consumption Change",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Gas",
+    "Measure": "Consumption Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Gas",
+    "Measure": "Consumption per capita",
+    "value": 2144.8416
+  },
+  {
+    "decade": 1960,
+    "Type": "Gas",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Gas",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Gas",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Gas",
+    "Measure": "Energy Share",
+    "value": 15.551
+  },
+  {
+    "decade": 1960,
+    "Type": "Gas",
+    "Measure": "Production",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Gas",
+    "Measure": "Production Change",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Gas",
+    "Measure": "Production Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Gas",
+    "Measure": "Production per capita",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Hydro",
+    "Measure": "Consumption",
+    "value": 2829.8856
+  },
+  {
+    "decade": 1960,
+    "Type": "Hydro",
+    "Measure": "Consumption Change",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Hydro",
+    "Measure": "Consumption Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Hydro",
+    "Measure": "Consumption per capita",
+    "value": 812.1562
+  },
+  {
+    "decade": 1960,
+    "Type": "Hydro",
+    "Measure": "Electricity Generation",
+    "value": 1018.758
+  },
+  {
+    "decade": 1960,
+    "Type": "Hydro",
+    "Measure": "Electricity per capita",
+    "value": 292.376
+  },
+  {
+    "decade": 1960,
+    "Type": "Hydro",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Hydro",
+    "Measure": "Energy Share",
+    "value": 5.9024
+  },
+  {
+    "decade": 1960,
+    "Type": "LowCarbon",
+    "Measure": "Consumption",
+    "value": 3006.5696
+  },
+  {
+    "decade": 1960,
+    "Type": "LowCarbon",
+    "Measure": "Consumption Change",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "LowCarbon",
+    "Measure": "Consumption Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "LowCarbon",
+    "Measure": "Consumption per capita",
+    "value": 862.6218
+  },
+  {
+    "decade": 1960,
+    "Type": "LowCarbon",
+    "Measure": "Electricity Generation",
+    "value": 1082.3642
+  },
+  {
+    "decade": 1960,
+    "Type": "LowCarbon",
+    "Measure": "Electricity per capita",
+    "value": 310.5438
+  },
+  {
+    "decade": 1960,
+    "Type": "LowCarbon",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "LowCarbon",
+    "Measure": "Energy Share",
+    "value": 6.2664
+  },
+  {
+    "decade": 1960,
+    "Type": "Nuclear",
+    "Measure": "Consumption",
+    "value": 119.3756
+  },
+  {
+    "decade": 1960,
+    "Type": "Nuclear",
+    "Measure": "Consumption Change",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Nuclear",
+    "Measure": "Consumption Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Nuclear",
+    "Measure": "Consumption per capita",
+    "value": 34.0292
+  },
+  {
+    "decade": 1960,
+    "Type": "Nuclear",
+    "Measure": "Electricity Generation",
+    "value": 42.975
+  },
+  {
+    "decade": 1960,
+    "Type": "Nuclear",
+    "Measure": "Electricity per capita",
+    "value": 12.2506
+  },
+  {
+    "decade": 1960,
+    "Type": "Nuclear",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Nuclear",
+    "Measure": "Energy Share",
+    "value": 0.2446
+  },
+  {
+    "decade": 1960,
+    "Type": "Oil",
+    "Measure": "Consumption",
+    "value": 21149.608
+  },
+  {
+    "decade": 1960,
+    "Type": "Oil",
+    "Measure": "Consumption Change",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Oil",
+    "Measure": "Consumption Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Oil",
+    "Measure": "Consumption per capita",
+    "value": 6062.3298
+  },
+  {
+    "decade": 1960,
+    "Type": "Oil",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Oil",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Oil",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Oil",
+    "Measure": "Energy Share",
+    "value": 43.9754
+  },
+  {
+    "decade": 1960,
+    "Type": "Oil",
+    "Measure": "Production",
+    "value": 21440.484
+  },
+  {
+    "decade": 1960,
+    "Type": "Oil",
+    "Measure": "Production Change",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Oil",
+    "Measure": "Production Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Oil",
+    "Measure": "Production per capita",
+    "value": 6145.1956
+  },
+  {
+    "decade": 1960,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption",
+    "value": 57.309
+  },
+  {
+    "decade": 1960,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption Change",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption per capita",
+    "value": 16.4366
+  },
+  {
+    "decade": 1960,
+    "Type": "OtherRenewables",
+    "Measure": "Electricity Generation",
+    "value": 20.6312
+  },
+  {
+    "decade": 1960,
+    "Type": "OtherRenewables",
+    "Measure": "Electricity per capita",
+    "value": 5.917
+  },
+  {
+    "decade": 1960,
+    "Type": "OtherRenewables",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "OtherRenewables",
+    "Measure": "Energy Share",
+    "value": 0.1194
+  },
+  {
+    "decade": 1960,
+    "Type": "Renewables",
+    "Measure": "Consumption",
+    "value": 2887.1942
+  },
+  {
+    "decade": 1960,
+    "Type": "Renewables",
+    "Measure": "Consumption Change",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Renewables",
+    "Measure": "Consumption Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Renewables",
+    "Measure": "Consumption per capita",
+    "value": 828.5928
+  },
+  {
+    "decade": 1960,
+    "Type": "Renewables",
+    "Measure": "Electricity Generation",
+    "value": 1039.389
+  },
+  {
+    "decade": 1960,
+    "Type": "Renewables",
+    "Measure": "Electricity per capita",
+    "value": 298.293
+  },
+  {
+    "decade": 1960,
+    "Type": "Renewables",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Renewables",
+    "Measure": "Energy Share",
+    "value": 6.0216
+  },
+  {
+    "decade": 1960,
+    "Type": "Solar",
+    "Measure": "Consumption",
+    "value": 0
+  },
+  {
+    "decade": 1960,
+    "Type": "Solar",
+    "Measure": "Consumption Change",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Solar",
+    "Measure": "Consumption Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Solar",
+    "Measure": "Consumption per capita",
+    "value": 0
+  },
+  {
+    "decade": 1960,
+    "Type": "Solar",
+    "Measure": "Electricity Generation",
+    "value": 0
+  },
+  {
+    "decade": 1960,
+    "Type": "Solar",
+    "Measure": "Electricity per capita",
+    "value": 0
+  },
+  {
+    "decade": 1960,
+    "Type": "Solar",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Solar",
+    "Measure": "Energy Share",
+    "value": 0
+  },
+  {
+    "decade": 1960,
+    "Type": "Wind",
+    "Measure": "Consumption",
+    "value": 0
+  },
+  {
+    "decade": 1960,
+    "Type": "Wind",
+    "Measure": "Consumption Change",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Wind",
+    "Measure": "Consumption Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Wind",
+    "Measure": "Consumption per capita",
+    "value": 0
+  },
+  {
+    "decade": 1960,
+    "Type": "Wind",
+    "Measure": "Electricity Generation",
+    "value": 0
+  },
+  {
+    "decade": 1960,
+    "Type": "Wind",
+    "Measure": "Electricity per capita",
+    "value": 0
+  },
+  {
+    "decade": 1960,
+    "Type": "Wind",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1960,
+    "Type": "Wind",
+    "Measure": "Energy Share",
+    "value": 0
+  },
+  {
+    "decade": 1970,
+    "Type": "Biofuel",
+    "Measure": "Consumption",
+    "value": 0
+  },
+  {
+    "decade": 1970,
+    "Type": "Biofuel",
+    "Measure": "Consumption Change",
+    "value": 0
+  },
+  {
+    "decade": 1970,
+    "Type": "Biofuel",
+    "Measure": "Consumption Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Biofuel",
+    "Measure": "Consumption per capita",
+    "value": 0
+  },
+  {
+    "decade": 1970,
+    "Type": "Biofuel",
+    "Measure": "Energy Share",
+    "value": 0
+  },
+  {
+    "decade": 1970,
+    "Type": "Coal",
+    "Measure": "Consumption",
+    "value": 18230.4691
+  },
+  {
+    "decade": 1970,
+    "Type": "Coal",
+    "Measure": "Consumption Change",
+    "value": 356.4798
+  },
+  {
+    "decade": 1970,
+    "Type": "Coal",
+    "Measure": "Consumption Growth",
+    "value": 1.9547
+  },
+  {
+    "decade": 1970,
+    "Type": "Coal",
+    "Measure": "Consumption per capita",
+    "value": 4510.6406
+  },
+  {
+    "decade": 1970,
+    "Type": "Coal",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Coal",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Coal",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Coal",
+    "Measure": "Energy Share",
+    "value": 27.1089
+  },
+  {
+    "decade": 1970,
+    "Type": "Coal",
+    "Measure": "Production",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Coal",
+    "Measure": "Production Change",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Coal",
+    "Measure": "Production Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Coal",
+    "Measure": "Production per capita",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Fossil",
+    "Measure": "Consumption",
+    "value": 62525.024
+  },
+  {
+    "decade": 1970,
+    "Type": "Fossil",
+    "Measure": "Consumption Change",
+    "value": 2129.8467
+  },
+  {
+    "decade": 1970,
+    "Type": "Fossil",
+    "Measure": "Consumption Growth",
+    "value": 3.6225
+  },
+  {
+    "decade": 1970,
+    "Type": "Fossil",
+    "Measure": "Consumption per capita",
+    "value": 15445.403
+  },
+  {
+    "decade": 1970,
+    "Type": "Fossil",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Fossil",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Fossil",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Fossil",
+    "Measure": "Energy Share",
+    "value": 92.6874
+  },
+  {
+    "decade": 1970,
+    "Type": "Gas",
+    "Measure": "Consumption",
+    "value": 11799.3459
+  },
+  {
+    "decade": 1970,
+    "Type": "Gas",
+    "Measure": "Consumption Change",
+    "value": 528.6457
+  },
+  {
+    "decade": 1970,
+    "Type": "Gas",
+    "Measure": "Consumption Growth",
+    "value": 4.829
+  },
+  {
+    "decade": 1970,
+    "Type": "Gas",
+    "Measure": "Consumption per capita",
+    "value": 2911.321
+  },
+  {
+    "decade": 1970,
+    "Type": "Gas",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Gas",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Gas",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Gas",
+    "Measure": "Energy Share",
+    "value": 17.4548
+  },
+  {
+    "decade": 1970,
+    "Type": "Gas",
+    "Measure": "Production",
+    "value": 11844.9749
+  },
+  {
+    "decade": 1970,
+    "Type": "Gas",
+    "Measure": "Production Change",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Gas",
+    "Measure": "Production Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Gas",
+    "Measure": "Production per capita",
+    "value": 2923.6054
+  },
+  {
+    "decade": 1970,
+    "Type": "Hydro",
+    "Measure": "Consumption",
+    "value": 3920.5285
+  },
+  {
+    "decade": 1970,
+    "Type": "Hydro",
+    "Measure": "Consumption Change",
+    "value": 159.2907
+  },
+  {
+    "decade": 1970,
+    "Type": "Hydro",
+    "Measure": "Consumption Growth",
+    "value": 4.2572
+  },
+  {
+    "decade": 1970,
+    "Type": "Hydro",
+    "Measure": "Consumption per capita",
+    "value": 967.3326
+  },
+  {
+    "decade": 1970,
+    "Type": "Hydro",
+    "Measure": "Electricity Generation",
+    "value": 1411.3891
+  },
+  {
+    "decade": 1970,
+    "Type": "Hydro",
+    "Measure": "Electricity per capita",
+    "value": 348.2395
+  },
+  {
+    "decade": 1970,
+    "Type": "Hydro",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Hydro",
+    "Measure": "Energy Share",
+    "value": 5.801
+  },
+  {
+    "decade": 1970,
+    "Type": "LowCarbon",
+    "Measure": "Consumption",
+    "value": 4970.8413
+  },
+  {
+    "decade": 1970,
+    "Type": "LowCarbon",
+    "Measure": "Consumption Change",
+    "value": 329.2892
+  },
+  {
+    "decade": 1970,
+    "Type": "LowCarbon",
+    "Measure": "Consumption Growth",
+    "value": 7.113
+  },
+  {
+    "decade": 1970,
+    "Type": "LowCarbon",
+    "Measure": "Consumption per capita",
+    "value": 1220.397
+  },
+  {
+    "decade": 1970,
+    "Type": "LowCarbon",
+    "Measure": "Electricity Generation",
+    "value": 1789.5014
+  },
+  {
+    "decade": 1970,
+    "Type": "LowCarbon",
+    "Measure": "Electricity per capita",
+    "value": 439.3426
+  },
+  {
+    "decade": 1970,
+    "Type": "LowCarbon",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "LowCarbon",
+    "Measure": "Energy Share",
+    "value": 7.2904
+  },
+  {
+    "decade": 1970,
+    "Type": "Nuclear",
+    "Measure": "Consumption",
+    "value": 952.4944
+  },
+  {
+    "decade": 1970,
+    "Type": "Nuclear",
+    "Measure": "Consumption Change",
+    "value": 163.6325
+  },
+  {
+    "decade": 1970,
+    "Type": "Nuclear",
+    "Measure": "Consumption Growth",
+    "value": 27.0593
+  },
+  {
+    "decade": 1970,
+    "Type": "Nuclear",
+    "Measure": "Consumption per capita",
+    "value": 229.0203
+  },
+  {
+    "decade": 1970,
+    "Type": "Nuclear",
+    "Measure": "Electricity Generation",
+    "value": 342.8977
+  },
+  {
+    "decade": 1970,
+    "Type": "Nuclear",
+    "Measure": "Electricity per capita",
+    "value": 82.4473
+  },
+  {
+    "decade": 1970,
+    "Type": "Nuclear",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Nuclear",
+    "Measure": "Energy Share",
+    "value": 1.3457
+  },
+  {
+    "decade": 1970,
+    "Type": "Oil",
+    "Measure": "Consumption",
+    "value": 32495.208
+  },
+  {
+    "decade": 1970,
+    "Type": "Oil",
+    "Measure": "Consumption Change",
+    "value": 1244.721
+  },
+  {
+    "decade": 1970,
+    "Type": "Oil",
+    "Measure": "Consumption Growth",
+    "value": 4.2403
+  },
+  {
+    "decade": 1970,
+    "Type": "Oil",
+    "Measure": "Consumption per capita",
+    "value": 8023.4403
+  },
+  {
+    "decade": 1970,
+    "Type": "Oil",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Oil",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Oil",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Oil",
+    "Measure": "Energy Share",
+    "value": 48.1235
+  },
+  {
+    "decade": 1970,
+    "Type": "Oil",
+    "Measure": "Production",
+    "value": 32951.823
+  },
+  {
+    "decade": 1970,
+    "Type": "Oil",
+    "Measure": "Production Change",
+    "value": 1269.2072
+  },
+  {
+    "decade": 1970,
+    "Type": "Oil",
+    "Measure": "Production Growth",
+    "value": 4.3003
+  },
+  {
+    "decade": 1970,
+    "Type": "Oil",
+    "Measure": "Production per capita",
+    "value": 8138.866
+  },
+  {
+    "decade": 1970,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption",
+    "value": 97.8159
+  },
+  {
+    "decade": 1970,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption Change",
+    "value": 6.3643
+  },
+  {
+    "decade": 1970,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption Growth",
+    "value": 7.13
+  },
+  {
+    "decade": 1970,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption per capita",
+    "value": 24.0435
+  },
+  {
+    "decade": 1970,
+    "Type": "OtherRenewables",
+    "Measure": "Electricity Generation",
+    "value": 35.2137
+  },
+  {
+    "decade": 1970,
+    "Type": "OtherRenewables",
+    "Measure": "Electricity per capita",
+    "value": 8.6557
+  },
+  {
+    "decade": 1970,
+    "Type": "OtherRenewables",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "OtherRenewables",
+    "Measure": "Energy Share",
+    "value": 0.1437
+  },
+  {
+    "decade": 1970,
+    "Type": "Renewables",
+    "Measure": "Consumption",
+    "value": 4018.3468
+  },
+  {
+    "decade": 1970,
+    "Type": "Renewables",
+    "Measure": "Consumption Change",
+    "value": 165.6566
+  },
+  {
+    "decade": 1970,
+    "Type": "Renewables",
+    "Measure": "Consumption Growth",
+    "value": 4.3213
+  },
+  {
+    "decade": 1970,
+    "Type": "Renewables",
+    "Measure": "Consumption per capita",
+    "value": 991.3766
+  },
+  {
+    "decade": 1970,
+    "Type": "Renewables",
+    "Measure": "Electricity Generation",
+    "value": 1446.6036
+  },
+  {
+    "decade": 1970,
+    "Type": "Renewables",
+    "Measure": "Electricity per capita",
+    "value": 356.8954
+  },
+  {
+    "decade": 1970,
+    "Type": "Renewables",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Renewables",
+    "Measure": "Energy Share",
+    "value": 5.9447
+  },
+  {
+    "decade": 1970,
+    "Type": "Solar",
+    "Measure": "Consumption",
+    "value": 0
+  },
+  {
+    "decade": 1970,
+    "Type": "Solar",
+    "Measure": "Consumption Change",
+    "value": 0
+  },
+  {
+    "decade": 1970,
+    "Type": "Solar",
+    "Measure": "Consumption Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Solar",
+    "Measure": "Consumption per capita",
+    "value": 0
+  },
+  {
+    "decade": 1970,
+    "Type": "Solar",
+    "Measure": "Electricity Generation",
+    "value": 0
+  },
+  {
+    "decade": 1970,
+    "Type": "Solar",
+    "Measure": "Electricity per capita",
+    "value": 0
+  },
+  {
+    "decade": 1970,
+    "Type": "Solar",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Solar",
+    "Measure": "Energy Share",
+    "value": 0
+  },
+  {
+    "decade": 1970,
+    "Type": "Wind",
+    "Measure": "Consumption",
+    "value": 0.0025
+  },
+  {
+    "decade": 1970,
+    "Type": "Wind",
+    "Measure": "Consumption Change",
+    "value": 0.0016
+  },
+  {
+    "decade": 1970,
+    "Type": "Wind",
+    "Measure": "Consumption Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Wind",
+    "Measure": "Consumption per capita",
+    "value": 0.0006
+  },
+  {
+    "decade": 1970,
+    "Type": "Wind",
+    "Measure": "Electricity Generation",
+    "value": 0.0009
+  },
+  {
+    "decade": 1970,
+    "Type": "Wind",
+    "Measure": "Electricity per capita",
+    "value": 0.0002
+  },
+  {
+    "decade": 1970,
+    "Type": "Wind",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1970,
+    "Type": "Wind",
+    "Measure": "Energy Share",
+    "value": 0
+  },
+  {
+    "decade": 1980,
+    "Type": "Biofuel",
+    "Measure": "Consumption",
+    "value": 0
+  },
+  {
+    "decade": 1980,
+    "Type": "Biofuel",
+    "Measure": "Consumption Change",
+    "value": 0
+  },
+  {
+    "decade": 1980,
+    "Type": "Biofuel",
+    "Measure": "Consumption Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Biofuel",
+    "Measure": "Consumption per capita",
+    "value": 0
+  },
+  {
+    "decade": 1980,
+    "Type": "Biofuel",
+    "Measure": "Energy Share",
+    "value": 0
+  },
+  {
+    "decade": 1980,
+    "Type": "Coal",
+    "Measure": "Consumption",
+    "value": 23406.6939
+  },
+  {
+    "decade": 1980,
+    "Type": "Coal",
+    "Measure": "Consumption Change",
+    "value": 584.9928
+  },
+  {
+    "decade": 1980,
+    "Type": "Coal",
+    "Measure": "Consumption Growth",
+    "value": 2.5654
+  },
+  {
+    "decade": 1980,
+    "Type": "Coal",
+    "Measure": "Consumption per capita",
+    "value": 4832.4981
+  },
+  {
+    "decade": 1980,
+    "Type": "Coal",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Coal",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Coal",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Coal",
+    "Measure": "Energy Share",
+    "value": 27.9752
+  },
+  {
+    "decade": 1980,
+    "Type": "Coal",
+    "Measure": "Production",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Coal",
+    "Measure": "Production Change",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Coal",
+    "Measure": "Production Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Coal",
+    "Measure": "Production per capita",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Fossil",
+    "Measure": "Consumption",
+    "value": 74256.567
+  },
+  {
+    "decade": 1980,
+    "Type": "Fossil",
+    "Measure": "Consumption Change",
+    "value": 1087.6352
+  },
+  {
+    "decade": 1980,
+    "Type": "Fossil",
+    "Measure": "Consumption Growth",
+    "value": 1.4443
+  },
+  {
+    "decade": 1980,
+    "Type": "Fossil",
+    "Measure": "Consumption per capita",
+    "value": 15349.545
+  },
+  {
+    "decade": 1980,
+    "Type": "Fossil",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Fossil",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Fossil",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Fossil",
+    "Measure": "Energy Share",
+    "value": 88.8758
+  },
+  {
+    "decade": 1980,
+    "Type": "Gas",
+    "Measure": "Consumption",
+    "value": 16062.585
+  },
+  {
+    "decade": 1980,
+    "Type": "Gas",
+    "Measure": "Consumption Change",
+    "value": 475.0667
+  },
+  {
+    "decade": 1980,
+    "Type": "Gas",
+    "Measure": "Consumption Growth",
+    "value": 2.9702
+  },
+  {
+    "decade": 1980,
+    "Type": "Gas",
+    "Measure": "Consumption per capita",
+    "value": 3313.9552
+  },
+  {
+    "decade": 1980,
+    "Type": "Gas",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Gas",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Gas",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Gas",
+    "Measure": "Energy Share",
+    "value": 19.1764
+  },
+  {
+    "decade": 1980,
+    "Type": "Gas",
+    "Measure": "Production",
+    "value": 16262.41
+  },
+  {
+    "decade": 1980,
+    "Type": "Gas",
+    "Measure": "Production Change",
+    "value": 498.6509
+  },
+  {
+    "decade": 1980,
+    "Type": "Gas",
+    "Measure": "Production Growth",
+    "value": 3.0997
+  },
+  {
+    "decade": 1980,
+    "Type": "Gas",
+    "Measure": "Production per capita",
+    "value": 3354.2854
+  },
+  {
+    "decade": 1980,
+    "Type": "Hydro",
+    "Measure": "Consumption",
+    "value": 5368.6029
+  },
+  {
+    "decade": 1980,
+    "Type": "Hydro",
+    "Measure": "Consumption Change",
+    "value": 108.995
+  },
+  {
+    "decade": 1980,
+    "Type": "Hydro",
+    "Measure": "Consumption Growth",
+    "value": 2.1116
+  },
+  {
+    "decade": 1980,
+    "Type": "Hydro",
+    "Measure": "Consumption per capita",
+    "value": 1109.3474
+  },
+  {
+    "decade": 1980,
+    "Type": "Hydro",
+    "Measure": "Electricity Generation",
+    "value": 1932.6955
+  },
+  {
+    "decade": 1980,
+    "Type": "Hydro",
+    "Measure": "Electricity per capita",
+    "value": 399.3648
+  },
+  {
+    "decade": 1980,
+    "Type": "Hydro",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Hydro",
+    "Measure": "Energy Share",
+    "value": 6.4251
+  },
+  {
+    "decade": 1980,
+    "Type": "LowCarbon",
+    "Measure": "Consumption",
+    "value": 9305.6286
+  },
+  {
+    "decade": 1980,
+    "Type": "LowCarbon",
+    "Measure": "Consumption Change",
+    "value": 485.4496
+  },
+  {
+    "decade": 1980,
+    "Type": "LowCarbon",
+    "Measure": "Consumption Growth",
+    "value": 5.6639
+  },
+  {
+    "decade": 1980,
+    "Type": "LowCarbon",
+    "Measure": "Consumption per capita",
+    "value": 1912.4024
+  },
+  {
+    "decade": 1980,
+    "Type": "LowCarbon",
+    "Measure": "Electricity Generation",
+    "value": 3350.0238
+  },
+  {
+    "decade": 1980,
+    "Type": "LowCarbon",
+    "Measure": "Electricity per capita",
+    "value": 688.4643
+  },
+  {
+    "decade": 1980,
+    "Type": "LowCarbon",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "LowCarbon",
+    "Measure": "Energy Share",
+    "value": 11.0542
+  },
+  {
+    "decade": 1980,
+    "Type": "Nuclear",
+    "Measure": "Consumption",
+    "value": 3724.4153
+  },
+  {
+    "decade": 1980,
+    "Type": "Nuclear",
+    "Measure": "Consumption Change",
+    "value": 359.4866
+  },
+  {
+    "decade": 1980,
+    "Type": "Nuclear",
+    "Measure": "Consumption Growth",
+    "value": 11.7094
+  },
+  {
+    "decade": 1980,
+    "Type": "Nuclear",
+    "Measure": "Consumption per capita",
+    "value": 759.5019
+  },
+  {
+    "decade": 1980,
+    "Type": "Nuclear",
+    "Measure": "Electricity Generation",
+    "value": 1340.7885
+  },
+  {
+    "decade": 1980,
+    "Type": "Nuclear",
+    "Measure": "Electricity per capita",
+    "value": 273.4205
+  },
+  {
+    "decade": 1980,
+    "Type": "Nuclear",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Nuclear",
+    "Measure": "Energy Share",
+    "value": 4.3775
+  },
+  {
+    "decade": 1980,
+    "Type": "Oil",
+    "Measure": "Consumption",
+    "value": 34787.288
+  },
+  {
+    "decade": 1980,
+    "Type": "Oil",
+    "Measure": "Consumption Change",
+    "value": 27.5756
+  },
+  {
+    "decade": 1980,
+    "Type": "Oil",
+    "Measure": "Consumption Growth",
+    "value": 0.1102
+  },
+  {
+    "decade": 1980,
+    "Type": "Oil",
+    "Measure": "Consumption per capita",
+    "value": 7203.0932
+  },
+  {
+    "decade": 1980,
+    "Type": "Oil",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Oil",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Oil",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Oil",
+    "Measure": "Energy Share",
+    "value": 41.7241
+  },
+  {
+    "decade": 1980,
+    "Type": "Oil",
+    "Measure": "Production",
+    "value": 33901.697
+  },
+  {
+    "decade": 1980,
+    "Type": "Oil",
+    "Measure": "Production Change",
+    "value": -161.2927
+  },
+  {
+    "decade": 1980,
+    "Type": "Oil",
+    "Measure": "Production Growth",
+    "value": -0.3782
+  },
+  {
+    "decade": 1980,
+    "Type": "Oil",
+    "Measure": "Production per capita",
+    "value": 7023.791
+  },
+  {
+    "decade": 1980,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption",
+    "value": 211.5506
+  },
+  {
+    "decade": 1980,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption Change",
+    "value": 16.1607
+  },
+  {
+    "decade": 1980,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption Growth",
+    "value": 8.5634
+  },
+  {
+    "decade": 1980,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption per capita",
+    "value": 43.3482
+  },
+  {
+    "decade": 1980,
+    "Type": "OtherRenewables",
+    "Measure": "Electricity Generation",
+    "value": 76.1581
+  },
+  {
+    "decade": 1980,
+    "Type": "OtherRenewables",
+    "Measure": "Electricity per capita",
+    "value": 15.6054
+  },
+  {
+    "decade": 1980,
+    "Type": "OtherRenewables",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "OtherRenewables",
+    "Measure": "Energy Share",
+    "value": 0.2503
+  },
+  {
+    "decade": 1980,
+    "Type": "Renewables",
+    "Measure": "Consumption",
+    "value": 5581.2133
+  },
+  {
+    "decade": 1980,
+    "Type": "Renewables",
+    "Measure": "Consumption Change",
+    "value": 125.9631
+  },
+  {
+    "decade": 1980,
+    "Type": "Renewables",
+    "Measure": "Consumption Growth",
+    "value": 2.3479
+  },
+  {
+    "decade": 1980,
+    "Type": "Renewables",
+    "Measure": "Consumption per capita",
+    "value": 1152.9005
+  },
+  {
+    "decade": 1980,
+    "Type": "Renewables",
+    "Measure": "Electricity Generation",
+    "value": 2009.2351
+  },
+  {
+    "decade": 1980,
+    "Type": "Renewables",
+    "Measure": "Electricity per capita",
+    "value": 415.0439
+  },
+  {
+    "decade": 1980,
+    "Type": "Renewables",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Renewables",
+    "Measure": "Energy Share",
+    "value": 6.6766
+  },
+  {
+    "decade": 1980,
+    "Type": "Solar",
+    "Measure": "Consumption",
+    "value": 0.0886
+  },
+  {
+    "decade": 1980,
+    "Type": "Solar",
+    "Measure": "Consumption Change",
+    "value": 0.0728
+  },
+  {
+    "decade": 1980,
+    "Type": "Solar",
+    "Measure": "Consumption Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Solar",
+    "Measure": "Consumption per capita",
+    "value": 0.0173
+  },
+  {
+    "decade": 1980,
+    "Type": "Solar",
+    "Measure": "Electricity Generation",
+    "value": 0.0319
+  },
+  {
+    "decade": 1980,
+    "Type": "Solar",
+    "Measure": "Electricity per capita",
+    "value": 0.0061
+  },
+  {
+    "decade": 1980,
+    "Type": "Solar",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Solar",
+    "Measure": "Energy Share",
+    "value": 0.0001
+  },
+  {
+    "decade": 1980,
+    "Type": "Wind",
+    "Measure": "Consumption",
+    "value": 0.9712
+  },
+  {
+    "decade": 1980,
+    "Type": "Wind",
+    "Measure": "Consumption Change",
+    "value": 0.7343
+  },
+  {
+    "decade": 1980,
+    "Type": "Wind",
+    "Measure": "Consumption Growth",
+    "value": 123.4182
+  },
+  {
+    "decade": 1980,
+    "Type": "Wind",
+    "Measure": "Consumption per capita",
+    "value": 0.1875
+  },
+  {
+    "decade": 1980,
+    "Type": "Wind",
+    "Measure": "Electricity Generation",
+    "value": 0.3496
+  },
+  {
+    "decade": 1980,
+    "Type": "Wind",
+    "Measure": "Electricity per capita",
+    "value": 0.0674
+  },
+  {
+    "decade": 1980,
+    "Type": "Wind",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "decade": 1980,
+    "Type": "Wind",
+    "Measure": "Energy Share",
+    "value": 0.001
+  },
+  {
+    "decade": 1990,
+    "Type": "Biofuel",
+    "Measure": "Consumption",
+    "value": 117.9962
+  },
+  {
+    "decade": 1990,
+    "Type": "Biofuel",
+    "Measure": "Consumption Change",
+    "value": 12.9305
+  },
+  {
+    "decade": 1990,
+    "Type": "Biofuel",
+    "Measure": "Consumption Growth",
+    "value": "NA"
+  },
+  {
+    "decade": 1990,
+    "Type": "Biofuel",
+    "Measure": "Consumption per capita",
+    "value": 20.6691
+  },
+  {
+    "decade": 1990,
+    "Type": "Biofuel",
+    "Measure": "Energy Share",
+    "value": 0.1175
+  },
+  {
+    "decade": 1990,
+    "Type": "Coal",
+    "Measure": "Consumption",
+    "value": 26047.1255
+  },
+  {
+    "decade": 1990,
+    "Type": "Coal",
+    "Measure": "Consumption Change",
+    "value": 30.8439
+  },
+  {
+    "decade": 1990,
+    "Type": "Coal",
+    "Measure": "Consumption Growth",
+    "value": 0.1217
+  },
+  {
+    "decade": 1990,
+    "Type": "Coal",
+    "Measure": "Consumption per capita",
+    "value": 4574.4751
+  },
+  {
+    "decade": 1990,
+    "Type": "Coal",
+    "Measure": "Electricity Generation",
+    "value": 5013.7542
+  },
+  {
+    "decade": 1990,
+    "Type": "Coal",
+    "Measure": "Electricity per capita",
+    "value": 878.1214
+  },
+  {
+    "decade": 1990,
+    "Type": "Coal",
+    "Measure": "Electricity Share",
+    "value": 37.7613
+  },
+  {
+    "decade": 1990,
+    "Type": "Coal",
+    "Measure": "Energy Share",
+    "value": 26.004
+  },
+  {
+    "decade": 1990,
+    "Type": "Coal",
+    "Measure": "Production",
+    "value": 26001.2097
+  },
+  {
+    "decade": 1990,
+    "Type": "Coal",
+    "Measure": "Production Change",
+    "value": 1.42659999999999
+  },
+  {
+    "decade": 1990,
+    "Type": "Coal",
+    "Measure": "Production Growth",
+    "value": 0.0247
+  },
+  {
+    "decade": 1990,
+    "Type": "Coal",
+    "Measure": "Production per capita",
+    "value": 4566.4391
+  },
+  {
+    "decade": 1990,
+    "Type": "Fossil",
+    "Measure": "Consumption",
+    "value": 86747.627
+  },
+  {
+    "decade": 1990,
+    "Type": "Fossil",
+    "Measure": "Consumption Change",
+    "value": 958.5402
+  },
+  {
+    "decade": 1990,
+    "Type": "Fossil",
+    "Measure": "Consumption Growth",
+    "value": 1.1099
+  },
+  {
+    "decade": 1990,
+    "Type": "Fossil",
+    "Measure": "Consumption per capita",
+    "value": 15220.428
+  },
+  {
+    "decade": 1990,
+    "Type": "Fossil",
+    "Measure": "Electricity Generation",
+    "value": 8360.7221
+  },
+  {
+    "decade": 1990,
+    "Type": "Fossil",
+    "Measure": "Electricity per capita",
+    "value": 1464.679
+  },
+  {
+    "decade": 1990,
+    "Type": "Fossil",
+    "Measure": "Electricity Share",
+    "value": 62.9929
+  },
+  {
+    "decade": 1990,
+    "Type": "Fossil",
+    "Measure": "Energy Share",
+    "value": 86.5238
+  },
+  {
+    "decade": 1990,
+    "Type": "Gas",
+    "Measure": "Consumption",
+    "value": 21101.003
+  },
+  {
+    "decade": 1990,
+    "Type": "Gas",
+    "Measure": "Consumption Change",
+    "value": 420.5428
+  },
+  {
+    "decade": 1990,
+    "Type": "Gas",
+    "Measure": "Consumption Growth",
+    "value": 2.0448
+  },
+  {
+    "decade": 1990,
+    "Type": "Gas",
+    "Measure": "Consumption per capita",
+    "value": 3699.4293
+  },
+  {
+    "decade": 1990,
+    "Type": "Gas",
+    "Measure": "Electricity Generation",
+    "value": 2055.0757
+  },
+  {
+    "decade": 1990,
+    "Type": "Gas",
+    "Measure": "Electricity per capita",
+    "value": 359.3259
+  },
+  {
+    "decade": 1990,
+    "Type": "Gas",
+    "Measure": "Electricity Share",
+    "value": 15.4288
+  },
+  {
+    "decade": 1990,
+    "Type": "Gas",
+    "Measure": "Energy Share",
+    "value": 21.0302
+  },
+  {
+    "decade": 1990,
+    "Type": "Gas",
+    "Measure": "Production",
+    "value": 21069.964
+  },
+  {
+    "decade": 1990,
+    "Type": "Gas",
+    "Measure": "Production Change",
+    "value": 401.437
+  },
+  {
+    "decade": 1990,
+    "Type": "Gas",
+    "Measure": "Production Growth",
+    "value": 1.9368
+  },
+  {
+    "decade": 1990,
+    "Type": "Gas",
+    "Measure": "Production per capita",
+    "value": 3694.4137
+  },
+  {
+    "decade": 1990,
+    "Type": "Hydro",
+    "Measure": "Consumption",
+    "value": 6677.8954
+  },
+  {
+    "decade": 1990,
+    "Type": "Hydro",
+    "Measure": "Consumption Change",
+    "value": 143.9183
+  },
+  {
+    "decade": 1990,
+    "Type": "Hydro",
+    "Measure": "Consumption Growth",
+    "value": 2.2604
+  },
+  {
+    "decade": 1990,
+    "Type": "Hydro",
+    "Measure": "Consumption per capita",
+    "value": 1170.174
+  },
+  {
+    "decade": 1990,
+    "Type": "Hydro",
+    "Measure": "Electricity Generation",
+    "value": 2404.0402
+  },
+  {
+    "decade": 1990,
+    "Type": "Hydro",
+    "Measure": "Electricity per capita",
+    "value": 421.2625
+  },
+  {
+    "decade": 1990,
+    "Type": "Hydro",
+    "Measure": "Electricity Share",
+    "value": 18.1234
+  },
+  {
+    "decade": 1990,
+    "Type": "Hydro",
+    "Measure": "Energy Share",
+    "value": 6.6527
+  },
+  {
+    "decade": 1990,
+    "Type": "LowCarbon",
+    "Measure": "Consumption",
+    "value": 13530.016
+  },
+  {
+    "decade": 1990,
+    "Type": "LowCarbon",
+    "Measure": "Consumption Change",
+    "value": 343.4092
+  },
+  {
+    "decade": 1990,
+    "Type": "LowCarbon",
+    "Measure": "Consumption Growth",
+    "value": 2.6589
+  },
+  {
+    "decade": 1990,
+    "Type": "LowCarbon",
+    "Measure": "Consumption per capita",
+    "value": 2370.3896
+  },
+  {
+    "decade": 1990,
+    "Type": "LowCarbon",
+    "Measure": "Electricity Generation",
+    "value": 4828.3226
+  },
+  {
+    "decade": 1990,
+    "Type": "LowCarbon",
+    "Measure": "Electricity per capita",
+    "value": 845.8988
+  },
+  {
+    "decade": 1990,
+    "Type": "LowCarbon",
+    "Measure": "Electricity Share",
+    "value": 36.3864
+  },
+  {
+    "decade": 1990,
+    "Type": "LowCarbon",
+    "Measure": "Energy Share",
+    "value": 13.4762
+  },
+  {
+    "decade": 1990,
+    "Type": "Nuclear",
+    "Measure": "Consumption",
+    "value": 6304.0638
+  },
+  {
+    "decade": 1990,
+    "Type": "Nuclear",
+    "Measure": "Consumption Change",
+    "value": 160.9311
+  },
+  {
+    "decade": 1990,
+    "Type": "Nuclear",
+    "Measure": "Consumption Growth",
+    "value": 2.6545
+  },
+  {
+    "decade": 1990,
+    "Type": "Nuclear",
+    "Measure": "Consumption per capita",
+    "value": 1104.4586
+  },
+  {
+    "decade": 1990,
+    "Type": "Nuclear",
+    "Measure": "Electricity Generation",
+    "value": 2269.4611
+  },
+  {
+    "decade": 1990,
+    "Type": "Nuclear",
+    "Measure": "Electricity per capita",
+    "value": 397.6047
+  },
+  {
+    "decade": 1990,
+    "Type": "Nuclear",
+    "Measure": "Electricity Share",
+    "value": 17.1031
+  },
+  {
+    "decade": 1990,
+    "Type": "Nuclear",
+    "Measure": "Energy Share",
+    "value": 6.2791
+  },
+  {
+    "decade": 1990,
+    "Type": "Oil",
+    "Measure": "Consumption",
+    "value": 39599.498
+  },
+  {
+    "decade": 1990,
+    "Type": "Oil",
+    "Measure": "Consumption Change",
+    "value": 507.1534
+  },
+  {
+    "decade": 1990,
+    "Type": "Oil",
+    "Measure": "Consumption Growth",
+    "value": 1.288
+  },
+  {
+    "decade": 1990,
+    "Type": "Oil",
+    "Measure": "Consumption per capita",
+    "value": 6946.524
+  },
+  {
+    "decade": 1990,
+    "Type": "Oil",
+    "Measure": "Electricity Generation",
+    "value": 1291.8921
+  },
+  {
+    "decade": 1990,
+    "Type": "Oil",
+    "Measure": "Electricity per capita",
+    "value": 227.2318
+  },
+  {
+    "decade": 1990,
+    "Type": "Oil",
+    "Measure": "Electricity Share",
+    "value": 9.8028
+  },
+  {
+    "decade": 1990,
+    "Type": "Oil",
+    "Measure": "Energy Share",
+    "value": 39.4893
+  },
+  {
+    "decade": 1990,
+    "Type": "Oil",
+    "Measure": "Production",
+    "value": 38306.795
+  },
+  {
+    "decade": 1990,
+    "Type": "Oil",
+    "Measure": "Production Change",
+    "value": 406.2411
+  },
+  {
+    "decade": 1990,
+    "Type": "Oil",
+    "Measure": "Production Growth",
+    "value": 1.0861
+  },
+  {
+    "decade": 1990,
+    "Type": "Oil",
+    "Measure": "Production per capita",
+    "value": 6720.6474
+  },
+  {
+    "decade": 1990,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption",
+    "value": 402.7631
+  },
+  {
+    "decade": 1990,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption Change",
+    "value": 20.2904
+  },
+  {
+    "decade": 1990,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption Growth",
+    "value": 5.4811
+  },
+  {
+    "decade": 1990,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption per capita",
+    "value": 70.3947
+  },
+  {
+    "decade": 1990,
+    "Type": "OtherRenewables",
+    "Measure": "Electricity Generation",
+    "value": 144.9947
+  },
+  {
+    "decade": 1990,
+    "Type": "OtherRenewables",
+    "Measure": "Electricity per capita",
+    "value": 25.342
+  },
+  {
+    "decade": 1990,
+    "Type": "OtherRenewables",
+    "Measure": "Electricity Share",
+    "value": 1.088
+  },
+  {
+    "decade": 1990,
+    "Type": "OtherRenewables",
+    "Measure": "Energy Share",
+    "value": 0.4003
+  },
+  {
+    "decade": 1990,
+    "Type": "Renewables",
+    "Measure": "Consumption",
+    "value": 7225.9501
+  },
+  {
+    "decade": 1990,
+    "Type": "Renewables",
+    "Measure": "Consumption Change",
+    "value": 182.4781
+  },
+  {
+    "decade": 1990,
+    "Type": "Renewables",
+    "Measure": "Consumption Growth",
+    "value": 2.6723
+  },
+  {
+    "decade": 1990,
+    "Type": "Renewables",
+    "Measure": "Consumption per capita",
+    "value": 1265.9312
+  },
+  {
+    "decade": 1990,
+    "Type": "Renewables",
+    "Measure": "Electricity Generation",
+    "value": 2558.8613
+  },
+  {
+    "decade": 1990,
+    "Type": "Renewables",
+    "Measure": "Electricity per capita",
+    "value": 448.294
+  },
+  {
+    "decade": 1990,
+    "Type": "Renewables",
+    "Measure": "Electricity Share",
+    "value": 19.2833
+  },
+  {
+    "decade": 1990,
+    "Type": "Renewables",
+    "Measure": "Energy Share",
+    "value": 7.1972
+  },
+  {
+    "decade": 1990,
+    "Type": "Solar",
+    "Measure": "Consumption",
+    "value": 1.7694
+  },
+  {
+    "decade": 1990,
+    "Type": "Solar",
+    "Measure": "Consumption Change",
+    "value": 0.1816
+  },
+  {
+    "decade": 1990,
+    "Type": "Solar",
+    "Measure": "Consumption Growth",
+    "value": 14.1745
+  },
+  {
+    "decade": 1990,
+    "Type": "Solar",
+    "Measure": "Consumption per capita",
+    "value": 0.3077
+  },
+  {
+    "decade": 1990,
+    "Type": "Solar",
+    "Measure": "Electricity Generation",
+    "value": 0.637
+  },
+  {
+    "decade": 1990,
+    "Type": "Solar",
+    "Measure": "Electricity per capita",
+    "value": 0.1108
+  },
+  {
+    "decade": 1990,
+    "Type": "Solar",
+    "Measure": "Electricity Share",
+    "value": 0.0047
+  },
+  {
+    "decade": 1990,
+    "Type": "Solar",
+    "Measure": "Energy Share",
+    "value": 0.0017
+  },
+  {
+    "decade": 1990,
+    "Type": "Wind",
+    "Measure": "Consumption",
+    "value": 25.5264
+  },
+  {
+    "decade": 1990,
+    "Type": "Wind",
+    "Measure": "Consumption Change",
+    "value": 5.1574
+  },
+  {
+    "decade": 1990,
+    "Type": "Wind",
+    "Measure": "Consumption Growth",
+    "value": 23.4503
+  },
+  {
+    "decade": 1990,
+    "Type": "Wind",
+    "Measure": "Consumption per capita",
+    "value": 4.3856
+  },
+  {
+    "decade": 1990,
+    "Type": "Wind",
+    "Measure": "Electricity Generation",
+    "value": 9.1895
+  },
+  {
+    "decade": 1990,
+    "Type": "Wind",
+    "Measure": "Electricity per capita",
+    "value": 1.5789
+  },
+  {
+    "decade": 1990,
+    "Type": "Wind",
+    "Measure": "Electricity Share",
+    "value": 0.0667
+  },
+  {
+    "decade": 1990,
+    "Type": "Wind",
+    "Measure": "Energy Share",
+    "value": 0.025
+  },
+  {
+    "decade": 2000,
+    "Type": "Biofuel",
+    "Measure": "Consumption",
+    "value": 285.2851
+  },
+  {
+    "decade": 2000,
+    "Type": "Biofuel",
+    "Measure": "Consumption Change",
+    "value": 48.9343
+  },
+  {
+    "decade": 2000,
+    "Type": "Biofuel",
+    "Measure": "Consumption Growth",
+    "value": 17.5568
+  },
+  {
+    "decade": 2000,
+    "Type": "Biofuel",
+    "Measure": "Consumption per capita",
+    "value": 43.0597
+  },
+  {
+    "decade": 2000,
+    "Type": "Biofuel",
+    "Measure": "Energy Share",
+    "value": 0.2228
+  },
+  {
+    "decade": 2000,
+    "Type": "Coal",
+    "Measure": "Consumption",
+    "value": 34475.9507
+  },
+  {
+    "decade": 2000,
+    "Type": "Coal",
+    "Measure": "Consumption Change",
+    "value": 1362.6718
+  },
+  {
+    "decade": 2000,
+    "Type": "Coal",
+    "Measure": "Consumption Growth",
+    "value": 4.2771
+  },
+  {
+    "decade": 2000,
+    "Type": "Coal",
+    "Measure": "Consumption per capita",
+    "value": 5280.0111
+  },
+  {
+    "decade": 2000,
+    "Type": "Coal",
+    "Measure": "Electricity Generation",
+    "value": 7187.9809
+  },
+  {
+    "decade": 2000,
+    "Type": "Coal",
+    "Measure": "Electricity per capita",
+    "value": 1101.9581
+  },
+  {
+    "decade": 2000,
+    "Type": "Coal",
+    "Measure": "Electricity Share",
+    "value": 39.7065
+  },
+  {
+    "decade": 2000,
+    "Type": "Coal",
+    "Measure": "Energy Share",
+    "value": 27.7461
+  },
+  {
+    "decade": 2000,
+    "Type": "Coal",
+    "Measure": "Production",
+    "value": 33607.8777
+  },
+  {
+    "decade": 2000,
+    "Type": "Coal",
+    "Measure": "Production Change",
+    "value": 1328.3158
+  },
+  {
+    "decade": 2000,
+    "Type": "Coal",
+    "Measure": "Production Growth",
+    "value": 4.1923
+  },
+  {
+    "decade": 2000,
+    "Type": "Coal",
+    "Measure": "Production per capita",
+    "value": 5147.6259
+  },
+  {
+    "decade": 2000,
+    "Type": "Fossil",
+    "Measure": "Consumption",
+    "value": 107207.705
+  },
+  {
+    "decade": 2000,
+    "Type": "Fossil",
+    "Measure": "Consumption Change",
+    "value": 2424.3888
+  },
+  {
+    "decade": 2000,
+    "Type": "Fossil",
+    "Measure": "Consumption Growth",
+    "value": 2.3839
+  },
+  {
+    "decade": 2000,
+    "Type": "Fossil",
+    "Measure": "Consumption per capita",
+    "value": 16455.939
+  },
+  {
+    "decade": 2000,
+    "Type": "Fossil",
+    "Measure": "Electricity Generation",
+    "value": 11984.0351
+  },
+  {
+    "decade": 2000,
+    "Type": "Fossil",
+    "Measure": "Electricity per capita",
+    "value": 1837.4386
+  },
+  {
+    "decade": 2000,
+    "Type": "Fossil",
+    "Measure": "Electricity Share",
+    "value": 66.2258
+  },
+  {
+    "decade": 2000,
+    "Type": "Fossil",
+    "Measure": "Energy Share",
+    "value": 86.7254
+  },
+  {
+    "decade": 2000,
+    "Type": "Gas",
+    "Measure": "Consumption",
+    "value": 27026.995
+  },
+  {
+    "decade": 2000,
+    "Type": "Gas",
+    "Measure": "Consumption Change",
+    "value": 633.5049
+  },
+  {
+    "decade": 2000,
+    "Type": "Gas",
+    "Measure": "Consumption Growth",
+    "value": 2.4697
+  },
+  {
+    "decade": 2000,
+    "Type": "Gas",
+    "Measure": "Consumption per capita",
+    "value": 4149.2287
+  },
+  {
+    "decade": 2000,
+    "Type": "Gas",
+    "Measure": "Electricity Generation",
+    "value": 3658.3075
+  },
+  {
+    "decade": 2000,
+    "Type": "Gas",
+    "Measure": "Electricity per capita",
+    "value": 559.932
+  },
+  {
+    "decade": 2000,
+    "Type": "Gas",
+    "Measure": "Electricity Share",
+    "value": 20.121
+  },
+  {
+    "decade": 2000,
+    "Type": "Gas",
+    "Measure": "Energy Share",
+    "value": 21.8745
+  },
+  {
+    "decade": 2000,
+    "Type": "Gas",
+    "Measure": "Production",
+    "value": 27158.577
+  },
+  {
+    "decade": 2000,
+    "Type": "Gas",
+    "Measure": "Production Change",
+    "value": 624.9247
+  },
+  {
+    "decade": 2000,
+    "Type": "Gas",
+    "Measure": "Production Growth",
+    "value": 2.4422
+  },
+  {
+    "decade": 2000,
+    "Type": "Gas",
+    "Measure": "Production per capita",
+    "value": 4169.6389
+  },
+  {
+    "decade": 2000,
+    "Type": "Hydro",
+    "Measure": "Consumption",
+    "value": 7775.6559
+  },
+  {
+    "decade": 2000,
+    "Type": "Hydro",
+    "Measure": "Consumption Change",
+    "value": 129.4797
+  },
+  {
+    "decade": 2000,
+    "Type": "Hydro",
+    "Measure": "Consumption Growth",
+    "value": 1.6969
+  },
+  {
+    "decade": 2000,
+    "Type": "Hydro",
+    "Measure": "Consumption per capita",
+    "value": 1194.2579
+  },
+  {
+    "decade": 2000,
+    "Type": "Hydro",
+    "Measure": "Electricity Generation",
+    "value": 2884.9288
+  },
+  {
+    "decade": 2000,
+    "Type": "Hydro",
+    "Measure": "Electricity per capita",
+    "value": 442.8032
+  },
+  {
+    "decade": 2000,
+    "Type": "Hydro",
+    "Measure": "Electricity Share",
+    "value": 15.9929
+  },
+  {
+    "decade": 2000,
+    "Type": "Hydro",
+    "Measure": "Energy Share",
+    "value": 6.3
+  },
+  {
+    "decade": 2000,
+    "Type": "LowCarbon",
+    "Measure": "Consumption",
+    "value": 16376.69
+  },
+  {
+    "decade": 2000,
+    "Type": "LowCarbon",
+    "Measure": "Consumption Change",
+    "value": 296.8736
+  },
+  {
+    "decade": 2000,
+    "Type": "LowCarbon",
+    "Measure": "Consumption Growth",
+    "value": 1.8485
+  },
+  {
+    "decade": 2000,
+    "Type": "LowCarbon",
+    "Measure": "Consumption per capita",
+    "value": 2515.7243
+  },
+  {
+    "decade": 2000,
+    "Type": "LowCarbon",
+    "Measure": "Electricity Generation",
+    "value": 5968.7539
+  },
+  {
+    "decade": 2000,
+    "Type": "LowCarbon",
+    "Measure": "Electricity per capita",
+    "value": 916.5815
+  },
+  {
+    "decade": 2000,
+    "Type": "LowCarbon",
+    "Measure": "Electricity Share",
+    "value": 33.1337
+  },
+  {
+    "decade": 2000,
+    "Type": "LowCarbon",
+    "Measure": "Energy Share",
+    "value": 13.2746
+  },
+  {
+    "decade": 2000,
+    "Type": "Nuclear",
+    "Measure": "Consumption",
+    "value": 7310.1336
+  },
+  {
+    "decade": 2000,
+    "Type": "Nuclear",
+    "Measure": "Consumption Change",
+    "value": 6.8551
+  },
+  {
+    "decade": 2000,
+    "Type": "Nuclear",
+    "Measure": "Consumption Growth",
+    "value": 0.1197
+  },
+  {
+    "decade": 2000,
+    "Type": "Nuclear",
+    "Measure": "Consumption per capita",
+    "value": 1125.416
+  },
+  {
+    "decade": 2000,
+    "Type": "Nuclear",
+    "Measure": "Electricity Generation",
+    "value": 2708.9176
+  },
+  {
+    "decade": 2000,
+    "Type": "Nuclear",
+    "Measure": "Electricity per capita",
+    "value": 416.7771
+  },
+  {
+    "decade": 2000,
+    "Type": "Nuclear",
+    "Measure": "Electricity Share",
+    "value": 15.1147
+  },
+  {
+    "decade": 2000,
+    "Type": "Nuclear",
+    "Measure": "Energy Share",
+    "value": 5.9533
+  },
+  {
+    "decade": 2000,
+    "Type": "Oil",
+    "Measure": "Consumption",
+    "value": 45704.754
+  },
+  {
+    "decade": 2000,
+    "Type": "Oil",
+    "Measure": "Consumption Change",
+    "value": 428.212
+  },
+  {
+    "decade": 2000,
+    "Type": "Oil",
+    "Measure": "Consumption Growth",
+    "value": 0.9776
+  },
+  {
+    "decade": 2000,
+    "Type": "Oil",
+    "Measure": "Consumption per capita",
+    "value": 7026.6991
+  },
+  {
+    "decade": 2000,
+    "Type": "Oil",
+    "Measure": "Electricity Generation",
+    "value": 1137.7468
+  },
+  {
+    "decade": 2000,
+    "Type": "Oil",
+    "Measure": "Electricity per capita",
+    "value": 175.5486
+  },
+  {
+    "decade": 2000,
+    "Type": "Oil",
+    "Measure": "Electricity Share",
+    "value": 6.3981
+  },
+  {
+    "decade": 2000,
+    "Type": "Oil",
+    "Measure": "Energy Share",
+    "value": 37.1052
+  },
+  {
+    "decade": 2000,
+    "Type": "Oil",
+    "Measure": "Production",
+    "value": 44329.892
+  },
+  {
+    "decade": 2000,
+    "Type": "Oil",
+    "Measure": "Production Change",
+    "value": 529.731
+  },
+  {
+    "decade": 2000,
+    "Type": "Oil",
+    "Measure": "Production Growth",
+    "value": 1.2794
+  },
+  {
+    "decade": 2000,
+    "Type": "Oil",
+    "Measure": "Production per capita",
+    "value": 6814.8457
+  },
+  {
+    "decade": 2000,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption",
+    "value": 676.0789
+  },
+  {
+    "decade": 2000,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption Change",
+    "value": 39.8294
+  },
+  {
+    "decade": 2000,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption Growth",
+    "value": 6.1143
+  },
+  {
+    "decade": 2000,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption per capita",
+    "value": 103.4046
+  },
+  {
+    "decade": 2000,
+    "Type": "OtherRenewables",
+    "Measure": "Electricity Generation",
+    "value": 251.3728
+  },
+  {
+    "decade": 2000,
+    "Type": "OtherRenewables",
+    "Measure": "Electricity per capita",
+    "value": 38.4222
+  },
+  {
+    "decade": 2000,
+    "Type": "OtherRenewables",
+    "Measure": "Electricity Share",
+    "value": 1.3779
+  },
+  {
+    "decade": 2000,
+    "Type": "OtherRenewables",
+    "Measure": "Energy Share",
+    "value": 0.5428
+  },
+  {
+    "decade": 2000,
+    "Type": "Renewables",
+    "Measure": "Consumption",
+    "value": 9066.5577
+  },
+  {
+    "decade": 2000,
+    "Type": "Renewables",
+    "Measure": "Consumption Change",
+    "value": 290.0185
+  },
+  {
+    "decade": 2000,
+    "Type": "Renewables",
+    "Measure": "Consumption Growth",
+    "value": 3.2111
+  },
+  {
+    "decade": 2000,
+    "Type": "Renewables",
+    "Measure": "Consumption per capita",
+    "value": 1390.3083
+  },
+  {
+    "decade": 2000,
+    "Type": "Renewables",
+    "Measure": "Electricity Generation",
+    "value": 3259.836
+  },
+  {
+    "decade": 2000,
+    "Type": "Renewables",
+    "Measure": "Electricity per capita",
+    "value": 499.8046
+  },
+  {
+    "decade": 2000,
+    "Type": "Renewables",
+    "Measure": "Electricity Share",
+    "value": 18.0189
+  },
+  {
+    "decade": 2000,
+    "Type": "Renewables",
+    "Measure": "Energy Share",
+    "value": 7.3214
+  },
+  {
+    "decade": 2000,
+    "Type": "Solar",
+    "Measure": "Consumption",
+    "value": 16.1551
+  },
+  {
+    "decade": 2000,
+    "Type": "Solar",
+    "Measure": "Consumption Change",
+    "value": 5.2471
+  },
+  {
+    "decade": 2000,
+    "Type": "Solar",
+    "Measure": "Consumption Growth",
+    "value": 36.6845
+  },
+  {
+    "decade": 2000,
+    "Type": "Solar",
+    "Measure": "Consumption per capita",
+    "value": 2.4126
+  },
+  {
+    "decade": 2000,
+    "Type": "Solar",
+    "Measure": "Electricity Generation",
+    "value": 6.079
+  },
+  {
+    "decade": 2000,
+    "Type": "Solar",
+    "Measure": "Electricity per capita",
+    "value": 0.9074
+  },
+  {
+    "decade": 2000,
+    "Type": "Solar",
+    "Measure": "Electricity Share",
+    "value": 0.0314
+  },
+  {
+    "decade": 2000,
+    "Type": "Solar",
+    "Measure": "Energy Share",
+    "value": 0.0124
+  },
+  {
+    "decade": 2000,
+    "Type": "Wind",
+    "Measure": "Consumption",
+    "value": 313.3822
+  },
+  {
+    "decade": 2000,
+    "Type": "Wind",
+    "Measure": "Consumption Change",
+    "value": 66.5278
+  },
+  {
+    "decade": 2000,
+    "Type": "Wind",
+    "Measure": "Consumption Growth",
+    "value": 28.7627
+  },
+  {
+    "decade": 2000,
+    "Type": "Wind",
+    "Measure": "Consumption per capita",
+    "value": 47.1735
+  },
+  {
+    "decade": 2000,
+    "Type": "Wind",
+    "Measure": "Electricity Generation",
+    "value": 117.4555
+  },
+  {
+    "decade": 2000,
+    "Type": "Wind",
+    "Measure": "Electricity per capita",
+    "value": 17.672
+  },
+  {
+    "decade": 2000,
+    "Type": "Wind",
+    "Measure": "Electricity Share",
+    "value": 0.6169
+  },
+  {
+    "decade": 2000,
+    "Type": "Wind",
+    "Measure": "Energy Share",
+    "value": 0.2435
+  },
+  {
+    "decade": 2010,
+    "Type": "Biofuel",
+    "Measure": "Consumption",
+    "value": 888.1156
+  },
+  {
+    "decade": 2010,
+    "Type": "Biofuel",
+    "Measure": "Consumption Change",
+    "value": 48.33
+  },
+  {
+    "decade": 2010,
+    "Type": "Biofuel",
+    "Measure": "Consumption Growth",
+    "value": 5.9971
+  },
+  {
+    "decade": 2010,
+    "Type": "Biofuel",
+    "Measure": "Consumption per capita",
+    "value": 120.6355
+  },
+  {
+    "decade": 2010,
+    "Type": "Biofuel",
+    "Measure": "Energy Share",
+    "value": 0.5856
+  },
+  {
+    "decade": 2010,
+    "Type": "Coal",
+    "Measure": "Consumption",
+    "value": 43850.6556
+  },
+  {
+    "decade": 2010,
+    "Type": "Coal",
+    "Measure": "Consumption Change",
+    "value": 370.0582
+  },
+  {
+    "decade": 2010,
+    "Type": "Coal",
+    "Measure": "Consumption Growth",
+    "value": 0.9108
+  },
+  {
+    "decade": 2010,
+    "Type": "Coal",
+    "Measure": "Consumption per capita",
+    "value": 5982.9006
+  },
+  {
+    "decade": 2010,
+    "Type": "Coal",
+    "Measure": "Electricity Generation",
+    "value": 9465.4008
+  },
+  {
+    "decade": 2010,
+    "Type": "Coal",
+    "Measure": "Electricity per capita",
+    "value": 1289.9719
+  },
+  {
+    "decade": 2010,
+    "Type": "Coal",
+    "Measure": "Electricity Share",
+    "value": 39.1085
+  },
+  {
+    "decade": 2010,
+    "Type": "Coal",
+    "Measure": "Energy Share",
+    "value": 29.079
+  },
+  {
+    "decade": 2010,
+    "Type": "Coal",
+    "Measure": "Production",
+    "value": 44828.8696
+  },
+  {
+    "decade": 2010,
+    "Type": "Coal",
+    "Measure": "Production Change",
+    "value": 685.5922
+  },
+  {
+    "decade": 2010,
+    "Type": "Coal",
+    "Measure": "Production Growth",
+    "value": 1.6698
+  },
+  {
+    "decade": 2010,
+    "Type": "Coal",
+    "Measure": "Production per capita",
+    "value": 6114.844
+  },
+  {
+    "decade": 2010,
+    "Type": "Fossil",
+    "Measure": "Consumption",
+    "value": 129590.63
+  },
+  {
+    "decade": 2010,
+    "Type": "Fossil",
+    "Measure": "Consumption Change",
+    "value": 2054.8441
+  },
+  {
+    "decade": 2010,
+    "Type": "Fossil",
+    "Measure": "Consumption Growth",
+    "value": 1.6491
+  },
+  {
+    "decade": 2010,
+    "Type": "Fossil",
+    "Measure": "Consumption per capita",
+    "value": 17663.34
+  },
+  {
+    "decade": 2010,
+    "Type": "Fossil",
+    "Measure": "Electricity Generation",
+    "value": 15952.0427
+  },
+  {
+    "decade": 2010,
+    "Type": "Fossil",
+    "Measure": "Electricity per capita",
+    "value": 2173.257
+  },
+  {
+    "decade": 2010,
+    "Type": "Fossil",
+    "Measure": "Electricity Share",
+    "value": 65.8655
+  },
+  {
+    "decade": 2010,
+    "Type": "Fossil",
+    "Measure": "Energy Share",
+    "value": 85.8268
+  },
+  {
+    "decade": 2010,
+    "Type": "Gas",
+    "Measure": "Consumption",
+    "value": 34972.313
+  },
+  {
+    "decade": 2010,
+    "Type": "Gas",
+    "Measure": "Consumption Change",
+    "value": 988.1439
+  },
+  {
+    "decade": 2010,
+    "Type": "Gas",
+    "Measure": "Consumption Growth",
+    "value": 2.9557
+  },
+  {
+    "decade": 2010,
+    "Type": "Gas",
+    "Measure": "Consumption per capita",
+    "value": 4761.4772
+  },
+  {
+    "decade": 2010,
+    "Type": "Gas",
+    "Measure": "Electricity Generation",
+    "value": 5505.5035
+  },
+  {
+    "decade": 2010,
+    "Type": "Gas",
+    "Measure": "Electricity per capita",
+    "value": 749.1209
+  },
+  {
+    "decade": 2010,
+    "Type": "Gas",
+    "Measure": "Electricity Share",
+    "value": 22.6737
+  },
+  {
+    "decade": 2010,
+    "Type": "Gas",
+    "Measure": "Energy Share",
+    "value": 23.1281
+  },
+  {
+    "decade": 2010,
+    "Type": "Gas",
+    "Measure": "Production",
+    "value": 35061.195
+  },
+  {
+    "decade": 2010,
+    "Type": "Gas",
+    "Measure": "Production Change",
+    "value": 1054.4385
+  },
+  {
+    "decade": 2010,
+    "Type": "Gas",
+    "Measure": "Production Growth",
+    "value": 3.1322
+  },
+  {
+    "decade": 2010,
+    "Type": "Gas",
+    "Measure": "Production per capita",
+    "value": 4773.0737
+  },
+  {
+    "decade": 2010,
+    "Type": "Hydro",
+    "Measure": "Consumption",
+    "value": 9801.3641
+  },
+  {
+    "decade": 2010,
+    "Type": "Hydro",
+    "Measure": "Consumption Change",
+    "value": 192.2334
+  },
+  {
+    "decade": 2010,
+    "Type": "Hydro",
+    "Measure": "Consumption Growth",
+    "value": 2.066
+  },
+  {
+    "decade": 2010,
+    "Type": "Hydro",
+    "Measure": "Consumption per capita",
+    "value": 1335.2636
+  },
+  {
+    "decade": 2010,
+    "Type": "Hydro",
+    "Measure": "Electricity Generation",
+    "value": 3865.1903
+  },
+  {
+    "decade": 2010,
+    "Type": "Hydro",
+    "Measure": "Electricity per capita",
+    "value": 526.275
+  },
+  {
+    "decade": 2010,
+    "Type": "Hydro",
+    "Measure": "Electricity Share",
+    "value": 15.9396
+  },
+  {
+    "decade": 2010,
+    "Type": "Hydro",
+    "Measure": "Energy Share",
+    "value": 6.4873
+  },
+  {
+    "decade": 2010,
+    "Type": "LowCarbon",
+    "Measure": "Consumption",
+    "value": 21458.613
+  },
+  {
+    "decade": 2010,
+    "Type": "LowCarbon",
+    "Measure": "Consumption Change",
+    "value": 752.5166
+  },
+  {
+    "decade": 2010,
+    "Type": "LowCarbon",
+    "Measure": "Consumption Growth",
+    "value": 3.5818
+  },
+  {
+    "decade": 2010,
+    "Type": "LowCarbon",
+    "Measure": "Consumption per capita",
+    "value": 2918.5653
+  },
+  {
+    "decade": 2010,
+    "Type": "LowCarbon",
+    "Measure": "Electricity Generation",
+    "value": 8118.595
+  },
+  {
+    "decade": 2010,
+    "Type": "LowCarbon",
+    "Measure": "Electricity per capita",
+    "value": 1103.6489
+  },
+  {
+    "decade": 2010,
+    "Type": "LowCarbon",
+    "Measure": "Electricity Share",
+    "value": 33.3663
+  },
+  {
+    "decade": 2010,
+    "Type": "LowCarbon",
+    "Measure": "Energy Share",
+    "value": 14.1727
+  },
+  {
+    "decade": 2010,
+    "Type": "Nuclear",
+    "Measure": "Consumption",
+    "value": 6663.1011
+  },
+  {
+    "decade": 2010,
+    "Type": "Nuclear",
+    "Measure": "Consumption Change",
+    "value": -15.7261
+  },
+  {
+    "decade": 2010,
+    "Type": "Nuclear",
+    "Measure": "Consumption Growth",
+    "value": -0.174
+  },
+  {
+    "decade": 2010,
+    "Type": "Nuclear",
+    "Measure": "Consumption per capita",
+    "value": 909.3805
+  },
+  {
+    "decade": 2010,
+    "Type": "Nuclear",
+    "Measure": "Electricity Generation",
+    "value": 2625.2091
+  },
+  {
+    "decade": 2010,
+    "Type": "Nuclear",
+    "Measure": "Electricity per capita",
+    "value": 358.0839
+  },
+  {
+    "decade": 2010,
+    "Type": "Nuclear",
+    "Measure": "Electricity Share",
+    "value": 10.8687
+  },
+  {
+    "decade": 2010,
+    "Type": "Nuclear",
+    "Measure": "Energy Share",
+    "value": 4.4205
+  },
+  {
+    "decade": 2010,
+    "Type": "Oil",
+    "Measure": "Consumption",
+    "value": 50767.67
+  },
+  {
+    "decade": 2010,
+    "Type": "Oil",
+    "Measure": "Consumption Change",
+    "value": 696.6419
+  },
+  {
+    "decade": 2010,
+    "Type": "Oil",
+    "Measure": "Consumption Growth",
+    "value": 1.4037
+  },
+  {
+    "decade": 2010,
+    "Type": "Oil",
+    "Measure": "Consumption per capita",
+    "value": 6918.962
+  },
+  {
+    "decade": 2010,
+    "Type": "Oil",
+    "Measure": "Electricity Generation",
+    "value": 981.1386
+  },
+  {
+    "decade": 2010,
+    "Type": "Oil",
+    "Measure": "Electricity per capita",
+    "value": 134.1642
+  },
+  {
+    "decade": 2010,
+    "Type": "Oil",
+    "Measure": "Electricity Share",
+    "value": 4.0832
+  },
+  {
+    "decade": 2010,
+    "Type": "Oil",
+    "Measure": "Energy Share",
+    "value": 33.62
+  },
+  {
+    "decade": 2010,
+    "Type": "Oil",
+    "Measure": "Production",
+    "value": 49473.804
+  },
+  {
+    "decade": 2010,
+    "Type": "Oil",
+    "Measure": "Production Change",
+    "value": 673.127
+  },
+  {
+    "decade": 2010,
+    "Type": "Oil",
+    "Measure": "Production Growth",
+    "value": 1.4009
+  },
+  {
+    "decade": 2010,
+    "Type": "Oil",
+    "Measure": "Production per capita",
+    "value": 6741.5463
+  },
+  {
+    "decade": 2010,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption",
+    "value": 1293.537
+  },
+  {
+    "decade": 2010,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption Change",
+    "value": 72.2972
+  },
+  {
+    "decade": 2010,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption Growth",
+    "value": 6.1489
+  },
+  {
+    "decade": 2010,
+    "Type": "OtherRenewables",
+    "Measure": "Consumption per capita",
+    "value": 175.6054
+  },
+  {
+    "decade": 2010,
+    "Type": "OtherRenewables",
+    "Measure": "Electricity Generation",
+    "value": 511.0157
+  },
+  {
+    "decade": 2010,
+    "Type": "OtherRenewables",
+    "Measure": "Electricity per capita",
+    "value": 69.336
+  },
+  {
+    "decade": 2010,
+    "Type": "OtherRenewables",
+    "Measure": "Electricity Share",
+    "value": 2.0918
+  },
+  {
+    "decade": 2010,
+    "Type": "OtherRenewables",
+    "Measure": "Energy Share",
+    "value": 0.8524
+  },
+  {
+    "decade": 2010,
+    "Type": "Renewables",
+    "Measure": "Consumption",
+    "value": 14795.511
+  },
+  {
+    "decade": 2010,
+    "Type": "Renewables",
+    "Measure": "Consumption Change",
+    "value": 768.2425
+  },
+  {
+    "decade": 2010,
+    "Type": "Renewables",
+    "Measure": "Consumption Growth",
+    "value": 5.5173
+  },
+  {
+    "decade": 2010,
+    "Type": "Renewables",
+    "Measure": "Consumption per capita",
+    "value": 2009.185
+  },
+  {
+    "decade": 2010,
+    "Type": "Renewables",
+    "Measure": "Electricity Generation",
+    "value": 5493.3859
+  },
+  {
+    "decade": 2010,
+    "Type": "Renewables",
+    "Measure": "Electricity per capita",
+    "value": 745.565
+  },
+  {
+    "decade": 2010,
+    "Type": "Renewables",
+    "Measure": "Electricity Share",
+    "value": 22.4979
+  },
+  {
+    "decade": 2010,
+    "Type": "Renewables",
+    "Measure": "Energy Share",
+    "value": 9.7519
+  },
+  {
+    "decade": 2010,
+    "Type": "Solar",
+    "Measure": "Consumption",
+    "value": 720.9953
+  },
+  {
+    "decade": 2010,
+    "Type": "Solar",
+    "Measure": "Consumption Change",
+    "value": 173.798
+  },
+  {
+    "decade": 2010,
+    "Type": "Solar",
+    "Measure": "Consumption Growth",
+    "value": 42.9027
+  },
+  {
+    "decade": 2010,
+    "Type": "Solar",
+    "Measure": "Consumption per capita",
+    "value": 96.0379
+  },
+  {
+    "decade": 2010,
+    "Type": "Solar",
+    "Measure": "Electricity Generation",
+    "value": 287.5483
+  },
+  {
+    "decade": 2010,
+    "Type": "Solar",
+    "Measure": "Electricity per capita",
+    "value": 38.2889
+  },
+  {
+    "decade": 2010,
+    "Type": "Solar",
+    "Measure": "Electricity Share",
+    "value": 1.1293
+  },
+  {
+    "decade": 2010,
+    "Type": "Solar",
+    "Measure": "Energy Share",
+    "value": 0.4633
+  },
+  {
+    "decade": 2010,
+    "Type": "Wind",
+    "Measure": "Consumption",
+    "value": 2091.4988
+  },
+  {
+    "decade": 2010,
+    "Type": "Wind",
+    "Measure": "Consumption Change",
+    "value": 281.5839
+  },
+  {
+    "decade": 2010,
+    "Type": "Wind",
+    "Measure": "Consumption Growth",
+    "value": 17.3103
+  },
+  {
+    "decade": 2010,
+    "Type": "Wind",
+    "Measure": "Consumption per capita",
+    "value": 281.6424
+  },
+  {
+    "decade": 2010,
+    "Type": "Wind",
+    "Measure": "Electricity Generation",
+    "value": 829.6316
+  },
+  {
+    "decade": 2010,
+    "Type": "Wind",
+    "Measure": "Electricity per capita",
+    "value": 111.665
+  },
+  {
+    "decade": 2010,
+    "Type": "Wind",
+    "Measure": "Electricity Share",
+    "value": 3.337
+  },
+  {
+    "decade": 2010,
+    "Type": "Wind",
+    "Measure": "Energy Share",
+    "value": 1.3635
+  }
+]
