@@ -1,0 +1,362 @@
+[
+  {
+    "category": 1960,
+    "key": "Biofuel",
+    "value": 0
+  },
+  {
+    "category": 1960,
+    "key": "Coal",
+    "value": 4692.5854
+  },
+  {
+    "category": 1960,
+    "key": "Fossil",
+    "value": 12899.756
+  },
+  {
+    "category": 1960,
+    "key": "Gas",
+    "value": 2144.8416
+  },
+  {
+    "category": 1960,
+    "key": "Hydro",
+    "value": 812.1562
+  },
+  {
+    "category": 1960,
+    "key": "LowCarbon",
+    "value": 862.6218
+  },
+  {
+    "category": 1960,
+    "key": "Nuclear",
+    "value": 34.0292
+  },
+  {
+    "category": 1960,
+    "key": "Oil",
+    "value": 6062.3298
+  },
+  {
+    "category": 1960,
+    "key": "OtherRenewables",
+    "value": 16.4366
+  },
+  {
+    "category": 1960,
+    "key": "Renewables",
+    "value": 828.5928
+  },
+  {
+    "category": 1960,
+    "key": "Solar",
+    "value": 0
+  },
+  {
+    "category": 1960,
+    "key": "Wind",
+    "value": 0
+  },
+  {
+    "category": 1970,
+    "key": "Biofuel",
+    "value": 0
+  },
+  {
+    "category": 1970,
+    "key": "Coal",
+    "value": 4510.6406
+  },
+  {
+    "category": 1970,
+    "key": "Fossil",
+    "value": 15445.403
+  },
+  {
+    "category": 1970,
+    "key": "Gas",
+    "value": 2911.321
+  },
+  {
+    "category": 1970,
+    "key": "Hydro",
+    "value": 967.3326
+  },
+  {
+    "category": 1970,
+    "key": "LowCarbon",
+    "value": 1220.397
+  },
+  {
+    "category": 1970,
+    "key": "Nuclear",
+    "value": 229.0203
+  },
+  {
+    "category": 1970,
+    "key": "Oil",
+    "value": 8023.4403
+  },
+  {
+    "category": 1970,
+    "key": "OtherRenewables",
+    "value": 24.0435
+  },
+  {
+    "category": 1970,
+    "key": "Renewables",
+    "value": 991.3766
+  },
+  {
+    "category": 1970,
+    "key": "Solar",
+    "value": 0
+  },
+  {
+    "category": 1970,
+    "key": "Wind",
+    "value": 0.0006
+  },
+  {
+    "category": 1980,
+    "key": "Biofuel",
+    "value": 0
+  },
+  {
+    "category": 1980,
+    "key": "Coal",
+    "value": 4832.4981
+  },
+  {
+    "category": 1980,
+    "key": "Fossil",
+    "value": 15349.545
+  },
+  {
+    "category": 1980,
+    "key": "Gas",
+    "value": 3313.9552
+  },
+  {
+    "category": 1980,
+    "key": "Hydro",
+    "value": 1109.3474
+  },
+  {
+    "category": 1980,
+    "key": "LowCarbon",
+    "value": 1912.4024
+  },
+  {
+    "category": 1980,
+    "key": "Nuclear",
+    "value": 759.5019
+  },
+  {
+    "category": 1980,
+    "key": "Oil",
+    "value": 7203.0932
+  },
+  {
+    "category": 1980,
+    "key": "OtherRenewables",
+    "value": 43.3482
+  },
+  {
+    "category": 1980,
+    "key": "Renewables",
+    "value": 1152.9005
+  },
+  {
+    "category": 1980,
+    "key": "Solar",
+    "value": 0.0173
+  },
+  {
+    "category": 1980,
+    "key": "Wind",
+    "value": 0.1875
+  },
+  {
+    "category": 1990,
+    "key": "Biofuel",
+    "value": 20.6691
+  },
+  {
+    "category": 1990,
+    "key": "Coal",
+    "value": 4574.4751
+  },
+  {
+    "category": 1990,
+    "key": "Fossil",
+    "value": 15220.428
+  },
+  {
+    "category": 1990,
+    "key": "Gas",
+    "value": 3699.4293
+  },
+  {
+    "category": 1990,
+    "key": "Hydro",
+    "value": 1170.174
+  },
+  {
+    "category": 1990,
+    "key": "LowCarbon",
+    "value": 2370.3896
+  },
+  {
+    "category": 1990,
+    "key": "Nuclear",
+    "value": 1104.4586
+  },
+  {
+    "category": 1990,
+    "key": "Oil",
+    "value": 6946.524
+  },
+  {
+    "category": 1990,
+    "key": "OtherRenewables",
+    "value": 70.3947
+  },
+  {
+    "category": 1990,
+    "key": "Renewables",
+    "value": 1265.9312
+  },
+  {
+    "category": 1990,
+    "key": "Solar",
+    "value": 0.3077
+  },
+  {
+    "category": 1990,
+    "key": "Wind",
+    "value": 4.3856
+  },
+  {
+    "category": 2000,
+    "key": "Biofuel",
+    "value": 43.0597
+  },
+  {
+    "category": 2000,
+    "key": "Coal",
+    "value": 5280.0111
+  },
+  {
+    "category": 2000,
+    "key": "Fossil",
+    "value": 16455.939
+  },
+  {
+    "category": 2000,
+    "key": "Gas",
+    "value": 4149.2287
+  },
+  {
+    "category": 2000,
+    "key": "Hydro",
+    "value": 1194.2579
+  },
+  {
+    "category": 2000,
+    "key": "LowCarbon",
+    "value": 2515.7243
+  },
+  {
+    "category": 2000,
+    "key": "Nuclear",
+    "value": 1125.416
+  },
+  {
+    "category": 2000,
+    "key": "Oil",
+    "value": 7026.6991
+  },
+  {
+    "category": 2000,
+    "key": "OtherRenewables",
+    "value": 103.4046
+  },
+  {
+    "category": 2000,
+    "key": "Renewables",
+    "value": 1390.3083
+  },
+  {
+    "category": 2000,
+    "key": "Solar",
+    "value": 2.4126
+  },
+  {
+    "category": 2000,
+    "key": "Wind",
+    "value": 47.1735
+  },
+  {
+    "category": 2010,
+    "key": "Biofuel",
+    "value": 120.6355
+  },
+  {
+    "category": 2010,
+    "key": "Coal",
+    "value": 5982.9006
+  },
+  {
+    "category": 2010,
+    "key": "Fossil",
+    "value": 17663.34
+  },
+  {
+    "category": 2010,
+    "key": "Gas",
+    "value": 4761.4772
+  },
+  {
+    "category": 2010,
+    "key": "Hydro",
+    "value": 1335.2636
+  },
+  {
+    "category": 2010,
+    "key": "LowCarbon",
+    "value": 2918.5653
+  },
+  {
+    "category": 2010,
+    "key": "Nuclear",
+    "value": 909.3805
+  },
+  {
+    "category": 2010,
+    "key": "Oil",
+    "value": 6918.962
+  },
+  {
+    "category": 2010,
+    "key": "OtherRenewables",
+    "value": 175.6054
+  },
+  {
+    "category": 2010,
+    "key": "Renewables",
+    "value": 2009.185
+  },
+  {
+    "category": 2010,
+    "key": "Solar",
+    "value": 96.0379
+  },
+  {
+    "category": 2010,
+    "key": "Wind",
+    "value": 281.6424
+  }
+]
