@@ -1,0 +1,7042 @@
+[
+  {
+    "country": "World",
+    "year": 1965,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1966,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1967,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1968,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1969,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1970,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1971,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1972,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1973,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1974,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1975,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1976,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1977,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1978,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1979,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1980,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1981,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1982,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1983,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1984,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1985,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 6278.756
+  },
+  {
+    "country": "World",
+    "year": 1986,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 6433.277
+  },
+  {
+    "country": "World",
+    "year": 1987,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 6751.24
+  },
+  {
+    "country": "World",
+    "year": 1988,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 6990.036
+  },
+  {
+    "country": "World",
+    "year": 1989,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 7448.225
+  },
+  {
+    "country": "World",
+    "year": 1990,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 7610.061
+  },
+  {
+    "country": "World",
+    "year": 1991,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 7718.215
+  },
+  {
+    "country": "World",
+    "year": 1992,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 7801.105
+  },
+  {
+    "country": "World",
+    "year": 1993,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 7849.325
+  },
+  {
+    "country": "World",
+    "year": 1994,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 8111.545
+  },
+  {
+    "country": "World",
+    "year": 1995,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 8326.35
+  },
+  {
+    "country": "World",
+    "year": 1996,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 8614.956
+  },
+  {
+    "country": "World",
+    "year": 1997,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 8898.352
+  },
+  {
+    "country": "World",
+    "year": 1998,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 9196.593
+  },
+  {
+    "country": "World",
+    "year": 1999,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 9480.719
+  },
+  {
+    "country": "World",
+    "year": 2000,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 9992.856
+  },
+  {
+    "country": "World",
+    "year": 2001,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 10215.715
+  },
+  {
+    "country": "World",
+    "year": 2002,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 10650.761
+  },
+  {
+    "country": "World",
+    "year": 2003,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 11255.713
+  },
+  {
+    "country": "World",
+    "year": 2004,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 11706.227
+  },
+  {
+    "country": "World",
+    "year": 2005,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 12281.718
+  },
+  {
+    "country": "World",
+    "year": 2006,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 12792.233
+  },
+  {
+    "country": "World",
+    "year": 2007,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 13626.011
+  },
+  {
+    "country": "World",
+    "year": 2008,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 13758.365
+  },
+  {
+    "country": "World",
+    "year": 2009,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 13560.752
+  },
+  {
+    "country": "World",
+    "year": 2010,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 14449.101
+  },
+  {
+    "country": "World",
+    "year": 2011,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 15044.962
+  },
+  {
+    "country": "World",
+    "year": 2012,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 15467.297
+  },
+  {
+    "country": "World",
+    "year": 2013,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 15730.278
+  },
+  {
+    "country": "World",
+    "year": 2014,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 16024.698
+  },
+  {
+    "country": "World",
+    "year": 2015,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 16017.573
+  },
+  {
+    "country": "World",
+    "year": 2016,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 16235.59
+  },
+  {
+    "country": "World",
+    "year": 2017,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 16539.466
+  },
+  {
+    "country": "World",
+    "year": 2018,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 17064.132
+  },
+  {
+    "country": "World",
+    "year": 2019,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Generation",
+    "value": 16947.33
+  },
+  {
+    "country": "World",
+    "year": 1965,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1966,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 5.269
+  },
+  {
+    "country": "World",
+    "year": 1967,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 3.832
+  },
+  {
+    "country": "World",
+    "year": 1968,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 6.081
+  },
+  {
+    "country": "World",
+    "year": 1969,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 6.78
+  },
+  {
+    "country": "World",
+    "year": 1970,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 6.318
+  },
+  {
+    "country": "World",
+    "year": 1971,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 3.899
+  },
+  {
+    "country": "World",
+    "year": 1972,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 5.284
+  },
+  {
+    "country": "World",
+    "year": 1973,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 5.817
+  },
+  {
+    "country": "World",
+    "year": 1974,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": -0.291
+  },
+  {
+    "country": "World",
+    "year": 1975,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 0.038
+  },
+  {
+    "country": "World",
+    "year": 1976,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 5.58
+  },
+  {
+    "country": "World",
+    "year": 1977,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 3.294
+  },
+  {
+    "country": "World",
+    "year": 1978,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 2.92
+  },
+  {
+    "country": "World",
+    "year": 1979,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 3.366
+  },
+  {
+    "country": "World",
+    "year": 1980,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": -1.167
+  },
+  {
+    "country": "World",
+    "year": 1981,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": -1.177
+  },
+  {
+    "country": "World",
+    "year": 1982,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": -1.13
+  },
+  {
+    "country": "World",
+    "year": 1983,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 0.964
+  },
+  {
+    "country": "World",
+    "year": 1984,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 4.193
+  },
+  {
+    "country": "World",
+    "year": 1985,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 1.922
+  },
+  {
+    "country": "World",
+    "year": 1986,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 1.948
+  },
+  {
+    "country": "World",
+    "year": 1987,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 3.328
+  },
+  {
+    "country": "World",
+    "year": 1988,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 3.545
+  },
+  {
+    "country": "World",
+    "year": 1989,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 2.017
+  },
+  {
+    "country": "World",
+    "year": 1990,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 0.833
+  },
+  {
+    "country": "World",
+    "year": 1991,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 0.289
+  },
+  {
+    "country": "World",
+    "year": 1992,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 0.782
+  },
+  {
+    "country": "World",
+    "year": 1993,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 0.098
+  },
+  {
+    "country": "World",
+    "year": 1994,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 1.259
+  },
+  {
+    "country": "World",
+    "year": 1995,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 1.652
+  },
+  {
+    "country": "World",
+    "year": 1996,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 3.015
+  },
+  {
+    "country": "World",
+    "year": 1997,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 0.963
+  },
+  {
+    "country": "World",
+    "year": 1998,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 0.497
+  },
+  {
+    "country": "World",
+    "year": 1999,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 1.711
+  },
+  {
+    "country": "World",
+    "year": 2000,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 2.55
+  },
+  {
+    "country": "World",
+    "year": 2001,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 1.216
+  },
+  {
+    "country": "World",
+    "year": 2002,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 2.279
+  },
+  {
+    "country": "World",
+    "year": 2003,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 4.323
+  },
+  {
+    "country": "World",
+    "year": 2004,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 4.71
+  },
+  {
+    "country": "World",
+    "year": 2005,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 3.566
+  },
+  {
+    "country": "World",
+    "year": 2006,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 2.856
+  },
+  {
+    "country": "World",
+    "year": 2007,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 3.425
+  },
+  {
+    "country": "World",
+    "year": 2008,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 0.728
+  },
+  {
+    "country": "World",
+    "year": 2009,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": -1.814
+  },
+  {
+    "country": "World",
+    "year": 2010,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 4.714
+  },
+  {
+    "country": "World",
+    "year": 2011,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 2.669
+  },
+  {
+    "country": "World",
+    "year": 2012,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 1.299
+  },
+  {
+    "country": "World",
+    "year": 2013,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 1.49
+  },
+  {
+    "country": "World",
+    "year": 2014,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 0.4
+  },
+  {
+    "country": "World",
+    "year": 2015,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 0.43
+  },
+  {
+    "country": "World",
+    "year": 2016,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 0.918
+  },
+  {
+    "country": "World",
+    "year": 2017,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 1.382
+  },
+  {
+    "country": "World",
+    "year": 2018,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 2.486
+  },
+  {
+    "country": "World",
+    "year": 2019,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Growth",
+    "value": 0.703
+  },
+  {
+    "country": "World",
+    "year": 1965,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 93.769
+  },
+  {
+    "country": "World",
+    "year": 1966,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 93.653
+  },
+  {
+    "country": "World",
+    "year": 1967,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 93.714
+  },
+  {
+    "country": "World",
+    "year": 1968,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 93.705
+  },
+  {
+    "country": "World",
+    "year": 1969,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 93.723
+  },
+  {
+    "country": "World",
+    "year": 1970,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 93.74
+  },
+  {
+    "country": "World",
+    "year": 1971,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 93.583
+  },
+  {
+    "country": "World",
+    "year": 1972,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 93.458
+  },
+  {
+    "country": "World",
+    "year": 1973,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 93.511
+  },
+  {
+    "country": "World",
+    "year": 1974,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 92.74
+  },
+  {
+    "country": "World",
+    "year": 1975,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 92.275
+  },
+  {
+    "country": "World",
+    "year": 1976,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 92.429
+  },
+  {
+    "country": "World",
+    "year": 1977,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 92.096
+  },
+  {
+    "country": "World",
+    "year": 1978,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 91.576
+  },
+  {
+    "country": "World",
+    "year": 1979,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 91.466
+  },
+  {
+    "country": "World",
+    "year": 1980,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 91.04
+  },
+  {
+    "country": "World",
+    "year": 1981,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 90.391
+  },
+  {
+    "country": "World",
+    "year": 1982,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 89.917
+  },
+  {
+    "country": "World",
+    "year": 1983,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 89.336
+  },
+  {
+    "country": "World",
+    "year": 1984,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 88.82
+  },
+  {
+    "country": "World",
+    "year": 1985,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 88.189
+  },
+  {
+    "country": "World",
+    "year": 1986,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 87.969
+  },
+  {
+    "country": "World",
+    "year": 1987,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 87.832
+  },
+  {
+    "country": "World",
+    "year": 1988,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 87.599
+  },
+  {
+    "country": "World",
+    "year": 1989,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 87.665
+  },
+  {
+    "country": "World",
+    "year": 1990,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 87.385
+  },
+  {
+    "country": "World",
+    "year": 1991,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 87.026
+  },
+  {
+    "country": "World",
+    "year": 1992,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 87.052
+  },
+  {
+    "country": "World",
+    "year": 1993,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 86.536
+  },
+  {
+    "country": "World",
+    "year": 1994,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 86.518
+  },
+  {
+    "country": "World",
+    "year": 1995,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 86.145
+  },
+  {
+    "country": "World",
+    "year": 1996,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 86.211
+  },
+  {
+    "country": "World",
+    "year": 1997,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 86.222
+  },
+  {
+    "country": "World",
+    "year": 1998,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 86.112
+  },
+  {
+    "country": "World",
+    "year": 1999,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 86.031
+  },
+  {
+    "country": "World",
+    "year": 2000,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 86.066
+  },
+  {
+    "country": "World",
+    "year": 2001,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 86.249
+  },
+  {
+    "country": "World",
+    "year": 2002,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 86.323
+  },
+  {
+    "country": "World",
+    "year": 2003,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 86.947
+  },
+  {
+    "country": "World",
+    "year": 2004,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 86.824
+  },
+  {
+    "country": "World",
+    "year": 2005,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 86.999
+  },
+  {
+    "country": "World",
+    "year": 2006,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 86.996
+  },
+  {
+    "country": "World",
+    "year": 2007,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 87.28
+  },
+  {
+    "country": "World",
+    "year": 2008,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 86.918
+  },
+  {
+    "country": "World",
+    "year": 2009,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 86.652
+  },
+  {
+    "country": "World",
+    "year": 2010,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 86.574
+  },
+  {
+    "country": "World",
+    "year": 2011,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 86.778
+  },
+  {
+    "country": "World",
+    "year": 2012,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 86.788
+  },
+  {
+    "country": "World",
+    "year": 2013,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 86.447
+  },
+  {
+    "country": "World",
+    "year": 2014,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 86.094
+  },
+  {
+    "country": "World",
+    "year": 2015,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 85.839
+  },
+  {
+    "country": "World",
+    "year": 2016,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 85.459
+  },
+  {
+    "country": "World",
+    "year": 2017,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 85.123
+  },
+  {
+    "country": "World",
+    "year": 2018,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 84.846
+  },
+  {
+    "country": "World",
+    "year": 2019,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Energy Share",
+    "value": 84.32
+  },
+  {
+    "country": "World",
+    "year": 1965,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1966,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 2136.74
+  },
+  {
+    "country": "World",
+    "year": 1967,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 1636.07
+  },
+  {
+    "country": "World",
+    "year": 1968,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 2695.515
+  },
+  {
+    "country": "World",
+    "year": 1969,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 3188.095
+  },
+  {
+    "country": "World",
+    "year": 1970,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 3172.426
+  },
+  {
+    "country": "World",
+    "year": 1971,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 2081.533
+  },
+  {
+    "country": "World",
+    "year": 1972,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 2930.663
+  },
+  {
+    "country": "World",
+    "year": 1973,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 3397.052
+  },
+  {
+    "country": "World",
+    "year": 1974,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": -179.967
+  },
+  {
+    "country": "World",
+    "year": 1975,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 23.304
+  },
+  {
+    "country": "World",
+    "year": 1976,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 3439.204
+  },
+  {
+    "country": "World",
+    "year": 1977,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 2143.299
+  },
+  {
+    "country": "World",
+    "year": 1978,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 1962.564
+  },
+  {
+    "country": "World",
+    "year": 1979,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 2328.389
+  },
+  {
+    "country": "World",
+    "year": 1980,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": -834.674
+  },
+  {
+    "country": "World",
+    "year": 1981,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": -832.157
+  },
+  {
+    "country": "World",
+    "year": 1982,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": -789.543
+  },
+  {
+    "country": "World",
+    "year": 1983,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 665.411
+  },
+  {
+    "country": "World",
+    "year": 1984,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 2923.317
+  },
+  {
+    "country": "World",
+    "year": 1985,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 1396.394
+  },
+  {
+    "country": "World",
+    "year": 1986,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 1442.391
+  },
+  {
+    "country": "World",
+    "year": 1987,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 2511.716
+  },
+  {
+    "country": "World",
+    "year": 1988,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 2764.967
+  },
+  {
+    "country": "World",
+    "year": 1989,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 1628.53
+  },
+  {
+    "country": "World",
+    "year": 1990,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 686.443
+  },
+  {
+    "country": "World",
+    "year": 1991,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 239.745
+  },
+  {
+    "country": "World",
+    "year": 1992,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 651.073
+  },
+  {
+    "country": "World",
+    "year": 1993,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 82.363
+  },
+  {
+    "country": "World",
+    "year": 1994,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 1058.369
+  },
+  {
+    "country": "World",
+    "year": 1995,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 1405.753
+  },
+  {
+    "country": "World",
+    "year": 1996,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 2608.48
+  },
+  {
+    "country": "World",
+    "year": 1997,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 858.346
+  },
+  {
+    "country": "World",
+    "year": 1998,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 447.483
+  },
+  {
+    "country": "World",
+    "year": 1999,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 1547.347
+  },
+  {
+    "country": "World",
+    "year": 2000,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 2345.113
+  },
+  {
+    "country": "World",
+    "year": 2001,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 1147.216
+  },
+  {
+    "country": "World",
+    "year": 2002,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 2175.143
+  },
+  {
+    "country": "World",
+    "year": 2003,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 4221.287
+  },
+  {
+    "country": "World",
+    "year": 2004,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 4797.584
+  },
+  {
+    "country": "World",
+    "year": 2005,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 3803.333
+  },
+  {
+    "country": "World",
+    "year": 2006,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 3154.204
+  },
+  {
+    "country": "World",
+    "year": 2007,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 3891.68
+  },
+  {
+    "country": "World",
+    "year": 2008,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 855.622
+  },
+  {
+    "country": "World",
+    "year": 2009,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": -2147.294
+  },
+  {
+    "country": "World",
+    "year": 2010,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 5477.97
+  },
+  {
+    "country": "World",
+    "year": 2011,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 3247.911
+  },
+  {
+    "country": "World",
+    "year": 2012,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 1623.049
+  },
+  {
+    "country": "World",
+    "year": 2013,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 1886.02
+  },
+  {
+    "country": "World",
+    "year": 2014,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 514.251
+  },
+  {
+    "country": "World",
+    "year": 2015,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 553.902
+  },
+  {
+    "country": "World",
+    "year": 2016,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 1189.562
+  },
+  {
+    "country": "World",
+    "year": 2017,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 1806.839
+  },
+  {
+    "country": "World",
+    "year": 2018,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 3294.567
+  },
+  {
+    "country": "World",
+    "year": 2019,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption Change",
+    "value": 954.37
+  },
+  {
+    "country": "World",
+    "year": 1965,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 40552.64
+  },
+  {
+    "country": "World",
+    "year": 1966,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 42689.38
+  },
+  {
+    "country": "World",
+    "year": 1967,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 44325.45
+  },
+  {
+    "country": "World",
+    "year": 1968,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 47020.96
+  },
+  {
+    "country": "World",
+    "year": 1969,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 50209.06
+  },
+  {
+    "country": "World",
+    "year": 1970,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 53381.48
+  },
+  {
+    "country": "World",
+    "year": 1971,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 55463.02
+  },
+  {
+    "country": "World",
+    "year": 1972,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 58393.68
+  },
+  {
+    "country": "World",
+    "year": 1973,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 61790.73
+  },
+  {
+    "country": "World",
+    "year": 1974,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 61610.76
+  },
+  {
+    "country": "World",
+    "year": 1975,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 61634.07
+  },
+  {
+    "country": "World",
+    "year": 1976,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 65073.27
+  },
+  {
+    "country": "World",
+    "year": 1977,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 67216.57
+  },
+  {
+    "country": "World",
+    "year": 1978,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 69179.14
+  },
+  {
+    "country": "World",
+    "year": 1979,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 71507.52
+  },
+  {
+    "country": "World",
+    "year": 1980,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 70672.85
+  },
+  {
+    "country": "World",
+    "year": 1981,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 69840.69
+  },
+  {
+    "country": "World",
+    "year": 1982,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 69051.15
+  },
+  {
+    "country": "World",
+    "year": 1983,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 69716.56
+  },
+  {
+    "country": "World",
+    "year": 1984,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 72639.88
+  },
+  {
+    "country": "World",
+    "year": 1985,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 74036.27
+  },
+  {
+    "country": "World",
+    "year": 1986,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 75478.66
+  },
+  {
+    "country": "World",
+    "year": 1987,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 77990.38
+  },
+  {
+    "country": "World",
+    "year": 1988,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 80755.35
+  },
+  {
+    "country": "World",
+    "year": 1989,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 82383.88
+  },
+  {
+    "country": "World",
+    "year": 1990,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 83070.32
+  },
+  {
+    "country": "World",
+    "year": 1991,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 83310.06
+  },
+  {
+    "country": "World",
+    "year": 1992,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 83961.14
+  },
+  {
+    "country": "World",
+    "year": 1993,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 84043.5
+  },
+  {
+    "country": "World",
+    "year": 1994,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 85101.87
+  },
+  {
+    "country": "World",
+    "year": 1995,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 86507.62
+  },
+  {
+    "country": "World",
+    "year": 1996,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 89116.1
+  },
+  {
+    "country": "World",
+    "year": 1997,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 89974.45
+  },
+  {
+    "country": "World",
+    "year": 1998,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 90421.93
+  },
+  {
+    "country": "World",
+    "year": 1999,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 91969.28
+  },
+  {
+    "country": "World",
+    "year": 2000,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 94314.39
+  },
+  {
+    "country": "World",
+    "year": 2001,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 95461.61
+  },
+  {
+    "country": "World",
+    "year": 2002,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 97636.75
+  },
+  {
+    "country": "World",
+    "year": 2003,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 101858
+  },
+  {
+    "country": "World",
+    "year": 2004,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 106655.6
+  },
+  {
+    "country": "World",
+    "year": 2005,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 110459
+  },
+  {
+    "country": "World",
+    "year": 2006,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 113613.2
+  },
+  {
+    "country": "World",
+    "year": 2007,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 117504.8
+  },
+  {
+    "country": "World",
+    "year": 2008,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 118360.5
+  },
+  {
+    "country": "World",
+    "year": 2009,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 116213.2
+  },
+  {
+    "country": "World",
+    "year": 2010,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 121691.1
+  },
+  {
+    "country": "World",
+    "year": 2011,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 124939
+  },
+  {
+    "country": "World",
+    "year": 2012,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 126562.1
+  },
+  {
+    "country": "World",
+    "year": 2013,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 128448.1
+  },
+  {
+    "country": "World",
+    "year": 2014,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 128962.4
+  },
+  {
+    "country": "World",
+    "year": 2015,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 129516.3
+  },
+  {
+    "country": "World",
+    "year": 2016,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 130705.8
+  },
+  {
+    "country": "World",
+    "year": 2017,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 132512.7
+  },
+  {
+    "country": "World",
+    "year": 2018,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 135807.2
+  },
+  {
+    "country": "World",
+    "year": 2019,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption",
+    "value": 136761.6
+  },
+  {
+    "country": "World",
+    "year": 1965,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 12143.02
+  },
+  {
+    "country": "World",
+    "year": 1966,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 12526.51
+  },
+  {
+    "country": "World",
+    "year": 1967,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 12741.7
+  },
+  {
+    "country": "World",
+    "year": 1968,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 13239.38
+  },
+  {
+    "country": "World",
+    "year": 1969,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 13848.17
+  },
+  {
+    "country": "World",
+    "year": 1970,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 14425.72
+  },
+  {
+    "country": "World",
+    "year": 1971,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 14689.23
+  },
+  {
+    "country": "World",
+    "year": 1972,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15160.69
+  },
+  {
+    "country": "World",
+    "year": 1973,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15731.72
+  },
+  {
+    "country": "World",
+    "year": 1974,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15388.1
+  },
+  {
+    "country": "World",
+    "year": 1975,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15108.32
+  },
+  {
+    "country": "World",
+    "year": 1976,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15662.69
+  },
+  {
+    "country": "World",
+    "year": 1977,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15892.3
+  },
+  {
+    "country": "World",
+    "year": 1978,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 16071.23
+  },
+  {
+    "country": "World",
+    "year": 1979,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 16324.03
+  },
+  {
+    "country": "World",
+    "year": 1980,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15853.03
+  },
+  {
+    "country": "World",
+    "year": 1981,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15393.59
+  },
+  {
+    "country": "World",
+    "year": 1982,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 14954.59
+  },
+  {
+    "country": "World",
+    "year": 1983,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 14834.67
+  },
+  {
+    "country": "World",
+    "year": 1984,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15183.88
+  },
+  {
+    "country": "World",
+    "year": 1985,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15199.64
+  },
+  {
+    "country": "World",
+    "year": 1986,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15215.73
+  },
+  {
+    "country": "World",
+    "year": 1987,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15435.93
+  },
+  {
+    "country": "World",
+    "year": 1988,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15694.59
+  },
+  {
+    "country": "World",
+    "year": 1989,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15729.8
+  },
+  {
+    "country": "World",
+    "year": 1990,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15593.53
+  },
+  {
+    "country": "World",
+    "year": 1991,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15387.07
+  },
+  {
+    "country": "World",
+    "year": 1992,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15268.66
+  },
+  {
+    "country": "World",
+    "year": 1993,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15057.25
+  },
+  {
+    "country": "World",
+    "year": 1994,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15027.3
+  },
+  {
+    "country": "World",
+    "year": 1995,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15059.96
+  },
+  {
+    "country": "World",
+    "year": 1996,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15299.18
+  },
+  {
+    "country": "World",
+    "year": 1997,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15236.88
+  },
+  {
+    "country": "World",
+    "year": 1998,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15108.61
+  },
+  {
+    "country": "World",
+    "year": 1999,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15165.84
+  },
+  {
+    "country": "World",
+    "year": 2000,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15351.91
+  },
+  {
+    "country": "World",
+    "year": 2001,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15341.05
+  },
+  {
+    "country": "World",
+    "year": 2002,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15493.54
+  },
+  {
+    "country": "World",
+    "year": 2003,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 15962.25
+  },
+  {
+    "country": "World",
+    "year": 2004,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 16507.2
+  },
+  {
+    "country": "World",
+    "year": 2005,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 16884.83
+  },
+  {
+    "country": "World",
+    "year": 2006,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 17152.99
+  },
+  {
+    "country": "World",
+    "year": 2007,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 17522.48
+  },
+  {
+    "country": "World",
+    "year": 2008,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 17433.92
+  },
+  {
+    "country": "World",
+    "year": 2009,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 16909.22
+  },
+  {
+    "country": "World",
+    "year": 2010,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 17492.34
+  },
+  {
+    "country": "World",
+    "year": 2011,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 17744.01
+  },
+  {
+    "country": "World",
+    "year": 2012,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 17761.04
+  },
+  {
+    "country": "World",
+    "year": 2013,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 17813.83
+  },
+  {
+    "country": "World",
+    "year": 2014,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 17677.48
+  },
+  {
+    "country": "World",
+    "year": 2015,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 17550.11
+  },
+  {
+    "country": "World",
+    "year": 2016,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 17511.45
+  },
+  {
+    "country": "World",
+    "year": 2017,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 17556.33
+  },
+  {
+    "country": "World",
+    "year": 2018,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 17796.57
+  },
+  {
+    "country": "World",
+    "year": 2019,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Consumption per capita",
+    "value": 17730.24
+  },
+  {
+    "country": "World",
+    "year": 1965,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1966,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1967,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1968,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1969,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1970,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1971,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1972,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1973,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1974,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1975,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1976,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1977,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1978,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1979,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1980,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1981,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1982,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1983,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1984,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1985,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1289.028
+  },
+  {
+    "country": "World",
+    "year": 1986,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1296.883
+  },
+  {
+    "country": "World",
+    "year": 1987,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1336.212
+  },
+  {
+    "country": "World",
+    "year": 1988,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1358.495
+  },
+  {
+    "country": "World",
+    "year": 1989,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1422.112
+  },
+  {
+    "country": "World",
+    "year": 1990,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1428.521
+  },
+  {
+    "country": "World",
+    "year": 1991,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1425.527
+  },
+  {
+    "country": "World",
+    "year": 1992,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1418.661
+  },
+  {
+    "country": "World",
+    "year": 1993,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1406.286
+  },
+  {
+    "country": "World",
+    "year": 1994,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1432.338
+  },
+  {
+    "country": "World",
+    "year": 1995,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1449.52
+  },
+  {
+    "country": "World",
+    "year": 1996,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1478.99
+  },
+  {
+    "country": "World",
+    "year": 1997,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1506.906
+  },
+  {
+    "country": "World",
+    "year": 1998,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1536.66
+  },
+  {
+    "country": "World",
+    "year": 1999,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1563.381
+  },
+  {
+    "country": "World",
+    "year": 2000,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1626.575
+  },
+  {
+    "country": "World",
+    "year": 2001,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1641.705
+  },
+  {
+    "country": "World",
+    "year": 2002,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1690.121
+  },
+  {
+    "country": "World",
+    "year": 2003,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1763.891
+  },
+  {
+    "country": "World",
+    "year": 2004,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1811.784
+  },
+  {
+    "country": "World",
+    "year": 2005,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1877.391
+  },
+  {
+    "country": "World",
+    "year": 2006,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1931.335
+  },
+  {
+    "country": "World",
+    "year": 2007,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 2031.929
+  },
+  {
+    "country": "World",
+    "year": 2008,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 2026.541
+  },
+  {
+    "country": "World",
+    "year": 2009,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1973.114
+  },
+  {
+    "country": "World",
+    "year": 2010,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 2076.968
+  },
+  {
+    "country": "World",
+    "year": 2011,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 2136.706
+  },
+  {
+    "country": "World",
+    "year": 2012,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 2170.596
+  },
+  {
+    "country": "World",
+    "year": 2013,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 2181.555
+  },
+  {
+    "country": "World",
+    "year": 2014,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 2196.581
+  },
+  {
+    "country": "World",
+    "year": 2015,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 2170.463
+  },
+  {
+    "country": "World",
+    "year": 2016,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 2175.18
+  },
+  {
+    "country": "World",
+    "year": 2017,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 2191.279
+  },
+  {
+    "country": "World",
+    "year": 2018,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 2236.133
+  },
+  {
+    "country": "World",
+    "year": 2019,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity per capita",
+    "value": 2197.109
+  },
+  {
+    "country": "World",
+    "year": 1965,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1966,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1967,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1968,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1969,
+    "decade": 1960,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1970,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1971,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1972,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1973,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1974,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1975,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1976,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1977,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1978,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1979,
+    "decade": 1970,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1980,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1981,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1982,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1983,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1984,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1985,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 63.555
+  },
+  {
+    "country": "World",
+    "year": 1986,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 63.232
+  },
+  {
+    "country": "World",
+    "year": 1987,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 63.307
+  },
+  {
+    "country": "World",
+    "year": 1988,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 62.784
+  },
+  {
+    "country": "World",
+    "year": 1989,
+    "decade": 1980,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 63.911
+  },
+  {
+    "country": "World",
+    "year": 1990,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 63.643
+  },
+  {
+    "country": "World",
+    "year": 1991,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 63.168
+  },
+  {
+    "country": "World",
+    "year": 1992,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 63.27
+  },
+  {
+    "country": "World",
+    "year": 1993,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 62.337
+  },
+  {
+    "country": "World",
+    "year": 1994,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 62.799
+  },
+  {
+    "country": "World",
+    "year": 1995,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 62.252
+  },
+  {
+    "country": "World",
+    "year": 1996,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 62.476
+  },
+  {
+    "country": "World",
+    "year": 1997,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 63.017
+  },
+  {
+    "country": "World",
+    "year": 1998,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 63.413
+  },
+  {
+    "country": "World",
+    "year": 1999,
+    "decade": 1990,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 63.554
+  },
+  {
+    "country": "World",
+    "year": 2000,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 64.241
+  },
+  {
+    "country": "World",
+    "year": 2001,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 64.703
+  },
+  {
+    "country": "World",
+    "year": 2002,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 65.161
+  },
+  {
+    "country": "World",
+    "year": 2003,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 66.509
+  },
+  {
+    "country": "World",
+    "year": 2004,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 66.039
+  },
+  {
+    "country": "World",
+    "year": 2005,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 66.555
+  },
+  {
+    "country": "World",
+    "year": 2006,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 66.783
+  },
+  {
+    "country": "World",
+    "year": 2007,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 67.975
+  },
+  {
+    "country": "World",
+    "year": 2008,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 67.373
+  },
+  {
+    "country": "World",
+    "year": 2009,
+    "decade": 2000,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 66.919
+  },
+  {
+    "country": "World",
+    "year": 2010,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 66.987
+  },
+  {
+    "country": "World",
+    "year": 2011,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 67.598
+  },
+  {
+    "country": "World",
+    "year": 2012,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 67.825
+  },
+  {
+    "country": "World",
+    "year": 2013,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 67.127
+  },
+  {
+    "country": "World",
+    "year": 2014,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 66.687
+  },
+  {
+    "country": "World",
+    "year": 2015,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 66.008
+  },
+  {
+    "country": "World",
+    "year": 2016,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 65.143
+  },
+  {
+    "country": "World",
+    "year": 2017,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 64.499
+  },
+  {
+    "country": "World",
+    "year": 2018,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 64.024
+  },
+  {
+    "country": "World",
+    "year": 2019,
+    "decade": 2010,
+    "Type": "Non Renewable",
+    "Measure": "Electricity Share",
+    "value": 62.757
+  },
+  {
+    "country": "World",
+    "year": 1965,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1966,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1967,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1968,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1969,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1970,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1971,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1972,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1973,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1974,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1975,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1976,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1977,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1978,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1979,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1980,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1981,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1982,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1983,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1984,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1985,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 35.899
+  },
+  {
+    "country": "World",
+    "year": 1986,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 36.24
+  },
+  {
+    "country": "World",
+    "year": 1987,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 36.198
+  },
+  {
+    "country": "World",
+    "year": 1988,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 36.688
+  },
+  {
+    "country": "World",
+    "year": 1989,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 35.523
+  },
+  {
+    "country": "World",
+    "year": 1990,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 35.797
+  },
+  {
+    "country": "World",
+    "year": 1991,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 36.274
+  },
+  {
+    "country": "World",
+    "year": 1992,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 36.15
+  },
+  {
+    "country": "World",
+    "year": 1993,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 37.069
+  },
+  {
+    "country": "World",
+    "year": 1994,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 36.626
+  },
+  {
+    "country": "World",
+    "year": 1995,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 37.108
+  },
+  {
+    "country": "World",
+    "year": 1996,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 36.897
+  },
+  {
+    "country": "World",
+    "year": 1997,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 36.334
+  },
+  {
+    "country": "World",
+    "year": 1998,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 35.882
+  },
+  {
+    "country": "World",
+    "year": 1999,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 35.727
+  },
+  {
+    "country": "World",
+    "year": 2000,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 35.046
+  },
+  {
+    "country": "World",
+    "year": 2001,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 34.641
+  },
+  {
+    "country": "World",
+    "year": 2002,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 34.19
+  },
+  {
+    "country": "World",
+    "year": 2003,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 32.808
+  },
+  {
+    "country": "World",
+    "year": 2004,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 33.316
+  },
+  {
+    "country": "World",
+    "year": 2005,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 32.774
+  },
+  {
+    "country": "World",
+    "year": 2006,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 32.583
+  },
+  {
+    "country": "World",
+    "year": 2007,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 31.423
+  },
+  {
+    "country": "World",
+    "year": 2008,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 32.045
+  },
+  {
+    "country": "World",
+    "year": 2009,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 32.511
+  },
+  {
+    "country": "World",
+    "year": 2010,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 32.288
+  },
+  {
+    "country": "World",
+    "year": 2011,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 31.713
+  },
+  {
+    "country": "World",
+    "year": 2012,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 31.498
+  },
+  {
+    "country": "World",
+    "year": 2013,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 32.203
+  },
+  {
+    "country": "World",
+    "year": 2014,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 32.628
+  },
+  {
+    "country": "World",
+    "year": 2015,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 33.326
+  },
+  {
+    "country": "World",
+    "year": 2016,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 33.976
+  },
+  {
+    "country": "World",
+    "year": 2017,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 34.611
+  },
+  {
+    "country": "World",
+    "year": 2018,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 35.042
+  },
+  {
+    "country": "World",
+    "year": 2019,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity Share",
+    "value": 36.378
+  },
+  {
+    "country": "World",
+    "year": 1965,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 966.723
+  },
+  {
+    "country": "World",
+    "year": 1966,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 1038.056
+  },
+  {
+    "country": "World",
+    "year": 1967,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 1066.735
+  },
+  {
+    "country": "World",
+    "year": 1968,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 1133.522
+  },
+  {
+    "country": "World",
+    "year": 1969,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 1206.785
+  },
+  {
+    "country": "World",
+    "year": 1970,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 1279.215
+  },
+  {
+    "country": "World",
+    "year": 1971,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 1364.648
+  },
+  {
+    "country": "World",
+    "year": 1972,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 1466.683
+  },
+  {
+    "country": "World",
+    "year": 1973,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 1538.996
+  },
+  {
+    "country": "World",
+    "year": 1974,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 1731.824
+  },
+  {
+    "country": "World",
+    "year": 1975,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 1853.222
+  },
+  {
+    "country": "World",
+    "year": 1976,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 1914.267
+  },
+  {
+    "country": "World",
+    "year": 1977,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 2070.782
+  },
+  {
+    "country": "World",
+    "year": 1978,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 2283.153
+  },
+  {
+    "country": "World",
+    "year": 1979,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 2392.224
+  },
+  {
+    "country": "World",
+    "year": 1980,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 2492.973
+  },
+  {
+    "country": "World",
+    "year": 1981,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 2662.82
+  },
+  {
+    "country": "World",
+    "year": 1982,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 2774.476
+  },
+  {
+    "country": "World",
+    "year": 1983,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 2979.636
+  },
+  {
+    "country": "World",
+    "year": 1984,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 3272.004
+  },
+  {
+    "country": "World",
+    "year": 1985,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 3546.565
+  },
+  {
+    "country": "World",
+    "year": 1986,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 3687.041
+  },
+  {
+    "country": "World",
+    "year": 1987,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 3860.288
+  },
+  {
+    "country": "World",
+    "year": 1988,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 4084.593
+  },
+  {
+    "country": "World",
+    "year": 1989,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 4139.842
+  },
+  {
+    "country": "World",
+    "year": 1990,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 4280.349
+  },
+  {
+    "country": "World",
+    "year": 1991,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 4432.16
+  },
+  {
+    "country": "World",
+    "year": 1992,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 4457.307
+  },
+  {
+    "country": "World",
+    "year": 1993,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 4667.607
+  },
+  {
+    "country": "World",
+    "year": 1994,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 4730.859
+  },
+  {
+    "country": "World",
+    "year": 1995,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 4963.294
+  },
+  {
+    "country": "World",
+    "year": 1996,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 5087.775
+  },
+  {
+    "country": "World",
+    "year": 1997,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 5130.473
+  },
+  {
+    "country": "World",
+    "year": 1998,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 5203.838
+  },
+  {
+    "country": "World",
+    "year": 1999,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 5329.564
+  },
+  {
+    "country": "World",
+    "year": 2000,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 5451.457
+  },
+  {
+    "country": "World",
+    "year": 2001,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 5469.331
+  },
+  {
+    "country": "World",
+    "year": 2002,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 5588.474
+  },
+  {
+    "country": "World",
+    "year": 2003,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 5552.273
+  },
+  {
+    "country": "World",
+    "year": 2004,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 5905.725
+  },
+  {
+    "country": "World",
+    "year": 2005,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 6048.058
+  },
+  {
+    "country": "World",
+    "year": 2006,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 6241.315
+  },
+  {
+    "country": "World",
+    "year": 2007,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 6298.86
+  },
+  {
+    "country": "World",
+    "year": 2008,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 6543.893
+  },
+  {
+    "country": "World",
+    "year": 2009,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 6588.153
+  },
+  {
+    "country": "World",
+    "year": 2010,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 6964.437
+  },
+  {
+    "country": "World",
+    "year": 2011,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 7058.225
+  },
+  {
+    "country": "World",
+    "year": 2012,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 7182.951
+  },
+  {
+    "country": "World",
+    "year": 2013,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 7546.319
+  },
+  {
+    "country": "World",
+    "year": 2014,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 7840.556
+  },
+  {
+    "country": "World",
+    "year": 2015,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 8087.066
+  },
+  {
+    "country": "World",
+    "year": 2016,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 8467.731
+  },
+  {
+    "country": "World",
+    "year": 2017,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 8875.235
+  },
+  {
+    "country": "World",
+    "year": 2018,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 9339.736
+  },
+  {
+    "country": "World",
+    "year": 2019,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity Generation",
+    "value": 9823.694
+  },
+  {
+    "country": "World",
+    "year": 1965,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 289.474
+  },
+  {
+    "country": "World",
+    "year": 1966,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 304.601
+  },
+  {
+    "country": "World",
+    "year": 1967,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 306.642
+  },
+  {
+    "country": "World",
+    "year": 1968,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 319.158
+  },
+  {
+    "country": "World",
+    "year": 1969,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 332.844
+  },
+  {
+    "country": "World",
+    "year": 1970,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 345.693
+  },
+  {
+    "country": "World",
+    "year": 1971,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 361.424
+  },
+  {
+    "country": "World",
+    "year": 1972,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 380.793
+  },
+  {
+    "country": "World",
+    "year": 1973,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 391.823
+  },
+  {
+    "country": "World",
+    "year": 1974,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 432.546
+  },
+  {
+    "country": "World",
+    "year": 1975,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 454.279
+  },
+  {
+    "country": "World",
+    "year": 1976,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 460.751
+  },
+  {
+    "country": "World",
+    "year": 1977,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 489.604
+  },
+  {
+    "country": "World",
+    "year": 1978,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 530.406
+  },
+  {
+    "country": "World",
+    "year": 1979,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 546.107
+  },
+  {
+    "country": "World",
+    "year": 1980,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 559.213
+  },
+  {
+    "country": "World",
+    "year": 1981,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 586.912
+  },
+  {
+    "country": "World",
+    "year": 1982,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 600.876
+  },
+  {
+    "country": "World",
+    "year": 1983,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 634.023
+  },
+  {
+    "country": "World",
+    "year": 1984,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 683.946
+  },
+  {
+    "country": "World",
+    "year": 1985,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 728.109
+  },
+  {
+    "country": "World",
+    "year": 1986,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 743.27
+  },
+  {
+    "country": "World",
+    "year": 1987,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 764.032
+  },
+  {
+    "country": "World",
+    "year": 1988,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 793.83
+  },
+  {
+    "country": "World",
+    "year": 1989,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 790.432
+  },
+  {
+    "country": "World",
+    "year": 1990,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 803.485
+  },
+  {
+    "country": "World",
+    "year": 1991,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 818.604
+  },
+  {
+    "country": "World",
+    "year": 1992,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 810.579
+  },
+  {
+    "country": "World",
+    "year": 1993,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 836.249
+  },
+  {
+    "country": "World",
+    "year": 1994,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 835.376
+  },
+  {
+    "country": "World",
+    "year": 1995,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 864.051
+  },
+  {
+    "country": "World",
+    "year": 1996,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 873.454
+  },
+  {
+    "country": "World",
+    "year": 1997,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 868.829
+  },
+  {
+    "country": "World",
+    "year": 1998,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 869.51
+  },
+  {
+    "country": "World",
+    "year": 1999,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 878.851
+  },
+  {
+    "country": "World",
+    "year": 2000,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 887.354
+  },
+  {
+    "country": "World",
+    "year": 2001,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 878.942
+  },
+  {
+    "country": "World",
+    "year": 2002,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 886.81
+  },
+  {
+    "country": "World",
+    "year": 2003,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 870.101
+  },
+  {
+    "country": "World",
+    "year": 2004,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 914.035
+  },
+  {
+    "country": "World",
+    "year": 2005,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 924.51
+  },
+  {
+    "country": "World",
+    "year": 2006,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 942.296
+  },
+  {
+    "country": "World",
+    "year": 2007,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 939.295
+  },
+  {
+    "country": "World",
+    "year": 2008,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 963.884
+  },
+  {
+    "country": "World",
+    "year": 2009,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 958.588
+  },
+  {
+    "country": "World",
+    "year": 2010,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1001.094
+  },
+  {
+    "country": "World",
+    "year": 2011,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1002.419
+  },
+  {
+    "country": "World",
+    "year": 2012,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1008.016
+  },
+  {
+    "country": "World",
+    "year": 2013,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1046.562
+  },
+  {
+    "country": "World",
+    "year": 2014,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1074.742
+  },
+  {
+    "country": "World",
+    "year": 2015,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1095.839
+  },
+  {
+    "country": "World",
+    "year": 2016,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1134.473
+  },
+  {
+    "country": "World",
+    "year": 2017,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1175.861
+  },
+  {
+    "country": "World",
+    "year": 2018,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1223.906
+  },
+  {
+    "country": "World",
+    "year": 2019,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Electricity per capita",
+    "value": 1273.577
+  },
+  {
+    "country": "World",
+    "year": 1965,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1966,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 7.379
+  },
+  {
+    "country": "World",
+    "year": 1967,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 2.763
+  },
+  {
+    "country": "World",
+    "year": 1968,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 6.261
+  },
+  {
+    "country": "World",
+    "year": 1969,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 6.463
+  },
+  {
+    "country": "World",
+    "year": 1970,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 6.002
+  },
+  {
+    "country": "World",
+    "year": 1971,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 6.679
+  },
+  {
+    "country": "World",
+    "year": 1972,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 7.477
+  },
+  {
+    "country": "World",
+    "year": 1973,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 4.93
+  },
+  {
+    "country": "World",
+    "year": 1974,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 12.529
+  },
+  {
+    "country": "World",
+    "year": 1975,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 7.01
+  },
+  {
+    "country": "World",
+    "year": 1976,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 3.294
+  },
+  {
+    "country": "World",
+    "year": 1977,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 8.176
+  },
+  {
+    "country": "World",
+    "year": 1978,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 10.256
+  },
+  {
+    "country": "World",
+    "year": 1979,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 4.777
+  },
+  {
+    "country": "World",
+    "year": 1980,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 4.211
+  },
+  {
+    "country": "World",
+    "year": 1981,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 6.813
+  },
+  {
+    "country": "World",
+    "year": 1982,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 4.193
+  },
+  {
+    "country": "World",
+    "year": 1983,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 7.395
+  },
+  {
+    "country": "World",
+    "year": 1984,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 9.812
+  },
+  {
+    "country": "World",
+    "year": 1985,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 8.391
+  },
+  {
+    "country": "World",
+    "year": 1986,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 3.961
+  },
+  {
+    "country": "World",
+    "year": 1987,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 4.699
+  },
+  {
+    "country": "World",
+    "year": 1988,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 5.811
+  },
+  {
+    "country": "World",
+    "year": 1989,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 1.353
+  },
+  {
+    "country": "World",
+    "year": 1990,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 4.288
+  },
+  {
+    "country": "World",
+    "year": 1991,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 3.565
+  },
+  {
+    "country": "World",
+    "year": 1992,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 0.546
+  },
+  {
+    "country": "World",
+    "year": 1993,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 4.714
+  },
+  {
+    "country": "World",
+    "year": 1994,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 1.412
+  },
+  {
+    "country": "World",
+    "year": 1995,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 4.916
+  },
+  {
+    "country": "World",
+    "year": 1996,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 2.446
+  },
+  {
+    "country": "World",
+    "year": 1997,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 0.869
+  },
+  {
+    "country": "World",
+    "year": 1998,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 1.427
+  },
+  {
+    "country": "World",
+    "year": 1999,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 2.406
+  },
+  {
+    "country": "World",
+    "year": 2000,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 2.245
+  },
+  {
+    "country": "World",
+    "year": 2001,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": -0.323
+  },
+  {
+    "country": "World",
+    "year": 2002,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 1.641
+  },
+  {
+    "country": "World",
+    "year": 2003,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": -1.151
+  },
+  {
+    "country": "World",
+    "year": 2004,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 5.852
+  },
+  {
+    "country": "World",
+    "year": 2005,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 1.981
+  },
+  {
+    "country": "World",
+    "year": 2006,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 2.88
+  },
+  {
+    "country": "World",
+    "year": 2007,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 0.844
+  },
+  {
+    "country": "World",
+    "year": 2008,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 4.02
+  },
+  {
+    "country": "World",
+    "year": 2009,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 0.496
+  },
+  {
+    "country": "World",
+    "year": 2010,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 5.412
+  },
+  {
+    "country": "World",
+    "year": 2011,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 0.875
+  },
+  {
+    "country": "World",
+    "year": 2012,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 1.208
+  },
+  {
+    "country": "World",
+    "year": 2013,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 4.522
+  },
+  {
+    "country": "World",
+    "year": 2014,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 3.435
+  },
+  {
+    "country": "World",
+    "year": 2015,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 2.575
+  },
+  {
+    "country": "World",
+    "year": 2016,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 4.088
+  },
+  {
+    "country": "World",
+    "year": 2017,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 4.141
+  },
+  {
+    "country": "World",
+    "year": 2018,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 4.718
+  },
+  {
+    "country": "World",
+    "year": 2019,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption Growth",
+    "value": 4.844
+  },
+  {
+    "country": "World",
+    "year": 1965,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 6.209
+  },
+  {
+    "country": "World",
+    "year": 1966,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 6.326
+  },
+  {
+    "country": "World",
+    "year": 1967,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 6.265
+  },
+  {
+    "country": "World",
+    "year": 1968,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 6.275
+  },
+  {
+    "country": "World",
+    "year": 1969,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 6.257
+  },
+  {
+    "country": "World",
+    "year": 1970,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 6.24
+  },
+  {
+    "country": "World",
+    "year": 1971,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 6.396
+  },
+  {
+    "country": "World",
+    "year": 1972,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 6.521
+  },
+  {
+    "country": "World",
+    "year": 1973,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 6.47
+  },
+  {
+    "country": "World",
+    "year": 1974,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 7.241
+  },
+  {
+    "country": "World",
+    "year": 1975,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 7.707
+  },
+  {
+    "country": "World",
+    "year": 1976,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 7.553
+  },
+  {
+    "country": "World",
+    "year": 1977,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 7.881
+  },
+  {
+    "country": "World",
+    "year": 1978,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 8.395
+  },
+  {
+    "country": "World",
+    "year": 1979,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 8.5
+  },
+  {
+    "country": "World",
+    "year": 1980,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 8.921
+  },
+  {
+    "country": "World",
+    "year": 1981,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 9.573
+  },
+  {
+    "country": "World",
+    "year": 1982,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 10.036
+  },
+  {
+    "country": "World",
+    "year": 1983,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 10.606
+  },
+  {
+    "country": "World",
+    "year": 1984,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 11.113
+  },
+  {
+    "country": "World",
+    "year": 1985,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 11.735
+  },
+  {
+    "country": "World",
+    "year": 1986,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 11.937
+  },
+  {
+    "country": "World",
+    "year": 1987,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 12.076
+  },
+  {
+    "country": "World",
+    "year": 1988,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 12.308
+  },
+  {
+    "country": "World",
+    "year": 1989,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 12.237
+  },
+  {
+    "country": "World",
+    "year": 1990,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 12.615
+  },
+  {
+    "country": "World",
+    "year": 1991,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 12.974
+  },
+  {
+    "country": "World",
+    "year": 1992,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 12.948
+  },
+  {
+    "country": "World",
+    "year": 1993,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 13.464
+  },
+  {
+    "country": "World",
+    "year": 1994,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 13.482
+  },
+  {
+    "country": "World",
+    "year": 1995,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 13.855
+  },
+  {
+    "country": "World",
+    "year": 1996,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 13.789
+  },
+  {
+    "country": "World",
+    "year": 1997,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 13.778
+  },
+  {
+    "country": "World",
+    "year": 1998,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 13.888
+  },
+  {
+    "country": "World",
+    "year": 1999,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 13.969
+  },
+  {
+    "country": "World",
+    "year": 2000,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 13.934
+  },
+  {
+    "country": "World",
+    "year": 2001,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 13.751
+  },
+  {
+    "country": "World",
+    "year": 2002,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 13.677
+  },
+  {
+    "country": "World",
+    "year": 2003,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 13.053
+  },
+  {
+    "country": "World",
+    "year": 2004,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 13.176
+  },
+  {
+    "country": "World",
+    "year": 2005,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 13.001
+  },
+  {
+    "country": "World",
+    "year": 2006,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 13.004
+  },
+  {
+    "country": "World",
+    "year": 2007,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 12.72
+  },
+  {
+    "country": "World",
+    "year": 2008,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 13.082
+  },
+  {
+    "country": "World",
+    "year": 2009,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 13.348
+  },
+  {
+    "country": "World",
+    "year": 2010,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 13.426
+  },
+  {
+    "country": "World",
+    "year": 2011,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 13.222
+  },
+  {
+    "country": "World",
+    "year": 2012,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 13.212
+  },
+  {
+    "country": "World",
+    "year": 2013,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 13.553
+  },
+  {
+    "country": "World",
+    "year": 2014,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 13.906
+  },
+  {
+    "country": "World",
+    "year": 2015,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 14.161
+  },
+  {
+    "country": "World",
+    "year": 2016,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 14.541
+  },
+  {
+    "country": "World",
+    "year": 2017,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 14.877
+  },
+  {
+    "country": "World",
+    "year": 2018,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 15.152
+  },
+  {
+    "country": "World",
+    "year": 2019,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Energy Share",
+    "value": 15.677
+  },
+  {
+    "country": "World",
+    "year": 1965,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": "NA"
+  },
+  {
+    "country": "World",
+    "year": 1966,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 198.149
+  },
+  {
+    "country": "World",
+    "year": 1967,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 79.664
+  },
+  {
+    "country": "World",
+    "year": 1968,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 185.52
+  },
+  {
+    "country": "World",
+    "year": 1969,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 203.507
+  },
+  {
+    "country": "World",
+    "year": 1970,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 201.197
+  },
+  {
+    "country": "World",
+    "year": 1971,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 237.314
+  },
+  {
+    "country": "World",
+    "year": 1972,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 283.429
+  },
+  {
+    "country": "World",
+    "year": 1973,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 200.871
+  },
+  {
+    "country": "World",
+    "year": 1974,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 535.633
+  },
+  {
+    "country": "World",
+    "year": 1975,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 337.216
+  },
+  {
+    "country": "World",
+    "year": 1976,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 169.571
+  },
+  {
+    "country": "World",
+    "year": 1977,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 434.764
+  },
+  {
+    "country": "World",
+    "year": 1978,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 589.919
+  },
+  {
+    "country": "World",
+    "year": 1979,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 302.978
+  },
+  {
+    "country": "World",
+    "year": 1980,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 279.856
+  },
+  {
+    "country": "World",
+    "year": 1981,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 471.798
+  },
+  {
+    "country": "World",
+    "year": 1982,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 310.156
+  },
+  {
+    "country": "World",
+    "year": 1983,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 569.89
+  },
+  {
+    "country": "World",
+    "year": 1984,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 812.135
+  },
+  {
+    "country": "World",
+    "year": 1985,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 762.668
+  },
+  {
+    "country": "World",
+    "year": 1986,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 390.211
+  },
+  {
+    "country": "World",
+    "year": 1987,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 481.244
+  },
+  {
+    "country": "World",
+    "year": 1988,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 623.068
+  },
+  {
+    "country": "World",
+    "year": 1989,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 153.47
+  },
+  {
+    "country": "World",
+    "year": 1990,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 493.059
+  },
+  {
+    "country": "World",
+    "year": 1991,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 427.567
+  },
+  {
+    "country": "World",
+    "year": 1992,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 67.83
+  },
+  {
+    "country": "World",
+    "year": 1993,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 588.721
+  },
+  {
+    "country": "World",
+    "year": 1994,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 184.652
+  },
+  {
+    "country": "World",
+    "year": 1995,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 651.981
+  },
+  {
+    "country": "World",
+    "year": 1996,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 340.379
+  },
+  {
+    "country": "World",
+    "year": 1997,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 123.839
+  },
+  {
+    "country": "World",
+    "year": 1998,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 205.151
+  },
+  {
+    "country": "World",
+    "year": 1999,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 350.913
+  },
+  {
+    "country": "World",
+    "year": 2000,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 335.326
+  },
+  {
+    "country": "World",
+    "year": 2001,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": -49.302
+  },
+  {
+    "country": "World",
+    "year": 2002,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 249.76
+  },
+  {
+    "country": "World",
+    "year": 2003,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": -178.112
+  },
+  {
+    "country": "World",
+    "year": 2004,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 894.865
+  },
+  {
+    "country": "World",
+    "year": 2005,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 320.714
+  },
+  {
+    "country": "World",
+    "year": 2006,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 475.392
+  },
+  {
+    "country": "World",
+    "year": 2007,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 143.264
+  },
+  {
+    "country": "World",
+    "year": 2008,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 688.503
+  },
+  {
+    "country": "World",
+    "year": 2009,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 88.326
+  },
+  {
+    "country": "World",
+    "year": 2010,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 968.839
+  },
+  {
+    "country": "World",
+    "year": 2011,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 165.061
+  },
+  {
+    "country": "World",
+    "year": 2012,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 229.971
+  },
+  {
+    "country": "World",
+    "year": 2013,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 871.275
+  },
+  {
+    "country": "World",
+    "year": 2014,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 691.818
+  },
+  {
+    "country": "World",
+    "year": 2015,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 536.407
+  },
+  {
+    "country": "World",
+    "year": 2016,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 873.339
+  },
+  {
+    "country": "World",
+    "year": 2017,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 921.007
+  },
+  {
+    "country": "World",
+    "year": 2018,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 1092.753
+  },
+  {
+    "country": "World",
+    "year": 2019,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption Change",
+    "value": 1174.696
+  },
+  {
+    "country": "World",
+    "year": 1965,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 2685.343
+  },
+  {
+    "country": "World",
+    "year": 1966,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 2883.492
+  },
+  {
+    "country": "World",
+    "year": 1967,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 2963.156
+  },
+  {
+    "country": "World",
+    "year": 1968,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 3148.675
+  },
+  {
+    "country": "World",
+    "year": 1969,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 3352.182
+  },
+  {
+    "country": "World",
+    "year": 1970,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 3553.379
+  },
+  {
+    "country": "World",
+    "year": 1971,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 3790.693
+  },
+  {
+    "country": "World",
+    "year": 1972,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 4074.122
+  },
+  {
+    "country": "World",
+    "year": 1973,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 4274.992
+  },
+  {
+    "country": "World",
+    "year": 1974,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 4810.626
+  },
+  {
+    "country": "World",
+    "year": 1975,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 5147.842
+  },
+  {
+    "country": "World",
+    "year": 1976,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 5317.413
+  },
+  {
+    "country": "World",
+    "year": 1977,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 5752.177
+  },
+  {
+    "country": "World",
+    "year": 1978,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 6342.096
+  },
+  {
+    "country": "World",
+    "year": 1979,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 6645.073
+  },
+  {
+    "country": "World",
+    "year": 1980,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 6924.929
+  },
+  {
+    "country": "World",
+    "year": 1981,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 7396.727
+  },
+  {
+    "country": "World",
+    "year": 1982,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 7706.883
+  },
+  {
+    "country": "World",
+    "year": 1983,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 8276.773
+  },
+  {
+    "country": "World",
+    "year": 1984,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 9088.908
+  },
+  {
+    "country": "World",
+    "year": 1985,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 9851.576
+  },
+  {
+    "country": "World",
+    "year": 1986,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 10241.79
+  },
+  {
+    "country": "World",
+    "year": 1987,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 10723.03
+  },
+  {
+    "country": "World",
+    "year": 1988,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 11346.1
+  },
+  {
+    "country": "World",
+    "year": 1989,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 11499.57
+  },
+  {
+    "country": "World",
+    "year": 1990,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 11992.63
+  },
+  {
+    "country": "World",
+    "year": 1991,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 12420.2
+  },
+  {
+    "country": "World",
+    "year": 1992,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 12488.03
+  },
+  {
+    "country": "World",
+    "year": 1993,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 13076.75
+  },
+  {
+    "country": "World",
+    "year": 1994,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 13261.4
+  },
+  {
+    "country": "World",
+    "year": 1995,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 13913.38
+  },
+  {
+    "country": "World",
+    "year": 1996,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 14253.76
+  },
+  {
+    "country": "World",
+    "year": 1997,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 14377.6
+  },
+  {
+    "country": "World",
+    "year": 1998,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 14582.75
+  },
+  {
+    "country": "World",
+    "year": 1999,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 14933.66
+  },
+  {
+    "country": "World",
+    "year": 2000,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 15268.99
+  },
+  {
+    "country": "World",
+    "year": 2001,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 15219.68
+  },
+  {
+    "country": "World",
+    "year": 2002,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 15469.44
+  },
+  {
+    "country": "World",
+    "year": 2003,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 15291.33
+  },
+  {
+    "country": "World",
+    "year": 2004,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 16186.2
+  },
+  {
+    "country": "World",
+    "year": 2005,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 16506.91
+  },
+  {
+    "country": "World",
+    "year": 2006,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 16982.31
+  },
+  {
+    "country": "World",
+    "year": 2007,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 17125.57
+  },
+  {
+    "country": "World",
+    "year": 2008,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 17814.07
+  },
+  {
+    "country": "World",
+    "year": 2009,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 17902.4
+  },
+  {
+    "country": "World",
+    "year": 2010,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 18871.24
+  },
+  {
+    "country": "World",
+    "year": 2011,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 19036.3
+  },
+  {
+    "country": "World",
+    "year": 2012,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 19266.27
+  },
+  {
+    "country": "World",
+    "year": 2013,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 20137.54
+  },
+  {
+    "country": "World",
+    "year": 2014,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 20829.36
+  },
+  {
+    "country": "World",
+    "year": 2015,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 21365.77
+  },
+  {
+    "country": "World",
+    "year": 2016,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 22239.11
+  },
+  {
+    "country": "World",
+    "year": 2017,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 23160.11
+  },
+  {
+    "country": "World",
+    "year": 2018,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 24252.87
+  },
+  {
+    "country": "World",
+    "year": 2019,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption",
+    "value": 25427.56
+  },
+  {
+    "country": "World",
+    "year": 1965,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 804.095
+  },
+  {
+    "country": "World",
+    "year": 1966,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 846.114
+  },
+  {
+    "country": "World",
+    "year": 1967,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 851.783
+  },
+  {
+    "country": "World",
+    "year": 1968,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 886.551
+  },
+  {
+    "country": "World",
+    "year": 1969,
+    "decade": 1960,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 924.566
+  },
+  {
+    "country": "World",
+    "year": 1970,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 960.259
+  },
+  {
+    "country": "World",
+    "year": 1971,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 1003.955
+  },
+  {
+    "country": "World",
+    "year": 1972,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 1057.76
+  },
+  {
+    "country": "World",
+    "year": 1973,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 1088.399
+  },
+  {
+    "country": "World",
+    "year": 1974,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 1201.517
+  },
+  {
+    "country": "World",
+    "year": 1975,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 1261.887
+  },
+  {
+    "country": "World",
+    "year": 1976,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 1279.865
+  },
+  {
+    "country": "World",
+    "year": 1977,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 1360.011
+  },
+  {
+    "country": "World",
+    "year": 1978,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 1473.352
+  },
+  {
+    "country": "World",
+    "year": 1979,
+    "decade": 1970,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 1516.965
+  },
+  {
+    "country": "World",
+    "year": 1980,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 1553.37
+  },
+  {
+    "country": "World",
+    "year": 1981,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 1630.313
+  },
+  {
+    "country": "World",
+    "year": 1982,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 1669.1
+  },
+  {
+    "country": "World",
+    "year": 1983,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 1761.177
+  },
+  {
+    "country": "World",
+    "year": 1984,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 1899.851
+  },
+  {
+    "country": "World",
+    "year": 1985,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2022.528
+  },
+  {
+    "country": "World",
+    "year": 1986,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2064.64
+  },
+  {
+    "country": "World",
+    "year": 1987,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2122.313
+  },
+  {
+    "country": "World",
+    "year": 1988,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2205.085
+  },
+  {
+    "country": "World",
+    "year": 1989,
+    "decade": 1980,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2195.647
+  },
+  {
+    "country": "World",
+    "year": 1990,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2251.194
+  },
+  {
+    "country": "World",
+    "year": 1991,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2293.966
+  },
+  {
+    "country": "World",
+    "year": 1992,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2270.996
+  },
+  {
+    "country": "World",
+    "year": 1993,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2342.832
+  },
+  {
+    "country": "World",
+    "year": 1994,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2341.7
+  },
+  {
+    "country": "World",
+    "year": 1995,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2422.156
+  },
+  {
+    "country": "World",
+    "year": 1996,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2447.043
+  },
+  {
+    "country": "World",
+    "year": 1997,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2434.798
+  },
+  {
+    "country": "World",
+    "year": 1998,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2436.633
+  },
+  {
+    "country": "World",
+    "year": 1999,
+    "decade": 1990,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2462.578
+  },
+  {
+    "country": "World",
+    "year": 2000,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2485.391
+  },
+  {
+    "country": "World",
+    "year": 2001,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2445.862
+  },
+  {
+    "country": "World",
+    "year": 2002,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2454.777
+  },
+  {
+    "country": "World",
+    "year": 2003,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2396.316
+  },
+  {
+    "country": "World",
+    "year": 2004,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2505.154
+  },
+  {
+    "country": "World",
+    "year": 2005,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2523.257
+  },
+  {
+    "country": "World",
+    "year": 2006,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2563.94
+  },
+  {
+    "country": "World",
+    "year": 2007,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2553.788
+  },
+  {
+    "country": "World",
+    "year": 2008,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2623.927
+  },
+  {
+    "country": "World",
+    "year": 2009,
+    "decade": 2000,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2604.831
+  },
+  {
+    "country": "World",
+    "year": 2010,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2712.622
+  },
+  {
+    "country": "World",
+    "year": 2011,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2703.561
+  },
+  {
+    "country": "World",
+    "year": 2012,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2703.723
+  },
+  {
+    "country": "World",
+    "year": 2013,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2792.776
+  },
+  {
+    "country": "World",
+    "year": 2014,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2855.179
+  },
+  {
+    "country": "World",
+    "year": 2015,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2895.17
+  },
+  {
+    "country": "World",
+    "year": 2016,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 2979.507
+  },
+  {
+    "country": "World",
+    "year": 2017,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 3068.435
+  },
+  {
+    "country": "World",
+    "year": 2018,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 3178.165
+  },
+  {
+    "country": "World",
+    "year": 2019,
+    "decade": 2010,
+    "Type": "Renewable",
+    "Measure": "Consumption per capita",
+    "value": 3296.515
+  }
+]
