@@ -1,0 +1,3754 @@
+[
+  {
+    "country": "Algeria",
+    "cluster": 4,
+    "year": 1985,
+    "life_expectancy": "80.00",
+    "life_expect": "0.68",
+    "fertility": "12571.33"
+  },
+  {
+    "country": "Algeria",
+    "cluster": 4,
+    "year": 1990,
+    "life_expectancy": "14.56",
+    "life_expect": "0.12",
+    "fertility": "8113.67"
+  },
+  {
+    "country": "Algeria",
+    "cluster": 4,
+    "year": 1995,
+    "life_expectancy": "18.64",
+    "life_expect": "0.17",
+    "fertility": "6954.59"
+  },
+  {
+    "country": "Algeria",
+    "cluster": 4,
+    "year": 2000,
+    "life_expectancy": "4.83",
+    "life_expect": "0.05",
+    "fertility": "8118.03"
+  },
+  {
+    "country": "Algeria",
+    "cluster": 4,
+    "year": 2005,
+    "life_expectancy": "45.06",
+    "life_expect": "0.41",
+    "fertility": "10678.73"
+  },
+  {
+    "country": "Algeria",
+    "cluster": 4,
+    "year": 2010,
+    "life_expectancy": "13.20",
+    "life_expect": "0.11",
+    "fertility": "12452.40"
+  },
+  {
+    "country": "Algeria",
+    "cluster": 4,
+    "year": 2015,
+    "life_expectancy": "14.14",
+    "life_expect": "0.09",
+    "fertility": "12912.81"
+  },
+  {
+    "country": "Argentina",
+    "cluster": 3,
+    "year": 1985,
+    "life_expectancy": "2437.57",
+    "life_expect": "15.93",
+    "fertility": "12509.93"
+  },
+  {
+    "country": "Argentina",
+    "cluster": 3,
+    "year": 1990,
+    "life_expectancy": "2151.42",
+    "life_expect": "13.67",
+    "fertility": "12017.54"
+  },
+  {
+    "country": "Argentina",
+    "cluster": 3,
+    "year": 1995,
+    "life_expectancy": "2842.52",
+    "life_expect": "16.21",
+    "fertility": "15389.92"
+  },
+  {
+    "country": "Argentina",
+    "cluster": 3,
+    "year": 2000,
+    "life_expectancy": "3082.88",
+    "life_expect": "16.57",
+    "fertility": "15106.72"
+  },
+  {
+    "country": "Argentina",
+    "cluster": 3,
+    "year": 2005,
+    "life_expectancy": "3276.08",
+    "life_expect": "16.37",
+    "fertility": "15015.56"
+  },
+  {
+    "country": "Argentina",
+    "cluster": 3,
+    "year": 2010,
+    "life_expectancy": "3320.31",
+    "life_expect": "15.15",
+    "fertility": "18877.15"
+  },
+  {
+    "country": "Argentina",
+    "cluster": 3,
+    "year": 2015,
+    "life_expectancy": "3399.34",
+    "life_expect": "14.70",
+    "fertility": "19500.87"
+  },
+  {
+    "country": "Australia",
+    "cluster": 5,
+    "year": 1985,
+    "life_expectancy": "2553.01",
+    "life_expect": "4.48",
+    "fertility": "24259.45"
+  },
+  {
+    "country": "Australia",
+    "cluster": 5,
+    "year": 1990,
+    "life_expectancy": "2541.62",
+    "life_expect": "4.08",
+    "fertility": "27769.59"
+  },
+  {
+    "country": "Australia",
+    "cluster": 5,
+    "year": 1995,
+    "life_expectancy": "2544.92",
+    "life_expect": "3.93",
+    "fertility": "30345.13"
+  },
+  {
+    "country": "Australia",
+    "cluster": 5,
+    "year": 2000,
+    "life_expectancy": "2565.07",
+    "life_expect": "3.71",
+    "fertility": "35806.43"
+  },
+  {
+    "country": "Australia",
+    "cluster": 5,
+    "year": 2005,
+    "life_expectancy": "2765.93",
+    "life_expect": "3.97",
+    "fertility": "40933.64"
+  },
+  {
+    "country": "Australia",
+    "cluster": 5,
+    "year": 2010,
+    "life_expectancy": "3471.62",
+    "life_expect": "5.04",
+    "fertility": "44865.72"
+  },
+  {
+    "country": "Australia",
+    "cluster": 5,
+    "year": 2015,
+    "life_expectancy": "4406.21",
+    "life_expect": "6.50",
+    "fertility": "43874.31"
+  },
+  {
+    "country": "Austria",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "11226.08",
+    "life_expect": "27.82",
+    "fertility": "18647.41"
+  },
+  {
+    "country": "Austria",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "11752.00",
+    "life_expect": "27.55",
+    "fertility": "24210.25"
+  },
+  {
+    "country": "Austria",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "13549.48",
+    "life_expect": "30.06",
+    "fertility": "28911.14"
+  },
+  {
+    "country": "Austria",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "14976.81",
+    "life_expect": "31.50",
+    "fertility": "35692.16"
+  },
+  {
+    "country": "Austria",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "13438.33",
+    "life_expect": "26.55",
+    "fertility": "37799.85"
+  },
+  {
+    "country": "Austria",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "14657.43",
+    "life_expect": "29.98",
+    "fertility": "40546.97"
+  },
+  {
+    "country": "Austria",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "14689.51",
+    "life_expect": "33.11",
+    "fertility": "44820.83"
+  },
+  {
+    "country": "Azerbaijan",
+    "cluster": 0,
+    "year": 1985,
+    "life_expectancy": "546.96",
+    "life_expect": "1.56",
+    "fertility": "10702.63"
+  },
+  {
+    "country": "Azerbaijan",
+    "cluster": 0,
+    "year": 1990,
+    "life_expectancy": "635.86",
+    "life_expect": "1.77",
+    "fertility": "9169.24"
+  },
+  {
+    "country": "Azerbaijan",
+    "cluster": 0,
+    "year": 1995,
+    "life_expectancy": "555.91",
+    "life_expect": "2.70",
+    "fertility": "2413.27"
+  },
+  {
+    "country": "Azerbaijan",
+    "cluster": 0,
+    "year": 2000,
+    "life_expectancy": "524.57",
+    "life_expect": "3.25",
+    "fertility": "2577.27"
+  },
+  {
+    "country": "Azerbaijan",
+    "cluster": 0,
+    "year": 2005,
+    "life_expectancy": "947.99",
+    "life_expect": "4.87",
+    "fertility": "4769.98"
+  },
+  {
+    "country": "Azerbaijan",
+    "cluster": 0,
+    "year": 2010,
+    "life_expectancy": "995.03",
+    "life_expect": "6.91",
+    "fertility": "12732.51"
+  },
+  {
+    "country": "Azerbaijan",
+    "cluster": 0,
+    "year": 2015,
+    "life_expectancy": "456.79",
+    "life_expect": "2.57",
+    "fertility": "15691.57"
+  },
+  {
+    "country": "Bangladesh",
+    "cluster": 0,
+    "year": 1985,
+    "life_expectancy": "22.62",
+    "life_expect": "4.26",
+    "fertility": "1322.11"
+  },
+  {
+    "country": "Bangladesh",
+    "cluster": 0,
+    "year": 1990,
+    "life_expectancy": "23.80",
+    "life_expect": "3.33",
+    "fertility": "1492.65"
+  },
+  {
+    "country": "Bangladesh",
+    "cluster": 0,
+    "year": 1995,
+    "life_expectancy": "8.97",
+    "life_expect": "0.97",
+    "fertility": "1580.27"
+  },
+  {
+    "country": "Bangladesh",
+    "cluster": 0,
+    "year": 2000,
+    "life_expectancy": "16.30",
+    "life_expect": "1.53",
+    "fertility": "1449.18"
+  },
+  {
+    "country": "Bangladesh",
+    "cluster": 0,
+    "year": 2005,
+    "life_expectancy": "14.56",
+    "life_expect": "1.07",
+    "fertility": "1611.09"
+  },
+  {
+    "country": "Bangladesh",
+    "cluster": 0,
+    "year": 2010,
+    "life_expectancy": "13.79",
+    "life_expect": "0.81",
+    "fertility": "2527.53"
+  },
+  {
+    "country": "Bangladesh",
+    "cluster": 0,
+    "year": 2015,
+    "life_expectancy": "17.95",
+    "life_expect": "0.76",
+    "fertility": "3187.08"
+  },
+  {
+    "country": "Belarus",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "5.61",
+    "life_expect": "0.01",
+    "fertility": "12422.99"
+  },
+  {
+    "country": "Belarus",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "5.47",
+    "life_expect": "0.01",
+    "fertility": "12905.13"
+  },
+  {
+    "country": "Belarus",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "5.51",
+    "life_expect": "0.02",
+    "fertility": "7232.00"
+  },
+  {
+    "country": "Belarus",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "7.60",
+    "life_expect": "0.03",
+    "fertility": "8727.91"
+  },
+  {
+    "country": "Belarus",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "10.41",
+    "life_expect": "0.04",
+    "fertility": "10562.64"
+  },
+  {
+    "country": "Belarus",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "35.98",
+    "life_expect": "0.11",
+    "fertility": "16452.61"
+  },
+  {
+    "country": "Belarus",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "67.81",
+    "life_expect": "0.24",
+    "fertility": "19599.53"
+  },
+  {
+    "country": "Belgium",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "9787.07",
+    "life_expect": "17.90",
+    "fertility": "18554.00"
+  },
+  {
+    "country": "Belgium",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "12012.99",
+    "life_expect": "19.16",
+    "fertility": "23583.49"
+  },
+  {
+    "country": "Belgium",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "11460.18",
+    "life_expect": "17.23",
+    "fertility": "27096.01"
+  },
+  {
+    "country": "Belgium",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "13292.12",
+    "life_expect": "18.17",
+    "fertility": "33359.27"
+  },
+  {
+    "country": "Belgium",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "12675.59",
+    "life_expect": "17.48",
+    "fertility": "35081.07"
+  },
+  {
+    "country": "Belgium",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "13357.00",
+    "life_expect": "18.73",
+    "fertility": "38394.73"
+  },
+  {
+    "country": "Belgium",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "9370.25",
+    "life_expect": "15.61",
+    "fertility": "39245.22"
+  },
+  {
+    "country": "Brazil",
+    "cluster": 3,
+    "year": 1985,
+    "life_expectancy": "3795.25",
+    "life_expect": "39.44",
+    "fertility": "5285.57"
+  },
+  {
+    "country": "Brazil",
+    "cluster": 3,
+    "year": 1990,
+    "life_expectancy": "4424.19",
+    "life_expect": "44.28",
+    "fertility": "5731.43"
+  },
+  {
+    "country": "Brazil",
+    "cluster": 3,
+    "year": 1995,
+    "life_expectancy": "4985.32",
+    "life_expect": "43.30",
+    "fertility": "8147.14"
+  },
+  {
+    "country": "Brazil",
+    "cluster": 3,
+    "year": 2000,
+    "life_expectancy": "5445.80",
+    "life_expect": "42.61",
+    "fertility": "8410.09"
+  },
+  {
+    "country": "Brazil",
+    "cluster": 3,
+    "year": 2005,
+    "life_expectancy": "5663.00",
+    "life_expect": "42.84",
+    "fertility": "8757.46"
+  },
+  {
+    "country": "Brazil",
+    "cluster": 3,
+    "year": 2010,
+    "life_expectancy": "6874.73",
+    "life_expect": "44.11",
+    "fertility": "13591.26"
+  },
+  {
+    "country": "Brazil",
+    "cluster": 3,
+    "year": 2015,
+    "life_expectancy": "6602.71",
+    "life_expect": "39.73",
+    "fertility": "15552.25"
+  },
+  {
+    "country": "Bulgaria",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "4756.43",
+    "life_expect": "12.72",
+    "fertility": "11699.16"
+  },
+  {
+    "country": "Bulgaria",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "5197.69",
+    "life_expect": "14.24",
+    "fertility": "10939.19"
+  },
+  {
+    "country": "Bulgaria",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "6489.44",
+    "life_expect": "20.13",
+    "fertility": "8972.11"
+  },
+  {
+    "country": "Bulgaria",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "7241.75",
+    "life_expect": "26.85",
+    "fertility": "8574.51"
+  },
+  {
+    "country": "Bulgaria",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "8046.53",
+    "life_expect": "26.25",
+    "fertility": "10992.24"
+  },
+  {
+    "country": "Bulgaria",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "7387.36",
+    "life_expect": "26.13",
+    "fertility": "14949.49"
+  },
+  {
+    "country": "Bulgaria",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "8483.59",
+    "life_expect": "27.48",
+    "fertility": "17222.22"
+  },
+  {
+    "country": "Canada",
+    "cluster": 2,
+    "year": 1985,
+    "life_expectancy": "39473.07",
+    "life_expect": "36.88",
+    "fertility": "27422.80"
+  },
+  {
+    "country": "Canada",
+    "cluster": 2,
+    "year": 1990,
+    "life_expectancy": "37529.86",
+    "life_expect": "35.04",
+    "fertility": "30499.98"
+  },
+  {
+    "country": "Canada",
+    "cluster": 2,
+    "year": 1995,
+    "life_expectancy": "41758.58",
+    "life_expect": "37.13",
+    "fertility": "31820.05"
+  },
+  {
+    "country": "Canada",
+    "cluster": 2,
+    "year": 2000,
+    "life_expectancy": "39798.79",
+    "life_expect": "34.22",
+    "fertility": "37596.44"
+  },
+  {
+    "country": "Canada",
+    "cluster": 2,
+    "year": 2005,
+    "life_expectancy": "38811.05",
+    "life_expect": "33.98",
+    "fertility": "41350.58"
+  },
+  {
+    "country": "Canada",
+    "cluster": 2,
+    "year": 2010,
+    "life_expectancy": "35462.95",
+    "life_expect": "33.52",
+    "fertility": "40705.17"
+  },
+  {
+    "country": "Canada",
+    "cluster": 2,
+    "year": 2015,
+    "life_expectancy": "37311.32",
+    "life_expect": "34.58",
+    "fertility": "42745.72"
+  },
+  {
+    "country": "Chile",
+    "cluster": 3,
+    "year": 1985,
+    "life_expectancy": "2552.97",
+    "life_expect": "28.96",
+    "fertility": "5913.39"
+  },
+  {
+    "country": "Chile",
+    "cluster": 3,
+    "year": 1990,
+    "life_expectancy": "2072.49",
+    "life_expect": "17.90",
+    "fertility": "7521.36"
+  },
+  {
+    "country": "Chile",
+    "cluster": 3,
+    "year": 1995,
+    "life_expectancy": "3919.67",
+    "life_expect": "24.71",
+    "fertility": "11125.79"
+  },
+  {
+    "country": "Chile",
+    "cluster": 3,
+    "year": 2000,
+    "life_expectancy": "3703.71",
+    "life_expect": "18.53",
+    "fertility": "10885.15"
+  },
+  {
+    "country": "Chile",
+    "cluster": 3,
+    "year": 2005,
+    "life_expectancy": "4549.75",
+    "life_expect": "21.22",
+    "fertility": "13285.55"
+  },
+  {
+    "country": "Chile",
+    "cluster": 3,
+    "year": 2010,
+    "life_expectancy": "3896.19",
+    "life_expect": "18.02",
+    "fertility": "18109.36"
+  },
+  {
+    "country": "Chile",
+    "cluster": 3,
+    "year": 2015,
+    "life_expectancy": "4598.37",
+    "life_expect": "19.89",
+    "fertility": "21425.79"
+  },
+  {
+    "country": "China",
+    "cluster": 0,
+    "year": 1985,
+    "life_expectancy": "238.60",
+    "life_expect": "4.15",
+    "fertility": "2259.23"
+  },
+  {
+    "country": "China",
+    "cluster": 0,
+    "year": 1990,
+    "life_expectancy": "299.31",
+    "life_expect": "4.42",
+    "fertility": "2370.67"
+  },
+  {
+    "country": "China",
+    "cluster": 0,
+    "year": 1995,
+    "life_expectancy": "463.48",
+    "life_expect": "5.54",
+    "fertility": "3199.24"
+  },
+  {
+    "country": "China",
+    "cluster": 0,
+    "year": 2000,
+    "life_expectancy": "521.52",
+    "life_expect": "5.71",
+    "fertility": "3967.30"
+  },
+  {
+    "country": "China",
+    "cluster": 0,
+    "year": 2005,
+    "life_expectancy": "930.92",
+    "life_expect": "5.90",
+    "fertility": "6184.36"
+  },
+  {
+    "country": "China",
+    "cluster": 0,
+    "year": 2010,
+    "life_expectancy": "1653.42",
+    "life_expect": "7.81",
+    "fertility": "9205.07"
+  },
+  {
+    "country": "China",
+    "cluster": 0,
+    "year": 2015,
+    "life_expectancy": "2830.28",
+    "life_expect": "11.43",
+    "fertility": "11657.27"
+  },
+  {
+    "country": "Colombia",
+    "cluster": 3,
+    "year": 1985,
+    "life_expectancy": "1735.04",
+    "life_expect": "23.29",
+    "fertility": "6276.92"
+  },
+  {
+    "country": "Colombia",
+    "cluster": 3,
+    "year": 1990,
+    "life_expectancy": "2330.26",
+    "life_expect": "31.27",
+    "fertility": "6736.55"
+  },
+  {
+    "country": "Colombia",
+    "cluster": 3,
+    "year": 1995,
+    "life_expectancy": "2476.17",
+    "life_expect": "28.03",
+    "fertility": "7550.59"
+  },
+  {
+    "country": "Colombia",
+    "cluster": 3,
+    "year": 2000,
+    "life_expectancy": "2194.86",
+    "life_expect": "28.25",
+    "fertility": "6737.32"
+  },
+  {
+    "country": "Colombia",
+    "cluster": 3,
+    "year": 2005,
+    "life_expectancy": "2509.35",
+    "life_expect": "33.58",
+    "fertility": "7456.39"
+  },
+  {
+    "country": "Colombia",
+    "cluster": 3,
+    "year": 2010,
+    "life_expectancy": "2411.07",
+    "life_expect": "27.58",
+    "fertility": "10326.60"
+  },
+  {
+    "country": "Colombia",
+    "cluster": 3,
+    "year": 2015,
+    "life_expectancy": "2488.16",
+    "life_expect": "24.86",
+    "fertility": "12604.95"
+  },
+  {
+    "country": "Czechia",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "1093.80",
+    "life_expect": "1.79",
+    "fertility": "18391.25"
+  },
+  {
+    "country": "Czechia",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "3692.43",
+    "life_expect": "7.00",
+    "fertility": "20210.81"
+  },
+  {
+    "country": "Czechia",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "3925.31",
+    "life_expect": "8.38",
+    "fertility": "18826.03"
+  },
+  {
+    "country": "Czechia",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "4283.17",
+    "life_expect": "9.31",
+    "fertility": "19632.62"
+  },
+  {
+    "country": "Czechia",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "7283.79",
+    "life_expect": "14.45",
+    "fertility": "23103.92"
+  },
+  {
+    "country": "Czechia",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "8382.33",
+    "life_expect": "17.31",
+    "fertility": "25434.18"
+  },
+  {
+    "country": "Czechia",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "8653.77",
+    "life_expect": "19.64",
+    "fertility": "30185.83"
+  },
+  {
+    "country": "Denmark",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "63.61",
+    "life_expect": "0.15",
+    "fertility": "22096.21"
+  },
+  {
+    "country": "Denmark",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "458.35",
+    "life_expect": "1.17",
+    "fertility": "25092.39"
+  },
+  {
+    "country": "Denmark",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "984.37",
+    "life_expect": "2.12",
+    "fertility": "28473.15"
+  },
+  {
+    "country": "Denmark",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "2898.03",
+    "life_expect": "6.58",
+    "fertility": "35948.32"
+  },
+  {
+    "country": "Denmark",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "4868.22",
+    "life_expect": "11.45",
+    "fertility": "37993.36"
+  },
+  {
+    "country": "Denmark",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "5834.37",
+    "life_expect": "14.17",
+    "fertility": "42484.25"
+  },
+  {
+    "country": "Denmark",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "8429.23",
+    "life_expect": "24.70",
+    "fertility": "44823.34"
+  },
+  {
+    "country": "Ecuador",
+    "cluster": 3,
+    "year": 1985,
+    "life_expectancy": "1004.67",
+    "life_expect": "15.09",
+    "fertility": "5355.64"
+  },
+  {
+    "country": "Ecuador",
+    "cluster": 3,
+    "year": 1990,
+    "life_expectancy": "1353.92",
+    "life_expect": "17.30",
+    "fertility": "4877.12"
+  },
+  {
+    "country": "Ecuador",
+    "cluster": 3,
+    "year": 1995,
+    "life_expectancy": "1251.41",
+    "life_expect": "15.27",
+    "fertility": "4893.90"
+  },
+  {
+    "country": "Ecuador",
+    "cluster": 3,
+    "year": 2000,
+    "life_expectancy": "1667.24",
+    "life_expect": "20.58",
+    "fertility": "4934.82"
+  },
+  {
+    "country": "Ecuador",
+    "cluster": 3,
+    "year": 2005,
+    "life_expectancy": "1359.04",
+    "life_expect": "15.73",
+    "fertility": "7305.08"
+  },
+  {
+    "country": "Ecuador",
+    "cluster": 3,
+    "year": 2010,
+    "life_expectancy": "1541.63",
+    "life_expect": "15.08",
+    "fertility": "8993.40"
+  },
+  {
+    "country": "Ecuador",
+    "cluster": 3,
+    "year": 2015,
+    "life_expectancy": "2128.25",
+    "life_expect": "18.61",
+    "fertility": "10671.11"
+  },
+  {
+    "country": "Egypt",
+    "cluster": 4,
+    "year": 1985,
+    "life_expectancy": "515.87",
+    "life_expect": "7.77",
+    "fertility": "4405.29"
+  },
+  {
+    "country": "Egypt",
+    "cluster": 4,
+    "year": 1990,
+    "life_expectancy": "492.52",
+    "life_expect": "7.01",
+    "fertility": "4507.07"
+  },
+  {
+    "country": "Egypt",
+    "cluster": 4,
+    "year": 1995,
+    "life_expectancy": "498.75",
+    "life_expect": "7.13",
+    "fertility": "4860.91"
+  },
+  {
+    "country": "Egypt",
+    "cluster": 4,
+    "year": 2000,
+    "life_expectancy": "575.42",
+    "life_expect": "7.01",
+    "fertility": "5157.48"
+  },
+  {
+    "country": "Egypt",
+    "cluster": 4,
+    "year": 2005,
+    "life_expectancy": "468.54",
+    "life_expect": "5.02",
+    "fertility": "5945.13"
+  },
+  {
+    "country": "Egypt",
+    "cluster": 4,
+    "year": 2010,
+    "life_expectancy": "453.32",
+    "life_expect": "4.11",
+    "fertility": "9666.39"
+  },
+  {
+    "country": "Egypt",
+    "cluster": 4,
+    "year": 2015,
+    "life_expectancy": "427.45",
+    "life_expect": "4.00",
+    "fertility": "11574.70"
+  },
+  {
+    "country": "Finland",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "17681.78",
+    "life_expect": "30.75",
+    "fertility": "20136.03"
+  },
+  {
+    "country": "Finland",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "19515.19",
+    "life_expect": "30.49",
+    "fertility": "24219.38"
+  },
+  {
+    "country": "Finland",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "20956.14",
+    "life_expect": "32.62",
+    "fertility": "25004.88"
+  },
+  {
+    "country": "Finland",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "24616.68",
+    "life_expect": "35.86",
+    "fertility": "32960.68"
+  },
+  {
+    "country": "Finland",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "23910.15",
+    "life_expect": "35.40",
+    "fertility": "35748.24"
+  },
+  {
+    "country": "Finland",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "23208.33",
+    "life_expect": "33.72",
+    "fertility": "38017.14"
+  },
+  {
+    "country": "Finland",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "25809.79",
+    "life_expect": "44.21",
+    "fertility": "37949.28"
+  },
+  {
+    "country": "France",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "14488.67",
+    "life_expect": "33.60",
+    "fertility": "21355.53"
+  },
+  {
+    "country": "France",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "18130.31",
+    "life_expect": "39.08",
+    "fertility": "25058.68"
+  },
+  {
+    "country": "France",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "21784.98",
+    "life_expect": "44.27",
+    "fertility": "26123.66"
+  },
+  {
+    "country": "France",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "22870.47",
+    "life_expect": "43.97",
+    "fertility": "32703.55"
+  },
+  {
+    "country": "France",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "22459.29",
+    "life_expect": "44.06",
+    "fertility": "34522.25"
+  },
+  {
+    "country": "France",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "21450.31",
+    "life_expect": "45.59",
+    "fertility": "37054.71"
+  },
+  {
+    "country": "France",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "21190.39",
+    "life_expect": "49.55",
+    "fertility": "39718.86"
+  },
+  {
+    "country": "Germany",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "5637.85",
+    "life_expect": "10.24",
+    "fertility": "21366.42"
+  },
+  {
+    "country": "Germany",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "6020.57",
+    "life_expect": "11.39",
+    "fertility": "25172.67"
+  },
+  {
+    "country": "Germany",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "6138.39",
+    "life_expect": "12.58",
+    "fertility": "29332.38"
+  },
+  {
+    "country": "Germany",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "7156.00",
+    "life_expect": "14.66",
+    "fertility": "34274.76"
+  },
+  {
+    "country": "Germany",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "7680.14",
+    "life_expect": "15.93",
+    "fertility": "37621.17"
+  },
+  {
+    "country": "Germany",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "8323.29",
+    "life_expect": "17.67",
+    "fertility": "41693.99"
+  },
+  {
+    "country": "Germany",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "9060.72",
+    "life_expect": "19.91",
+    "fertility": "47073.50"
+  },
+  {
+    "country": "Greece",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "781.67",
+    "life_expect": "3.54",
+    "fertility": "13242.38"
+  },
+  {
+    "country": "Greece",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "481.07",
+    "life_expect": "1.69",
+    "fertility": "15841.97"
+  },
+  {
+    "country": "Greece",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "921.27",
+    "life_expect": "3.10",
+    "fertility": "18518.52"
+  },
+  {
+    "country": "Greece",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "1038.72",
+    "life_expect": "3.06",
+    "fertility": "22378.63"
+  },
+  {
+    "country": "Greece",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "1535.09",
+    "life_expect": "4.26",
+    "fertility": "25122.49"
+  },
+  {
+    "country": "Greece",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "2519.72",
+    "life_expect": "7.25",
+    "fertility": "27553.27"
+  },
+  {
+    "country": "Greece",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "3524.11",
+    "life_expect": "12.01",
+    "fertility": "24765.48"
+  },
+  {
+    "country": "Hungary",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "1744.33",
+    "life_expect": "5.54",
+    "fertility": "10978.61"
+  },
+  {
+    "country": "Hungary",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "3727.80",
+    "life_expect": "11.89",
+    "fertility": "12045.87"
+  },
+  {
+    "country": "Hungary",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "3823.51",
+    "life_expect": "13.72",
+    "fertility": "12754.86"
+  },
+  {
+    "country": "Hungary",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "3919.77",
+    "life_expect": "14.32",
+    "fertility": "14773.51"
+  },
+  {
+    "country": "Hungary",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "4188.16",
+    "life_expect": "13.75",
+    "fertility": "17648.23"
+  },
+  {
+    "country": "Hungary",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "4931.06",
+    "life_expect": "17.79",
+    "fertility": "20550.02"
+  },
+  {
+    "country": "Hungary",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "4932.08",
+    "life_expect": "18.96",
+    "fertility": "23726.73"
+  },
+  {
+    "country": "Iceland",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "44009.83",
+    "life_expect": "60.02",
+    "fertility": "27058.72"
+  },
+  {
+    "country": "Iceland",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "48329.12",
+    "life_expect": "58.89",
+    "fertility": "29773.00"
+  },
+  {
+    "country": "Iceland",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "51465.26",
+    "life_expect": "60.16",
+    "fertility": "28800.13"
+  },
+  {
+    "country": "Iceland",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "76122.59",
+    "life_expect": "66.58",
+    "fertility": "35757.25"
+  },
+  {
+    "country": "Iceland",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "79094.34",
+    "life_expect": "67.46",
+    "fertility": "36759.54"
+  },
+  {
+    "country": "Iceland",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "138983.90",
+    "life_expect": "82.33",
+    "fertility": "36286.78"
+  },
+  {
+    "country": "Iceland",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "144078.80",
+    "life_expect": "81.02",
+    "fertility": "40694.95"
+  },
+  {
+    "country": "India",
+    "cluster": 0,
+    "year": 1985,
+    "life_expectancy": "199.46",
+    "life_expect": "9.94",
+    "fertility": "982.97"
+  },
+  {
+    "country": "India",
+    "cluster": 0,
+    "year": 1990,
+    "life_expectancy": "231.76",
+    "life_expect": "8.85",
+    "fertility": "1236.72"
+  },
+  {
+    "country": "India",
+    "cluster": 0,
+    "year": 1995,
+    "life_expectancy": "243.79",
+    "life_expect": "7.98",
+    "fertility": "1493.90"
+  },
+  {
+    "country": "India",
+    "cluster": 0,
+    "year": 2000,
+    "life_expectancy": "252.75",
+    "life_expect": "7.21",
+    "fertility": "1911.84"
+  },
+  {
+    "country": "India",
+    "cluster": 0,
+    "year": 2005,
+    "life_expectancy": "293.82",
+    "life_expect": "7.33",
+    "fertility": "2657.70"
+  },
+  {
+    "country": "India",
+    "cluster": 0,
+    "year": 2010,
+    "life_expectancy": "350.11",
+    "life_expect": "6.90",
+    "fertility": "4140.06"
+  },
+  {
+    "country": "India",
+    "cluster": 0,
+    "year": 2015,
+    "life_expectancy": "457.97",
+    "life_expect": "7.51",
+    "fertility": "5396.32"
+  },
+  {
+    "country": "Indonesia",
+    "cluster": 0,
+    "year": 1985,
+    "life_expectancy": "46.58",
+    "life_expect": "1.89",
+    "fertility": "2563.92"
+  },
+  {
+    "country": "Indonesia",
+    "cluster": 0,
+    "year": 1990,
+    "life_expectancy": "116.68",
+    "life_expect": "3.46",
+    "fertility": "3142.00"
+  },
+  {
+    "country": "Indonesia",
+    "cluster": 0,
+    "year": 1995,
+    "life_expectancy": "148.18",
+    "life_expect": "3.33",
+    "fertility": "4270.47"
+  },
+  {
+    "country": "Indonesia",
+    "cluster": 0,
+    "year": 2000,
+    "life_expectancy": "195.53",
+    "life_expect": "3.49",
+    "fertility": "3470.22"
+  },
+  {
+    "country": "Indonesia",
+    "cluster": 0,
+    "year": 2005,
+    "life_expectancy": "206.12",
+    "life_expect": "3.25",
+    "fertility": "4070.02"
+  },
+  {
+    "country": "Indonesia",
+    "cluster": 0,
+    "year": 2010,
+    "life_expectancy": "298.08",
+    "life_expect": "4.11",
+    "fertility": "7319.07"
+  },
+  {
+    "country": "Indonesia",
+    "cluster": 0,
+    "year": 2015,
+    "life_expectancy": "267.72",
+    "life_expect": "3.51",
+    "fertility": "9869.07"
+  },
+  {
+    "country": "Iran",
+    "cluster": 0,
+    "year": 1985,
+    "life_expectancy": "346.09",
+    "life_expect": "2.54",
+    "fertility": "6378.44"
+  },
+  {
+    "country": "Iran",
+    "cluster": 0,
+    "year": 1990,
+    "life_expectancy": "363.74",
+    "life_expect": "2.43",
+    "fertility": "5162.69"
+  },
+  {
+    "country": "Iran",
+    "cluster": 0,
+    "year": 1995,
+    "life_expectancy": "376.28",
+    "life_expect": "2.10",
+    "fertility": "5598.68"
+  },
+  {
+    "country": "Iran",
+    "cluster": 0,
+    "year": 2000,
+    "life_expectancy": "161.59",
+    "life_expect": "0.74",
+    "fertility": "7665.00"
+  },
+  {
+    "country": "Iran",
+    "cluster": 0,
+    "year": 2005,
+    "life_expectancy": "559.82",
+    "life_expect": "1.98",
+    "fertility": "14907.83"
+  },
+  {
+    "country": "Iran",
+    "cluster": 0,
+    "year": 2010,
+    "life_expectancy": "370.16",
+    "life_expect": "1.10",
+    "fertility": "18030.72"
+  },
+  {
+    "country": "Iran",
+    "cluster": 0,
+    "year": 2015,
+    "life_expectancy": "549.80",
+    "life_expect": "1.52",
+    "fertility": "15288.18"
+  },
+  {
+    "country": "Iraq",
+    "cluster": 0,
+    "year": 1985,
+    "life_expectancy": "108.93",
+    "life_expect": "1.20",
+    "fertility": "11506.81"
+  },
+  {
+    "country": "Iraq",
+    "cluster": 0,
+    "year": 1990,
+    "life_expectancy": "741.57",
+    "life_expect": "5.66",
+    "fertility": "7520.52"
+  },
+  {
+    "country": "Iraq",
+    "cluster": 0,
+    "year": 1995,
+    "life_expectancy": "981.54",
+    "life_expect": "5.37",
+    "fertility": "2878.62"
+  },
+  {
+    "country": "Iraq",
+    "cluster": 0,
+    "year": 2000,
+    "life_expectancy": "377.88",
+    "life_expect": "2.96",
+    "fertility": "3275.84"
+  },
+  {
+    "country": "Iraq",
+    "cluster": 0,
+    "year": 2005,
+    "life_expectancy": "488.96",
+    "life_expect": "4.36",
+    "fertility": "4791.62"
+  },
+  {
+    "country": "Iraq",
+    "cluster": 0,
+    "year": 2010,
+    "life_expectancy": "316.92",
+    "life_expect": "2.34",
+    "fertility": "10153.99"
+  },
+  {
+    "country": "Iraq",
+    "cluster": 0,
+    "year": 2015,
+    "life_expectancy": "185.15",
+    "life_expect": "1.41",
+    "fertility": "13915.44"
+  },
+  {
+    "country": "Ireland",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "662.49",
+    "life_expect": "2.34",
+    "fertility": "12980.34"
+  },
+  {
+    "country": "Ireland",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "551.44",
+    "life_expect": "1.66",
+    "fertility": "17603.95"
+  },
+  {
+    "country": "Ireland",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "563.76",
+    "life_expect": "1.53",
+    "fertility": "24303.20"
+  },
+  {
+    "country": "Ireland",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "870.17",
+    "life_expect": "1.91",
+    "fertility": "39386.73"
+  },
+  {
+    "country": "Ireland",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "1217.07",
+    "life_expect": "2.69",
+    "fertility": "53610.24"
+  },
+  {
+    "country": "Ireland",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "2135.55",
+    "life_expect": "5.45",
+    "fertility": "48967.94"
+  },
+  {
+    "country": "Ireland",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "4273.48",
+    "life_expect": "11.49",
+    "fertility": "53525.37"
+  },
+  {
+    "country": "Israel",
+    "cluster": 0,
+    "year": 1985,
+    "life_expectancy": "1.38",
+    "life_expect": "0.01",
+    "fertility": "18123.02"
+  },
+  {
+    "country": "Israel",
+    "cluster": 0,
+    "year": 1990,
+    "life_expectancy": "1.87",
+    "life_expect": "0.01",
+    "fertility": "21216.14"
+  },
+  {
+    "country": "Israel",
+    "cluster": 0,
+    "year": 1995,
+    "life_expectancy": "13.18",
+    "life_expect": "0.04",
+    "fertility": "25042.69"
+  },
+  {
+    "country": "Israel",
+    "cluster": 0,
+    "year": 2000,
+    "life_expectancy": "14.48",
+    "life_expect": "0.04",
+    "fertility": "30776.99"
+  },
+  {
+    "country": "Israel",
+    "cluster": 0,
+    "year": 2005,
+    "life_expectancy": "16.07",
+    "life_expect": "0.04",
+    "fertility": "28181.96"
+  },
+  {
+    "country": "Israel",
+    "cluster": 0,
+    "year": 2010,
+    "life_expectancy": "60.34",
+    "life_expect": "0.16",
+    "fertility": "29539.89"
+  },
+  {
+    "country": "Israel",
+    "cluster": 0,
+    "year": 2015,
+    "life_expectancy": "399.38",
+    "life_expect": "1.12",
+    "fertility": "32088.24"
+  },
+  {
+    "country": "Italy",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "2504.13",
+    "life_expect": "8.75",
+    "fertility": "19846.50"
+  },
+  {
+    "country": "Italy",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "1699.49",
+    "life_expect": "5.31",
+    "fertility": "24891.32"
+  },
+  {
+    "country": "Italy",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "2014.21",
+    "life_expect": "6.03",
+    "fertility": "27984.75"
+  },
+  {
+    "country": "Italy",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "2493.01",
+    "life_expect": "6.79",
+    "fertility": "33338.04"
+  },
+  {
+    "country": "Italy",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "2268.80",
+    "life_expect": "6.05",
+    "fertility": "32772.26"
+  },
+  {
+    "country": "Italy",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "3651.00",
+    "life_expect": "10.70",
+    "fertility": "34555.42"
+  },
+  {
+    "country": "Italy",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "4743.92",
+    "life_expect": "16.24",
+    "fertility": "34831.13"
+  },
+  {
+    "country": "Japan",
+    "cluster": 0,
+    "year": 1985,
+    "life_expectancy": "5815.04",
+    "life_expect": "15.92",
+    "fertility": "18870.56"
+  },
+  {
+    "country": "Japan",
+    "cluster": 0,
+    "year": 1990,
+    "life_expectancy": "6532.71",
+    "life_expect": "15.74",
+    "fertility": "26103.37"
+  },
+  {
+    "country": "Japan",
+    "cluster": 0,
+    "year": 1995,
+    "life_expectancy": "8353.61",
+    "life_expect": "17.99",
+    "fertility": "31970.88"
+  },
+  {
+    "country": "Japan",
+    "cluster": 0,
+    "year": 2000,
+    "life_expectancy": "9151.96",
+    "life_expect": "19.04",
+    "fertility": "33170.23"
+  },
+  {
+    "country": "Japan",
+    "cluster": 0,
+    "year": 2005,
+    "life_expectancy": "8297.01",
+    "life_expect": "17.15",
+    "fertility": "35144.87"
+  },
+  {
+    "country": "Japan",
+    "cluster": 0,
+    "year": 2010,
+    "life_expectancy": "8328.50",
+    "life_expect": "18.24",
+    "fertility": "35163.60"
+  },
+  {
+    "country": "Japan",
+    "cluster": 0,
+    "year": 2015,
+    "life_expectancy": "3133.67",
+    "life_expect": "7.61",
+    "fertility": "35629.18"
+  },
+  {
+    "country": "Kazakhstan",
+    "cluster": 0,
+    "year": 1985,
+    "life_expectancy": "923.88",
+    "life_expect": "1.82",
+    "fertility": "11106.86"
+  },
+  {
+    "country": "Kazakhstan",
+    "cluster": 0,
+    "year": 1990,
+    "life_expectancy": "1248.85",
+    "life_expect": "2.38",
+    "fertility": "11352.54"
+  },
+  {
+    "country": "Kazakhstan",
+    "cluster": 0,
+    "year": 1995,
+    "life_expectancy": "1475.01",
+    "life_expect": "3.91",
+    "fertility": "5764.84"
+  },
+  {
+    "country": "Kazakhstan",
+    "cluster": 0,
+    "year": 2000,
+    "life_expectancy": "1401.84",
+    "life_expect": "5.61",
+    "fertility": "5861.48"
+  },
+  {
+    "country": "Kazakhstan",
+    "cluster": 0,
+    "year": 2005,
+    "life_expectancy": "1371.91",
+    "life_expect": "4.01",
+    "fertility": "10582.35"
+  },
+  {
+    "country": "Kazakhstan",
+    "cluster": 0,
+    "year": 2010,
+    "life_expectancy": "1287.00",
+    "life_expect": "3.28",
+    "fertility": "18213.14"
+  },
+  {
+    "country": "Kazakhstan",
+    "cluster": 0,
+    "year": 2015,
+    "life_expectancy": "1360.12",
+    "life_expect": "3.23",
+    "fertility": "23617.12"
+  },
+  {
+    "country": "Latvia",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "3205.78",
+    "life_expect": "7.82",
+    "fertility": "12553.43"
+  },
+  {
+    "country": "Latvia",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "4688.03",
+    "life_expect": "14.58",
+    "fertility": "13769.00"
+  },
+  {
+    "country": "Latvia",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "3252.93",
+    "life_expect": "18.52",
+    "fertility": "7853.31"
+  },
+  {
+    "country": "Latvia",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "3290.46",
+    "life_expect": "21.06",
+    "fertility": "10582.50"
+  },
+  {
+    "country": "Latvia",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "4079.01",
+    "life_expect": "19.81",
+    "fertility": "14401.38"
+  },
+  {
+    "country": "Latvia",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "4472.76",
+    "life_expect": "19.32",
+    "fertility": "16680.04"
+  },
+  {
+    "country": "Latvia",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "3525.21",
+    "life_expect": "17.22",
+    "fertility": "22496.53"
+  },
+  {
+    "country": "Lithuania",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "7699.29",
+    "life_expect": "15.23",
+    "fertility": "11478.00"
+  },
+  {
+    "country": "Lithuania",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "13112.53",
+    "life_expect": "24.14",
+    "fertility": "11841.80"
+  },
+  {
+    "country": "Lithuania",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "9339.68",
+    "life_expect": "34.63",
+    "fertility": "7785.85"
+  },
+  {
+    "country": "Lithuania",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "6947.07",
+    "life_expect": "31.40",
+    "fertility": "11096.14"
+  },
+  {
+    "country": "Lithuania",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "8685.06",
+    "life_expect": "31.30",
+    "fertility": "14928.09"
+  },
+  {
+    "country": "Lithuania",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "760.34",
+    "life_expect": "3.63",
+    "fertility": "18169.75"
+  },
+  {
+    "country": "Lithuania",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "1449.27",
+    "life_expect": "6.70",
+    "fertility": "25028.97"
+  },
+  {
+    "country": "Luxembourg",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "663.12",
+    "life_expect": "0.75",
+    "fertility": "23644.00"
+  },
+  {
+    "country": "Luxembourg",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "599.95",
+    "life_expect": "0.62",
+    "fertility": "35297.16"
+  },
+  {
+    "country": "Luxembourg",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "731.84",
+    "life_expect": "0.88",
+    "fertility": "44365.42"
+  },
+  {
+    "country": "Luxembourg",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "1087.15",
+    "life_expect": "1.28",
+    "fertility": "63910.83"
+  },
+  {
+    "country": "Luxembourg",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "1227.78",
+    "life_expect": "1.07",
+    "fertility": "54131.22"
+  },
+  {
+    "country": "Luxembourg",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "1375.70",
+    "life_expect": "1.40",
+    "fertility": "58364.00"
+  },
+  {
+    "country": "Luxembourg",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "1922.02",
+    "life_expect": "2.54",
+    "fertility": "68282.34"
+  },
+  {
+    "country": "Malaysia",
+    "cluster": 0,
+    "year": 1985,
+    "life_expectancy": "671.06",
+    "life_expect": "6.02",
+    "fertility": "7244.05"
+  },
+  {
+    "country": "Malaysia",
+    "cluster": 0,
+    "year": 1990,
+    "life_expectancy": "620.37",
+    "life_expect": "4.35",
+    "fertility": "8208.54"
+  },
+  {
+    "country": "Malaysia",
+    "cluster": 0,
+    "year": 1995,
+    "life_expectancy": "843.04",
+    "life_expect": "4.32",
+    "fertility": "11030.85"
+  },
+  {
+    "country": "Malaysia",
+    "cluster": 0,
+    "year": 2000,
+    "life_expectancy": "905.99",
+    "life_expect": "3.45",
+    "fertility": "11985.86"
+  },
+  {
+    "country": "Malaysia",
+    "cluster": 0,
+    "year": 2005,
+    "life_expectancy": "690.98",
+    "life_expect": "2.19",
+    "fertility": "14791.17"
+  },
+  {
+    "country": "Malaysia",
+    "cluster": 0,
+    "year": 2010,
+    "life_expectancy": "704.71",
+    "life_expect": "2.14",
+    "fertility": "17335.51"
+  },
+  {
+    "country": "Malaysia",
+    "cluster": 0,
+    "year": 2015,
+    "life_expectancy": "1249.21",
+    "life_expect": "3.41",
+    "fertility": "21770.01"
+  },
+  {
+    "country": "Mexico",
+    "cluster": 2,
+    "year": 1985,
+    "life_expectancy": "1099.23",
+    "life_expect": "7.40",
+    "fertility": "10397.06"
+  },
+  {
+    "country": "Mexico",
+    "cluster": 2,
+    "year": 1990,
+    "life_expectancy": "1076.92",
+    "life_expect": "7.13",
+    "fertility": "9875.75"
+  },
+  {
+    "country": "Mexico",
+    "cluster": 2,
+    "year": 1995,
+    "life_expectancy": "1286.97",
+    "life_expect": "8.42",
+    "fertility": "9153.09"
+  },
+  {
+    "country": "Mexico",
+    "cluster": 2,
+    "year": 2000,
+    "life_expectancy": "1339.19",
+    "life_expect": "8.14",
+    "fertility": "11324.57"
+  },
+  {
+    "country": "Mexico",
+    "cluster": 2,
+    "year": 2005,
+    "life_expectancy": "1194.16",
+    "life_expect": "6.74",
+    "fertility": "12829.58"
+  },
+  {
+    "country": "Mexico",
+    "cluster": 2,
+    "year": 2010,
+    "life_expectancy": "1193.01",
+    "life_expect": "6.70",
+    "fertility": "13936.00"
+  },
+  {
+    "country": "Mexico",
+    "cluster": 2,
+    "year": 2015,
+    "life_expectancy": "1239.68",
+    "life_expect": "7.07",
+    "fertility": "15263.67"
+  },
+  {
+    "country": "Morocco",
+    "cluster": 4,
+    "year": 1985,
+    "life_expectancy": "60.00",
+    "life_expect": "2.07",
+    "fertility": "4303.47"
+  },
+  {
+    "country": "Morocco",
+    "cluster": 4,
+    "year": 1990,
+    "life_expectancy": "136.61",
+    "life_expect": "4.11",
+    "fertility": "4797.03"
+  },
+  {
+    "country": "Morocco",
+    "cluster": 4,
+    "year": 1995,
+    "life_expectancy": "62.87",
+    "life_expect": "1.66",
+    "fertility": "4815.89"
+  },
+  {
+    "country": "Morocco",
+    "cluster": 4,
+    "year": 2000,
+    "life_expectancy": "75.44",
+    "life_expect": "1.85",
+    "fertility": "4619.02"
+  },
+  {
+    "country": "Morocco",
+    "cluster": 4,
+    "year": 2005,
+    "life_expectancy": "103.43",
+    "life_expect": "1.96",
+    "fertility": "4498.29"
+  },
+  {
+    "country": "Morocco",
+    "cluster": 4,
+    "year": 2010,
+    "life_expectancy": "332.68",
+    "life_expect": "5.55",
+    "fertility": "6647.50"
+  },
+  {
+    "country": "Morocco",
+    "cluster": 4,
+    "year": 2015,
+    "life_expectancy": "321.85",
+    "life_expect": "5.09",
+    "fertility": "7500.58"
+  },
+  {
+    "country": "Netherlands",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "831.19",
+    "life_expect": "1.47",
+    "fertility": "22254.38"
+  },
+  {
+    "country": "Netherlands",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "800.57",
+    "life_expect": "1.32",
+    "fertility": "25125.29"
+  },
+  {
+    "country": "Netherlands",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "977.11",
+    "life_expect": "1.55",
+    "fertility": "28898.37"
+  },
+  {
+    "country": "Netherlands",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "1205.49",
+    "life_expect": "1.91",
+    "fertility": "39934.70"
+  },
+  {
+    "country": "Netherlands",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "1883.98",
+    "life_expect": "2.78",
+    "fertility": "42402.40"
+  },
+  {
+    "country": "Netherlands",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "2537.00",
+    "life_expect": "3.72",
+    "fertility": "44236.65"
+  },
+  {
+    "country": "Netherlands",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "2879.06",
+    "life_expect": "4.99",
+    "fertility": "48470.89"
+  },
+  {
+    "country": "New Zealand",
+    "cluster": 5,
+    "year": 1985,
+    "life_expectancy": "18188.79",
+    "life_expect": "39.89",
+    "fertility": "17767.33"
+  },
+  {
+    "country": "New Zealand",
+    "cluster": 5,
+    "year": 1990,
+    "life_expectancy": "21085.82",
+    "life_expect": "39.34",
+    "fertility": "20048.96"
+  },
+  {
+    "country": "New Zealand",
+    "cluster": 5,
+    "year": 1995,
+    "life_expectancy": "22840.08",
+    "life_expect": "39.96",
+    "fertility": "22303.90"
+  },
+  {
+    "country": "New Zealand",
+    "cluster": 5,
+    "year": 2000,
+    "life_expectancy": "20179.79",
+    "life_expect": "34.59",
+    "fertility": "25485.91"
+  },
+  {
+    "country": "New Zealand",
+    "cluster": 5,
+    "year": 2005,
+    "life_expectancy": "17935.11",
+    "life_expect": "33.09",
+    "fertility": "26602.18"
+  },
+  {
+    "country": "New Zealand",
+    "cluster": 5,
+    "year": 2010,
+    "life_expectancy": "19561.49",
+    "life_expect": "37.07",
+    "fertility": "30434.78"
+  },
+  {
+    "country": "New Zealand",
+    "cluster": 5,
+    "year": 2015,
+    "life_expectancy": "19380.12",
+    "life_expect": "36.21",
+    "fertility": "33152.76"
+  },
+  {
+    "country": "Norway",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "68483.35",
+    "life_expect": "68.19",
+    "fertility": "28653.99"
+  },
+  {
+    "country": "Norway",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "79375.05",
+    "life_expect": "71.18",
+    "fertility": "30374.38"
+  },
+  {
+    "country": "Norway",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "77487.15",
+    "life_expect": "69.50",
+    "fertility": "33890.54"
+  },
+  {
+    "country": "Norway",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "87741.48",
+    "life_expect": "71.13",
+    "fertility": "54456.55"
+  },
+  {
+    "country": "Norway",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "79287.58",
+    "life_expect": "68.39",
+    "fertility": "70811.74"
+  },
+  {
+    "country": "Norway",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "62959.41",
+    "life_expect": "63.74",
+    "fertility": "72656.57"
+  },
+  {
+    "country": "Norway",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "68151.06",
+    "life_expect": "67.36",
+    "fertility": "76153.85"
+  },
+  {
+    "country": "Pakistan",
+    "cluster": 0,
+    "year": 1985,
+    "life_expectancy": "404.14",
+    "life_expect": "17.27",
+    "fertility": "2429.71"
+  },
+  {
+    "country": "Pakistan",
+    "cluster": 0,
+    "year": 1990,
+    "life_expectancy": "451.71",
+    "life_expect": "16.08",
+    "fertility": "2628.94"
+  },
+  {
+    "country": "Pakistan",
+    "cluster": 0,
+    "year": 1995,
+    "life_expectancy": "522.18",
+    "life_expect": "15.90",
+    "fertility": "2698.40"
+  },
+  {
+    "country": "Pakistan",
+    "cluster": 0,
+    "year": 2000,
+    "life_expectancy": "379.18",
+    "life_expect": "11.24",
+    "fertility": "2690.66"
+  },
+  {
+    "country": "Pakistan",
+    "cluster": 0,
+    "year": 2005,
+    "life_expectancy": "557.72",
+    "life_expect": "13.95",
+    "fertility": "3218.88"
+  },
+  {
+    "country": "Pakistan",
+    "cluster": 0,
+    "year": 2010,
+    "life_expectancy": "470.33",
+    "life_expect": "11.47",
+    "fertility": "4096.42"
+  },
+  {
+    "country": "Pakistan",
+    "cluster": 0,
+    "year": 2015,
+    "life_expectancy": "493.50",
+    "life_expect": "12.12",
+    "fertility": "4868.95"
+  },
+  {
+    "country": "Peru",
+    "cluster": 3,
+    "year": 1985,
+    "life_expectancy": "1341.76",
+    "life_expect": "25.71",
+    "fertility": "3504.50"
+  },
+  {
+    "country": "Peru",
+    "cluster": 3,
+    "year": 1990,
+    "life_expectancy": "1334.71",
+    "life_expect": "28.00",
+    "fertility": "3289.28"
+  },
+  {
+    "country": "Peru",
+    "cluster": 3,
+    "year": 1995,
+    "life_expectancy": "1495.22",
+    "life_expect": "27.63",
+    "fertility": "4485.78"
+  },
+  {
+    "country": "Peru",
+    "cluster": 3,
+    "year": 2000,
+    "life_expectancy": "1714.84",
+    "life_expect": "31.12",
+    "fertility": "4648.53"
+  },
+  {
+    "country": "Peru",
+    "cluster": 3,
+    "year": 2005,
+    "life_expectancy": "1769.01",
+    "life_expect": "30.46",
+    "fertility": "6100.62"
+  },
+  {
+    "country": "Peru",
+    "cluster": 3,
+    "year": 2010,
+    "life_expectancy": "1861.69",
+    "life_expect": "24.25",
+    "fertility": "9301.36"
+  },
+  {
+    "country": "Peru",
+    "cluster": 3,
+    "year": 2015,
+    "life_expectancy": "2110.31",
+    "life_expect": "22.66",
+    "fertility": "11223.79"
+  },
+  {
+    "country": "Philippines",
+    "cluster": 0,
+    "year": 1985,
+    "life_expectancy": "588.31",
+    "life_expect": "23.94",
+    "fertility": "2855.77"
+  },
+  {
+    "country": "Philippines",
+    "cluster": 0,
+    "year": 1990,
+    "life_expectancy": "536.65",
+    "life_expect": "18.23",
+    "fertility": "3877.53"
+  },
+  {
+    "country": "Philippines",
+    "cluster": 0,
+    "year": 1995,
+    "life_expectancy": "492.27",
+    "life_expect": "13.71",
+    "fertility": "4814.86"
+  },
+  {
+    "country": "Philippines",
+    "cluster": 0,
+    "year": 2000,
+    "life_expectancy": "691.85",
+    "life_expect": "18.03",
+    "fertility": "4346.60"
+  },
+  {
+    "country": "Philippines",
+    "cluster": 0,
+    "year": 2005,
+    "life_expectancy": "570.48",
+    "life_expect": "15.77",
+    "fertility": "4448.25"
+  },
+  {
+    "country": "Philippines",
+    "cluster": 0,
+    "year": 2010,
+    "life_expectancy": "494.54",
+    "life_expect": "13.71",
+    "fertility": "5714.77"
+  },
+  {
+    "country": "Philippines",
+    "cluster": 0,
+    "year": 2015,
+    "life_expectancy": "519.35",
+    "life_expect": "12.02",
+    "fertility": "7197.91"
+  },
+  {
+    "country": "Poland",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "168.24",
+    "life_expect": "0.43",
+    "fertility": "7405.61"
+  },
+  {
+    "country": "Poland",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "107.72",
+    "life_expect": "0.34",
+    "fertility": "7507.90"
+  },
+  {
+    "country": "Poland",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "141.20",
+    "life_expect": "0.49",
+    "fertility": "10374.68"
+  },
+  {
+    "country": "Poland",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "168.01",
+    "life_expect": "0.64",
+    "fertility": "13253.11"
+  },
+  {
+    "country": "Poland",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "285.21",
+    "life_expect": "1.03",
+    "fertility": "14803.62"
+  },
+  {
+    "country": "Poland",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "937.35",
+    "life_expect": "3.09",
+    "fertility": "20636.58"
+  },
+  {
+    "country": "Poland",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "1710.32",
+    "life_expect": "5.89",
+    "fertility": "25634.96"
+  },
+  {
+    "country": "Portugal",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "3144.83",
+    "life_expect": "21.03",
+    "fertility": "9752.47"
+  },
+  {
+    "country": "Portugal",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "2765.42",
+    "life_expect": "13.92",
+    "fertility": "13946.44"
+  },
+  {
+    "country": "Portugal",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "2584.54",
+    "life_expect": "10.81",
+    "fertility": "16747.60"
+  },
+  {
+    "country": "Portugal",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "3471.46",
+    "life_expect": "12.30",
+    "fertility": "21365.45"
+  },
+  {
+    "country": "Portugal",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "2106.69",
+    "life_expect": "7.50",
+    "fertility": "22649.41"
+  },
+  {
+    "country": "Portugal",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "7336.40",
+    "life_expect": "25.98",
+    "fertility": "25386.94"
+  },
+  {
+    "country": "Portugal",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "6340.78",
+    "life_expect": "23.01",
+    "fertility": "27102.62"
+  },
+  {
+    "country": "Romania",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "1530.66",
+    "life_expect": "4.96",
+    "fertility": "6718.39"
+  },
+  {
+    "country": "Romania",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "1349.70",
+    "life_expect": "4.32",
+    "fertility": "6683.98"
+  },
+  {
+    "country": "Romania",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "2019.14",
+    "life_expect": "8.40",
+    "fertility": "6618.77"
+  },
+  {
+    "country": "Romania",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "2538.99",
+    "life_expect": "13.47",
+    "fertility": "7543.93"
+  },
+  {
+    "country": "Romania",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "3236.34",
+    "life_expect": "15.25",
+    "fertility": "10739.13"
+  },
+  {
+    "country": "Romania",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "4066.05",
+    "life_expect": "21.08",
+    "fertility": "17584.99"
+  },
+  {
+    "country": "Romania",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "4804.58",
+    "life_expect": "25.37",
+    "fertility": "22333.75"
+  },
+  {
+    "country": "Russia",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "5033.44",
+    "life_expect": "7.56",
+    "fertility": "18537.04"
+  },
+  {
+    "country": "Russia",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "5370.51",
+    "life_expect": "7.89",
+    "fertility": "18368.90"
+  },
+  {
+    "country": "Russia",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "5169.37",
+    "life_expect": "10.00",
+    "fertility": "11199.04"
+  },
+  {
+    "country": "Russia",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "5594.68",
+    "life_expect": "11.41",
+    "fertility": "8606.26"
+  },
+  {
+    "country": "Russia",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "6038.24",
+    "life_expect": "11.62",
+    "fertility": "13433.38"
+  },
+  {
+    "country": "Russia",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "6132.10",
+    "life_expect": "11.31",
+    "fertility": "20281.71"
+  },
+  {
+    "country": "Russia",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "6358.71",
+    "life_expect": "11.79",
+    "fertility": "22967.89"
+  },
+  {
+    "country": "Slovakia",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "6181.86",
+    "life_expect": "13.38",
+    "fertility": "14299.85"
+  },
+  {
+    "country": "Slovakia",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "7310.06",
+    "life_expect": "15.63",
+    "fertility": "14969.89"
+  },
+  {
+    "country": "Slovakia",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "8432.57",
+    "life_expect": "21.77",
+    "fertility": "12742.35"
+  },
+  {
+    "country": "Slovakia",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "10860.56",
+    "life_expect": "27.09",
+    "fertility": "13697.71"
+  },
+  {
+    "country": "Slovakia",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "11103.27",
+    "life_expect": "26.84",
+    "fertility": "16706.75"
+  },
+  {
+    "country": "Slovakia",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "9822.49",
+    "life_expect": "26.19",
+    "fertility": "22390.82"
+  },
+  {
+    "country": "Slovakia",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "9952.92",
+    "life_expect": "30.00",
+    "fertility": "25570.27"
+  },
+  {
+    "country": "South Africa",
+    "cluster": 4,
+    "year": 1985,
+    "life_expectancy": "504.83",
+    "life_expect": "1.81",
+    "fertility": "8476.39"
+  },
+  {
+    "country": "South Africa",
+    "cluster": 4,
+    "year": 1990,
+    "life_expectancy": "713.98",
+    "life_expect": "2.55",
+    "fertility": "8233.47"
+  },
+  {
+    "country": "South Africa",
+    "cluster": 4,
+    "year": 1995,
+    "life_expectancy": "793.06",
+    "life_expect": "2.94",
+    "fertility": "7891.69"
+  },
+  {
+    "country": "South Africa",
+    "cluster": 4,
+    "year": 2000,
+    "life_expectancy": "901.74",
+    "life_expect": "3.42",
+    "fertility": "8472.69"
+  },
+  {
+    "country": "South Africa",
+    "cluster": 4,
+    "year": 2005,
+    "life_expectancy": "734.75",
+    "life_expect": "2.71",
+    "fertility": "10275.47"
+  },
+  {
+    "country": "South Africa",
+    "cluster": 4,
+    "year": 2010,
+    "life_expectancy": "770.13",
+    "life_expect": "2.69",
+    "fertility": "11265.79"
+  },
+  {
+    "country": "South Africa",
+    "cluster": 4,
+    "year": 2015,
+    "life_expectancy": "880.43",
+    "life_expect": "3.48",
+    "fertility": "11681.65"
+  },
+  {
+    "country": "South Korea",
+    "cluster": 0,
+    "year": 1985,
+    "life_expectancy": "1356.78",
+    "life_expect": "8.89",
+    "fertility": "7327.71"
+  },
+  {
+    "country": "South Korea",
+    "cluster": 0,
+    "year": 1990,
+    "life_expectancy": "3726.20",
+    "life_expect": "15.06",
+    "fertility": "12628.73"
+  },
+  {
+    "country": "South Korea",
+    "cluster": 0,
+    "year": 1995,
+    "life_expectancy": "4295.53",
+    "life_expect": "11.10",
+    "fertility": "19119.95"
+  },
+  {
+    "country": "South Korea",
+    "cluster": 0,
+    "year": 2000,
+    "life_expectancy": "6629.42",
+    "life_expect": "13.85",
+    "fertility": "22794.91"
+  },
+  {
+    "country": "South Korea",
+    "cluster": 0,
+    "year": 2005,
+    "life_expectancy": "8335.27",
+    "life_expect": "15.43",
+    "fertility": "28746.84"
+  },
+  {
+    "country": "South Korea",
+    "cluster": 0,
+    "year": 2010,
+    "life_expectancy": "8268.97",
+    "life_expect": "13.49",
+    "fertility": "32293.22"
+  },
+  {
+    "country": "South Korea",
+    "cluster": 0,
+    "year": 2015,
+    "life_expectancy": "8955.72",
+    "life_expect": "13.80",
+    "fertility": "35417.04"
+  },
+  {
+    "country": "Spain",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "4298.70",
+    "life_expect": "18.20",
+    "fertility": "11488.61"
+  },
+  {
+    "country": "Spain",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "5685.79",
+    "life_expect": "21.01",
+    "fertility": "16835.45"
+  },
+  {
+    "country": "Spain",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "5575.74",
+    "life_expect": "18.30",
+    "fertility": "20333.27"
+  },
+  {
+    "country": "Spain",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "6689.20",
+    "life_expect": "17.99",
+    "fertility": "26699.33"
+  },
+  {
+    "country": "Spain",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "6135.24",
+    "life_expect": "15.14",
+    "fertility": "29532.70"
+  },
+  {
+    "country": "Spain",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "9146.22",
+    "life_expect": "25.28",
+    "fertility": "32387.97"
+  },
+  {
+    "country": "Spain",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "8615.70",
+    "life_expect": "25.79",
+    "fertility": "33639.01"
+  },
+  {
+    "country": "Sri Lanka",
+    "cluster": 0,
+    "year": 1985,
+    "life_expectancy": "411.38",
+    "life_expect": "32.41",
+    "fertility": "2583.92"
+  },
+  {
+    "country": "Sri Lanka",
+    "cluster": 0,
+    "year": 1990,
+    "life_expectancy": "504.19",
+    "life_expect": "36.20",
+    "fertility": "3033.81"
+  },
+  {
+    "country": "Sri Lanka",
+    "cluster": 0,
+    "year": 1995,
+    "life_expectancy": "687.34",
+    "life_expect": "35.98",
+    "fertility": "3781.62"
+  },
+  {
+    "country": "Sri Lanka",
+    "cluster": 0,
+    "year": 2000,
+    "life_expectancy": "474.56",
+    "life_expect": "17.94",
+    "fertility": "4609.87"
+  },
+  {
+    "country": "Sri Lanka",
+    "cluster": 0,
+    "year": 2005,
+    "life_expectancy": "477.40",
+    "life_expect": "16.26",
+    "fertility": "5423.38"
+  },
+  {
+    "country": "Sri Lanka",
+    "cluster": 0,
+    "year": 2010,
+    "life_expectancy": "738.31",
+    "life_expect": "22.80",
+    "fertility": "8439.44"
+  },
+  {
+    "country": "Sri Lanka",
+    "cluster": 0,
+    "year": 2015,
+    "life_expectancy": "777.89",
+    "life_expect": "20.13",
+    "fertility": "11574.52"
+  },
+  {
+    "country": "Sweden",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "43656.48",
+    "life_expect": "54.08",
+    "fertility": "22732.71"
+  },
+  {
+    "country": "Sweden",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "46250.83",
+    "life_expect": "59.63",
+    "fertility": "26380.30"
+  },
+  {
+    "country": "Sweden",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "44166.26",
+    "life_expect": "61.45",
+    "fertility": "27953.83"
+  },
+  {
+    "country": "Sweden",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "43926.58",
+    "life_expect": "62.91",
+    "fertility": "36365.68"
+  },
+  {
+    "country": "Sweden",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "45973.12",
+    "life_expect": "62.93",
+    "fertility": "37946.68"
+  },
+  {
+    "country": "Sweden",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "39427.62",
+    "life_expect": "61.72",
+    "fertility": "41959.53"
+  },
+  {
+    "country": "Sweden",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "42360.81",
+    "life_expect": "68.43",
+    "fertility": "43625.19"
+  },
+  {
+    "country": "Switzerland",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "23663.20",
+    "life_expect": "48.11",
+    "fertility": "30769.23"
+  },
+  {
+    "country": "Switzerland",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "22424.50",
+    "life_expect": "45.95",
+    "fertility": "36524.88"
+  },
+  {
+    "country": "Switzerland",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "24011.23",
+    "life_expect": "50.00",
+    "fertility": "38736.42"
+  },
+  {
+    "country": "Switzerland",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "24864.10",
+    "life_expect": "49.92",
+    "fertility": "43812.99"
+  },
+  {
+    "country": "Switzerland",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "20192.76",
+    "life_expect": "45.00",
+    "fertility": "46703.67"
+  },
+  {
+    "country": "Switzerland",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "21368.72",
+    "life_expect": "48.87",
+    "fertility": "55448.84"
+  },
+  {
+    "country": "Switzerland",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "19620.30",
+    "life_expect": "49.73",
+    "fertility": "62432.20"
+  },
+  {
+    "country": "Taiwan",
+    "cluster": 0,
+    "year": 1985,
+    "life_expectancy": "4997.91",
+    "life_expect": "23.45",
+    "fertility": "11759.83"
+  },
+  {
+    "country": "Taiwan",
+    "cluster": 0,
+    "year": 1990,
+    "life_expectancy": "5370.45",
+    "life_expect": "18.52",
+    "fertility": "18555.59"
+  },
+  {
+    "country": "Taiwan",
+    "cluster": 0,
+    "year": 1995,
+    "life_expectancy": "5290.20",
+    "life_expect": "14.39",
+    "fertility": "24021.35"
+  },
+  {
+    "country": "Taiwan",
+    "cluster": 0,
+    "year": 2000,
+    "life_expectancy": "5579.38",
+    "life_expect": "11.81",
+    "fertility": "32002.55"
+  },
+  {
+    "country": "Taiwan",
+    "cluster": 0,
+    "year": 2005,
+    "life_expectancy": "5437.43",
+    "life_expect": "9.97",
+    "fertility": "35761.47"
+  },
+  {
+    "country": "Taiwan",
+    "cluster": 0,
+    "year": 2010,
+    "life_expectancy": "5476.91",
+    "life_expect": "9.81",
+    "fertility": "37346.90"
+  },
+  {
+    "country": "Taiwan",
+    "cluster": 0,
+    "year": 2015,
+    "life_expectancy": "4862.61",
+    "life_expect": "8.65",
+    "fertility": "41219.17"
+  },
+  {
+    "country": "Thailand",
+    "cluster": 0,
+    "year": 1985,
+    "life_expectancy": "197.07",
+    "life_expect": "5.30",
+    "fertility": "3824.94"
+  },
+  {
+    "country": "Thailand",
+    "cluster": 0,
+    "year": 1990,
+    "life_expectancy": "241.89",
+    "life_expect": "3.79",
+    "fertility": "5251.25"
+  },
+  {
+    "country": "Thailand",
+    "cluster": 0,
+    "year": 1995,
+    "life_expectancy": "314.64",
+    "life_expect": "3.04",
+    "fertility": "7886.73"
+  },
+  {
+    "country": "Thailand",
+    "cluster": 0,
+    "year": 2000,
+    "life_expectancy": "283.21",
+    "life_expect": "2.40",
+    "fertility": "6798.72"
+  },
+  {
+    "country": "Thailand",
+    "cluster": 0,
+    "year": 2005,
+    "life_expectancy": "315.89",
+    "life_expect": "2.00",
+    "fertility": "9386.08"
+  },
+  {
+    "country": "Thailand",
+    "cluster": 0,
+    "year": 2010,
+    "life_expectancy": "456.35",
+    "life_expect": "2.52",
+    "fertility": "12292.58"
+  },
+  {
+    "country": "Thailand",
+    "cluster": 0,
+    "year": 2015,
+    "life_expectancy": "788.71",
+    "life_expect": "3.72",
+    "fertility": "13563.27"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "cluster": 2,
+    "year": 1985,
+    "life_expectancy": "40.36",
+    "life_expect": "0.08",
+    "fertility": "14309.67"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "cluster": 2,
+    "year": 1990,
+    "life_expectancy": "70.53",
+    "life_expect": "0.12",
+    "fertility": "9653.53"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "cluster": 2,
+    "year": 1995,
+    "life_expectancy": "73.10",
+    "life_expect": "0.10",
+    "fertility": "8278.49"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "cluster": 2,
+    "year": 2000,
+    "life_expectancy": "44.13",
+    "life_expect": "0.05",
+    "fertility": "12523.95"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "cluster": 2,
+    "year": 2005,
+    "life_expectancy": "50.52",
+    "life_expect": "0.04",
+    "fertility": "20842.88"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "cluster": 2,
+    "year": 2010,
+    "life_expectancy": "7.86",
+    "life_expect": "0.00",
+    "fertility": "23772.08"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "cluster": 2,
+    "year": 2015,
+    "life_expectancy": "9.51",
+    "life_expect": "0.01",
+    "fertility": "27554.76"
+  },
+  {
+    "country": "Turkey",
+    "cluster": 0,
+    "year": 1985,
+    "life_expectancy": "681.30",
+    "life_expect": "8.72",
+    "fertility": "8710.87"
+  },
+  {
+    "country": "Turkey",
+    "cluster": 0,
+    "year": 1990,
+    "life_expectancy": "1196.57",
+    "life_expect": "11.57",
+    "fertility": "10515.19"
+  },
+  {
+    "country": "Turkey",
+    "cluster": 0,
+    "year": 1995,
+    "life_expectancy": "1702.65",
+    "life_expect": "14.14",
+    "fertility": "11165.07"
+  },
+  {
+    "country": "Turkey",
+    "cluster": 0,
+    "year": 2000,
+    "life_expectancy": "1368.40",
+    "life_expect": "10.07",
+    "fertility": "12697.66"
+  },
+  {
+    "country": "Turkey",
+    "cluster": 0,
+    "year": 2005,
+    "life_expectancy": "1574.55",
+    "life_expect": "10.80",
+    "fertility": "13372.02"
+  },
+  {
+    "country": "Turkey",
+    "cluster": 0,
+    "year": 2010,
+    "life_expectancy": "2008.52",
+    "life_expect": "11.62",
+    "fertility": "17282.62"
+  },
+  {
+    "country": "Turkey",
+    "cluster": 0,
+    "year": 2015,
+    "life_expectancy": "2694.99",
+    "life_expect": "13.31",
+    "fertility": "21902.74"
+  },
+  {
+    "country": "Turkmenistan",
+    "cluster": 0,
+    "year": 1985,
+    "life_expectancy": "2.57",
+    "life_expect": "0.01",
+    "fertility": "6331.18"
+  },
+  {
+    "country": "Turkmenistan",
+    "cluster": 0,
+    "year": 1990,
+    "life_expectancy": "2.26",
+    "life_expect": "0.01",
+    "fertility": "5896.09"
+  },
+  {
+    "country": "Turkmenistan",
+    "cluster": 0,
+    "year": 1995,
+    "life_expectancy": "2.64",
+    "life_expect": "0.01",
+    "fertility": "2930.58"
+  },
+  {
+    "country": "Turkmenistan",
+    "cluster": 0,
+    "year": 2000,
+    "life_expectancy": "1.94",
+    "life_expect": "0.01",
+    "fertility": "3970.39"
+  },
+  {
+    "country": "Turkmenistan",
+    "cluster": 0,
+    "year": 2005,
+    "life_expectancy": "1.78",
+    "life_expect": "0.01",
+    "fertility": "8670.82"
+  },
+  {
+    "country": "Turkmenistan",
+    "cluster": 0,
+    "year": 2010,
+    "life_expectancy": "1.70",
+    "life_expect": "0.00",
+    "fertility": "15917.35"
+  },
+  {
+    "country": "Turkmenistan",
+    "cluster": 0,
+    "year": 2015,
+    "life_expectancy": "3.81",
+    "life_expect": "0.01",
+    "fertility": "19946.09"
+  },
+  {
+    "country": "Ukraine",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "3492.45",
+    "life_expect": "6.41",
+    "fertility": "10408.69"
+  },
+  {
+    "country": "Ukraine",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "4679.36",
+    "life_expect": "7.59",
+    "fertility": "10667.86"
+  },
+  {
+    "country": "Ukraine",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "4391.49",
+    "life_expect": "12.67",
+    "fertility": "5186.23"
+  },
+  {
+    "country": "Ukraine",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "5040.54",
+    "life_expect": "15.57",
+    "fertility": "4463.74"
+  },
+  {
+    "country": "Ukraine",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "5802.81",
+    "life_expect": "17.08",
+    "fertility": "7378.81"
+  },
+  {
+    "country": "Ukraine",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "5838.67",
+    "life_expect": "18.96",
+    "fertility": "9237.42"
+  },
+  {
+    "country": "Ukraine",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "5334.66",
+    "life_expect": "24.30",
+    "fertility": "9327.28"
+  },
+  {
+    "country": "United Kingdom",
+    "cluster": 1,
+    "year": 1985,
+    "life_expectancy": "3203.02",
+    "life_expect": "7.57",
+    "fertility": "20739.53"
+  },
+  {
+    "country": "United Kingdom",
+    "cluster": 1,
+    "year": 1990,
+    "life_expectancy": "3474.83",
+    "life_expect": "7.93",
+    "fertility": "24153.74"
+  },
+  {
+    "country": "United Kingdom",
+    "cluster": 1,
+    "year": 1995,
+    "life_expectancy": "4586.30",
+    "life_expect": "10.44",
+    "fertility": "26582.89"
+  },
+  {
+    "country": "United Kingdom",
+    "cluster": 1,
+    "year": 2000,
+    "life_expectancy": "4477.47",
+    "life_expect": "9.92",
+    "fertility": "34451.74"
+  },
+  {
+    "country": "United Kingdom",
+    "cluster": 1,
+    "year": 2005,
+    "life_expectancy": "4411.52",
+    "life_expect": "9.82",
+    "fertility": "37984.34"
+  },
+  {
+    "country": "United Kingdom",
+    "cluster": 1,
+    "year": 2010,
+    "life_expectancy": "3841.90",
+    "life_expect": "9.82",
+    "fertility": "34825.09"
+  },
+  {
+    "country": "United Kingdom",
+    "cluster": 1,
+    "year": 2015,
+    "life_expectancy": "6072.40",
+    "life_expect": "17.75",
+    "fertility": "38414.82"
+  },
+  {
+    "country": "United States",
+    "cluster": 2,
+    "year": 1985,
+    "life_expectancy": "8402.37",
+    "life_expect": "10.03",
+    "fertility": "32765.07"
+  },
+  {
+    "country": "United States",
+    "cluster": 2,
+    "year": 1990,
+    "life_expectancy": "10648.73",
+    "life_expect": "11.93",
+    "fertility": "36688.88"
+  },
+  {
+    "country": "United States",
+    "cluster": 2,
+    "year": 1995,
+    "life_expectancy": "11510.73",
+    "life_expect": "12.60",
+    "fertility": "39598.14"
+  },
+  {
+    "country": "United States",
+    "cluster": 2,
+    "year": 2000,
+    "life_expectancy": "11370.51",
+    "life_expect": "12.12",
+    "fertility": "46146.58"
+  },
+  {
+    "country": "United States",
+    "cluster": 2,
+    "year": 2005,
+    "life_expectancy": "11103.81",
+    "life_expect": "12.23",
+    "fertility": "49831.52"
+  },
+  {
+    "country": "United States",
+    "cluster": 2,
+    "year": 2010,
+    "life_expectancy": "11816.23",
+    "life_expect": "14.14",
+    "fertility": "49512.80"
+  },
+  {
+    "country": "United States",
+    "cluster": 2,
+    "year": 2015,
+    "life_expectancy": "12236.77",
+    "life_expect": "15.34",
+    "fertility": "52667.99"
+  },
+  {
+    "country": "Uzbekistan",
+    "cluster": 0,
+    "year": 1985,
+    "life_expectancy": "835.36",
+    "life_expect": "3.13",
+    "fertility": "4739.07"
+  },
+  {
+    "country": "Uzbekistan",
+    "cluster": 0,
+    "year": 1990,
+    "life_expectancy": "905.32",
+    "life_expect": "3.64",
+    "fertility": "4472.76"
+  },
+  {
+    "country": "Uzbekistan",
+    "cluster": 0,
+    "year": 1995,
+    "life_expectancy": "754.20",
+    "life_expect": "3.39",
+    "fertility": "3169.93"
+  },
+  {
+    "country": "Uzbekistan",
+    "cluster": 0,
+    "year": 2000,
+    "life_expectancy": "659.29",
+    "life_expect": "2.74",
+    "fertility": "3415.09"
+  },
+  {
+    "country": "Uzbekistan",
+    "cluster": 0,
+    "year": 2005,
+    "life_expectancy": "699.81",
+    "life_expect": "3.31",
+    "fertility": "4389.28"
+  },
+  {
+    "country": "Uzbekistan",
+    "cluster": 0,
+    "year": 2010,
+    "life_expectancy": "749.05",
+    "life_expect": "4.13",
+    "fertility": "6662.93"
+  },
+  {
+    "country": "Uzbekistan",
+    "cluster": 0,
+    "year": 2015,
+    "life_expectancy": "492.42",
+    "life_expect": "2.90",
+    "fertility": "8600.06"
+  },
+  {
+    "country": "Venezuela",
+    "cluster": 3,
+    "year": 1985,
+    "life_expectancy": "3632.28",
+    "life_expect": "12.59",
+    "fertility": "8660.51"
+  },
+  {
+    "country": "Venezuela",
+    "cluster": 3,
+    "year": 1990,
+    "life_expectancy": "5232.55",
+    "life_expect": "17.21",
+    "fertility": "7589.26"
+  },
+  {
+    "country": "Venezuela",
+    "cluster": 3,
+    "year": 1995,
+    "life_expectancy": "6516.66",
+    "life_expect": "19.90",
+    "fertility": "7113.22"
+  },
+  {
+    "country": "Venezuela",
+    "cluster": 3,
+    "year": 2000,
+    "life_expectancy": "7220.71",
+    "life_expect": "22.64",
+    "fertility": "7729.83"
+  },
+  {
+    "country": "Venezuela",
+    "cluster": 3,
+    "year": 2005,
+    "life_expectancy": "7844.98",
+    "life_expect": "24.34",
+    "fertility": "10441.89"
+  },
+  {
+    "country": "Venezuela",
+    "cluster": 3,
+    "year": 2010,
+    "life_expectancy": "7028.35",
+    "life_expect": "21.62",
+    "fertility": "15752.46"
+  },
+  {
+    "country": "Venezuela",
+    "cluster": 3,
+    "year": 2015,
+    "life_expectancy": "6173.20",
+    "life_expect": "20.29",
+    "fertility": "16056.11"
+  },
+  {
+    "country": "Vietnam",
+    "cluster": 0,
+    "year": 1985,
+    "life_expectancy": "67.37",
+    "life_expect": "6.78",
+    "fertility": "1130.87"
+  },
+  {
+    "country": "Vietnam",
+    "cluster": 0,
+    "year": 1990,
+    "life_expectancy": "219.36",
+    "life_expect": "19.66",
+    "fertility": "1187.54"
+  },
+  {
+    "country": "Vietnam",
+    "cluster": 0,
+    "year": 1995,
+    "life_expectancy": "392.40",
+    "life_expect": "23.63",
+    "fertility": "1695.37"
+  },
+  {
+    "country": "Vietnam",
+    "cluster": 0,
+    "year": 2000,
+    "life_expectancy": "505.81",
+    "life_expect": "19.28",
+    "fertility": "2227.51"
+  },
+  {
+    "country": "Vietnam",
+    "cluster": 0,
+    "year": 2005,
+    "life_expectancy": "532.15",
+    "life_expect": "12.31",
+    "fertility": "3244.55"
+  },
+  {
+    "country": "Vietnam",
+    "cluster": 0,
+    "year": 2010,
+    "life_expectancy": "848.47",
+    "life_expect": "14.35",
+    "fertility": "4547.11"
+  },
+  {
+    "country": "Vietnam",
+    "cluster": 0,
+    "year": 2015,
+    "life_expectancy": "1567.48",
+    "life_expect": "18.06",
+    "fertility": "5837.48"
+  }
+]
