@@ -1,0 +1,1217 @@
+[
+  {
+    "Continent": "Africa",
+    "Year": 1990,
+    "HDI_indx": 0.551,
+    "GDPpercapita": 6160.23581717201,
+    "LowCarbonShare": 2.68600820379718,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.5-0.6"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 1991,
+    "HDI_indx": 0.55625,
+    "GDPpercapita": 6035.25789488025,
+    "LowCarbonShare": 2.97857930598965,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.5-0.6"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 1992,
+    "HDI_indx": 0.5625,
+    "GDPpercapita": 6010.16797819815,
+    "LowCarbonShare": 2.68216278534332,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.5-0.6"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 1993,
+    "HDI_indx": 0.56775,
+    "GDPpercapita": 5877.13461964959,
+    "LowCarbonShare": 2.27554701879145,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.5-0.6"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 1994,
+    "HDI_indx": 0.57375,
+    "GDPpercapita": 5956.87021437063,
+    "LowCarbonShare": 2.78726556563508,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.5-0.6"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 1995,
+    "HDI_indx": 0.57825,
+    "GDPpercapita": 6017.97871140031,
+    "LowCarbonShare": 2.82450612055749,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.5-0.6"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 1996,
+    "HDI_indx": 0.58375,
+    "GDPpercapita": 6264.9238116338,
+    "LowCarbonShare": 3.24220078445074,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.5-0.6"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 1997,
+    "HDI_indx": 0.58775,
+    "GDPpercapita": 6161.67907266428,
+    "LowCarbonShare": 3.46847783324822,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.5-0.6"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 1998,
+    "HDI_indx": 0.591,
+    "GDPpercapita": 6189.61262895026,
+    "LowCarbonShare": 3.51093589298363,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.5-0.6"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 1999,
+    "HDI_indx": 0.5975,
+    "GDPpercapita": 6218.77449775937,
+    "LowCarbonShare": 3.09685814075186,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.5-0.6"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 2000,
+    "HDI_indx": 0.6025,
+    "GDPpercapita": 6456.0344628994,
+    "LowCarbonShare": 3.22543300551094,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 2001,
+    "HDI_indx": 0.60425,
+    "GDPpercapita": 6568.27489194677,
+    "LowCarbonShare": 2.99106221115817,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 2002,
+    "HDI_indx": 0.61225,
+    "GDPpercapita": 6756.22813586222,
+    "LowCarbonShare": 3.14086284323819,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 2003,
+    "HDI_indx": 0.61825,
+    "GDPpercapita": 6944.13850830433,
+    "LowCarbonShare": 2.92880744849508,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 2004,
+    "HDI_indx": 0.62475,
+    "GDPpercapita": 7174.21623587,
+    "LowCarbonShare": 2.81646258985409,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 2005,
+    "HDI_indx": 0.631,
+    "GDPpercapita": 7657.30358107277,
+    "LowCarbonShare": 2.56113569351714,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 2006,
+    "HDI_indx": 0.63675,
+    "GDPpercapita": 8160.83536607853,
+    "LowCarbonShare": 2.46640683177092,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 2007,
+    "HDI_indx": 0.64475,
+    "GDPpercapita": 8682.65493063737,
+    "LowCarbonShare": 2.59182796907041,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 2008,
+    "HDI_indx": 0.6525,
+    "GDPpercapita": 9367.19081371402,
+    "LowCarbonShare": 2.49276921976776,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 2009,
+    "HDI_indx": 0.659,
+    "GDPpercapita": 9216.84475172847,
+    "LowCarbonShare": 2.6260687198664,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 2010,
+    "HDI_indx": 0.66725,
+    "GDPpercapita": 10084.1333082878,
+    "LowCarbonShare": 2.71279432187074,
+    "GDP_range": "10K$-20K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 2011,
+    "HDI_indx": 0.6725,
+    "GDPpercapita": 10913.892880724,
+    "LowCarbonShare": 2.62575787500289,
+    "GDP_range": "10K$-20K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 2012,
+    "HDI_indx": 0.67875,
+    "GDPpercapita": 10939.5324016943,
+    "LowCarbonShare": 2.34693237300408,
+    "GDP_range": "10K$-20K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 2013,
+    "HDI_indx": 0.68525,
+    "GDPpercapita": 10965.2812833025,
+    "LowCarbonShare": 2.59314490890239,
+    "GDP_range": "10K$-20K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 2014,
+    "HDI_indx": 0.6915,
+    "GDPpercapita": 11055.322466011,
+    "LowCarbonShare": 2.63970647622016,
+    "GDP_range": "10K$-20K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 2015,
+    "HDI_indx": 0.6975,
+    "GDPpercapita": 11205.061627839,
+    "LowCarbonShare": 2.84179748039251,
+    "GDP_range": "10K$-20K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Africa",
+    "Year": 2016,
+    "HDI_indx": 0.70225,
+    "GDPpercapita": 11293.1445840624,
+    "LowCarbonShare": 3.20552626159357,
+    "GDP_range": "10K$-20K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 1990,
+    "HDI_indx": 0.75975,
+    "GDPpercapita": 29961.7267453491,
+    "LowCarbonShare": 18.3752746850848,
+    "GDP_range": "20K$-30K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 1991,
+    "HDI_indx": 0.76275,
+    "GDPpercapita": 29584.1208737845,
+    "LowCarbonShare": 19.3432492844179,
+    "GDP_range": "20K$-30K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 1992,
+    "HDI_indx": 0.76575,
+    "GDPpercapita": 30303.3840530214,
+    "LowCarbonShare": 18.8968283250316,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 1993,
+    "HDI_indx": 0.768,
+    "GDPpercapita": 30683.1148263496,
+    "LowCarbonShare": 19.1884775761747,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 1994,
+    "HDI_indx": 0.7725,
+    "GDPpercapita": 31440.0209457166,
+    "LowCarbonShare": 19.1384826934787,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 1995,
+    "HDI_indx": 0.77575,
+    "GDPpercapita": 31704.4280290979,
+    "LowCarbonShare": 18.8340155130475,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 1996,
+    "HDI_indx": 0.7795,
+    "GDPpercapita": 32389.3130687395,
+    "LowCarbonShare": 18.451625562094,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 1997,
+    "HDI_indx": 0.78325,
+    "GDPpercapita": 33492.056960078,
+    "LowCarbonShare": 17.6840428692604,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 1998,
+    "HDI_indx": 0.78475,
+    "GDPpercapita": 34511.7215955933,
+    "LowCarbonShare": 16.7641351778672,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 1999,
+    "HDI_indx": 0.7915,
+    "GDPpercapita": 35825.8408535427,
+    "LowCarbonShare": 16.6966786366983,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 2000,
+    "HDI_indx": 0.7945,
+    "GDPpercapita": 37059.7032269384,
+    "LowCarbonShare": 16.4034139245384,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 2001,
+    "HDI_indx": 0.79925,
+    "GDPpercapita": 36912.4097793592,
+    "LowCarbonShare": 15.4233488571747,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 2002,
+    "HDI_indx": 0.803,
+    "GDPpercapita": 37078.2138663854,
+    "LowCarbonShare": 15.2981483227812,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 2003,
+    "HDI_indx": 0.8095,
+    "GDPpercapita": 37822.7918626351,
+    "LowCarbonShare": 14.1696094850111,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 2004,
+    "HDI_indx": 0.8165,
+    "GDPpercapita": 38937.684903584,
+    "LowCarbonShare": 13.969777953988,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 2005,
+    "HDI_indx": 0.81975,
+    "GDPpercapita": 40088.968141545,
+    "LowCarbonShare": 14.0289426237669,
+    "GDP_range": "40K$-50K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 2006,
+    "HDI_indx": 0.82725,
+    "GDPpercapita": 40853.670065381,
+    "LowCarbonShare": 13.2254794614172,
+    "GDP_range": "40K$-50K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 2007,
+    "HDI_indx": 0.82975,
+    "GDPpercapita": 41337.2838608885,
+    "LowCarbonShare": 12.9666080624595,
+    "GDP_range": "40K$-50K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 2008,
+    "HDI_indx": 0.83375,
+    "GDPpercapita": 40918.7931870715,
+    "LowCarbonShare": 13.4637342091448,
+    "GDP_range": "40K$-50K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 2009,
+    "HDI_indx": 0.835,
+    "GDPpercapita": 39062.7057180013,
+    "LowCarbonShare": 13.5767678999268,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 2010,
+    "HDI_indx": 0.83725,
+    "GDPpercapita": 39931.0240362332,
+    "LowCarbonShare": 12.6487664582945,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 2011,
+    "HDI_indx": 0.83975,
+    "GDPpercapita": 40410.958586319,
+    "LowCarbonShare": 13.289597744433,
+    "GDP_range": "40K$-50K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 2012,
+    "HDI_indx": 0.84125,
+    "GDPpercapita": 40906.3813531059,
+    "LowCarbonShare": 13.4617187156857,
+    "GDP_range": "40K$-50K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 2013,
+    "HDI_indx": 0.8425,
+    "GDPpercapita": 41087.1826840217,
+    "LowCarbonShare": 13.6038699896459,
+    "GDP_range": "40K$-50K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 2014,
+    "HDI_indx": 0.846,
+    "GDPpercapita": 41755.7325440178,
+    "LowCarbonShare": 13.5144468061623,
+    "GDP_range": "40K$-50K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 2015,
+    "HDI_indx": 0.85,
+    "GDPpercapita": 42358.5742792243,
+    "LowCarbonShare": 13.8240280261726,
+    "GDP_range": "40K$-50K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Americas",
+    "Year": 2016,
+    "HDI_indx": 0.85125,
+    "GDPpercapita": 42729.5795569106,
+    "LowCarbonShare": 14.8344157983436,
+    "GDP_range": "40K$-50K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 1990,
+    "HDI_indx": 0.614954545454545,
+    "GDPpercapita": 3886.95115316459,
+    "LowCarbonShare": 2.99239410664092,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 1991,
+    "HDI_indx": 0.616454545454545,
+    "GDPpercapita": 4002.04710750354,
+    "LowCarbonShare": 2.95777600037262,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 1992,
+    "HDI_indx": 0.622772727272727,
+    "GDPpercapita": 4199.72184763292,
+    "LowCarbonShare": 2.5995168928155,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 1993,
+    "HDI_indx": 0.637217391304348,
+    "GDPpercapita": 4431.81029777212,
+    "LowCarbonShare": 2.26328184793796,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 1994,
+    "HDI_indx": 0.644695652173913,
+    "GDPpercapita": 4543.95474349116,
+    "LowCarbonShare": 2.15785638062433,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 1995,
+    "HDI_indx": 0.650083333333333,
+    "GDPpercapita": 4752.67187392876,
+    "LowCarbonShare": 2.2438436447825,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 1996,
+    "HDI_indx": 0.658375,
+    "GDPpercapita": 4955.87553382849,
+    "LowCarbonShare": 2.43864334675518,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 1997,
+    "HDI_indx": 0.664916666666667,
+    "GDPpercapita": 5009.53906259448,
+    "LowCarbonShare": 2.42652563688649,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 1998,
+    "HDI_indx": 0.671041666666667,
+    "GDPpercapita": 4883.96378295722,
+    "LowCarbonShare": 2.51162068051257,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 1999,
+    "HDI_indx": 0.677333333333333,
+    "GDPpercapita": 5015.19893332814,
+    "LowCarbonShare": 2.47073710240588,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 2000,
+    "HDI_indx": 0.681115384615385,
+    "GDPpercapita": 5336.18873482718,
+    "LowCarbonShare": 2.54236142680198,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 2001,
+    "HDI_indx": 0.686692307692308,
+    "GDPpercapita": 5458.24980441395,
+    "LowCarbonShare": 2.46642969715521,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 2002,
+    "HDI_indx": 0.693346153846154,
+    "GDPpercapita": 5715.24545396515,
+    "LowCarbonShare": 2.50930959622436,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.6-0.7"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 2003,
+    "HDI_indx": 0.700153846153846,
+    "GDPpercapita": 5939.82728381104,
+    "LowCarbonShare": 2.35940177907933,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 2004,
+    "HDI_indx": 0.707076923076923,
+    "GDPpercapita": 6356.38761316656,
+    "LowCarbonShare": 2.39938061115781,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 2005,
+    "HDI_indx": 0.713384615384615,
+    "GDPpercapita": 6941.87067799294,
+    "LowCarbonShare": 2.39860785477911,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 2006,
+    "HDI_indx": 0.721038461538462,
+    "GDPpercapita": 7412.13857139659,
+    "LowCarbonShare": 2.53099689081722,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 2007,
+    "HDI_indx": 0.727730769230769,
+    "GDPpercapita": 7884.00718895573,
+    "LowCarbonShare": 2.45549508500756,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 2008,
+    "HDI_indx": 0.733576923076923,
+    "GDPpercapita": 8221.23801858703,
+    "LowCarbonShare": 2.40761616498986,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 2009,
+    "HDI_indx": 0.737730769230769,
+    "GDPpercapita": 8376.66041425441,
+    "LowCarbonShare": 2.49270361875381,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 2010,
+    "HDI_indx": 0.740925925925926,
+    "GDPpercapita": 9206.37345981358,
+    "LowCarbonShare": 2.61424358930986,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 2011,
+    "HDI_indx": 0.747703703703704,
+    "GDPpercapita": 9923.63382980116,
+    "LowCarbonShare": 2.42647591244474,
+    "GDP_range": "<10K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 2012,
+    "HDI_indx": 0.754444444444444,
+    "GDPpercapita": 10177.2961448387,
+    "LowCarbonShare": 2.18963499273827,
+    "GDP_range": "10K$-20K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 2013,
+    "HDI_indx": 0.758814814814815,
+    "GDPpercapita": 10440.3305168451,
+    "LowCarbonShare": 2.30158830045798,
+    "GDP_range": "10K$-20K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 2014,
+    "HDI_indx": 0.763259259259259,
+    "GDPpercapita": 10736.3579919012,
+    "LowCarbonShare": 2.3371348059439,
+    "GDP_range": "10K$-20K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 2015,
+    "HDI_indx": 0.768925925925926,
+    "GDPpercapita": 11042.17003186,
+    "LowCarbonShare": 2.38658560796043,
+    "GDP_range": "10K$-20K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Asia",
+    "Year": 2016,
+    "HDI_indx": 0.773851851851852,
+    "GDPpercapita": 11297.9074067802,
+    "LowCarbonShare": 2.51025372488107,
+    "GDP_range": "10K$-20K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 1990,
+    "HDI_indx": 0.765870967741936,
+    "GDPpercapita": 19278.7995888453,
+    "LowCarbonShare": 21.3349606240075,
+    "GDP_range": "10K$-20K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 1991,
+    "HDI_indx": 0.767741935483871,
+    "GDPpercapita": 19237.2128962097,
+    "LowCarbonShare": 21.5399633394874,
+    "GDP_range": "10K$-20K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 1992,
+    "HDI_indx": 0.769483870967742,
+    "GDPpercapita": 19270.0931391327,
+    "LowCarbonShare": 22.5797885699231,
+    "GDP_range": "10K$-20K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 1993,
+    "HDI_indx": 0.773548387096774,
+    "GDPpercapita": 18676.221040753,
+    "LowCarbonShare": 23.5218468479376,
+    "GDP_range": "10K$-20K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 1994,
+    "HDI_indx": 0.780096774193548,
+    "GDPpercapita": 18636.7484241793,
+    "LowCarbonShare": 23.5203614775428,
+    "GDP_range": "10K$-20K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 1995,
+    "HDI_indx": 0.7816875,
+    "GDPpercapita": 19018.8719637487,
+    "LowCarbonShare": 24.3722750562224,
+    "GDP_range": "10K$-20K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 1996,
+    "HDI_indx": 0.78790625,
+    "GDPpercapita": 18800.2898414999,
+    "LowCarbonShare": 23.0933367669653,
+    "GDP_range": "10K$-20K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 1997,
+    "HDI_indx": 0.793875,
+    "GDPpercapita": 19689.7904222424,
+    "LowCarbonShare": 24.291143159465,
+    "GDP_range": "10K$-20K$",
+    "HDI_range": "0.7-0.8"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 1998,
+    "HDI_indx": 0.80165625,
+    "GDPpercapita": 20445.5921135797,
+    "LowCarbonShare": 25.3110254135759,
+    "GDP_range": "20K$-30K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 1999,
+    "HDI_indx": 0.80771875,
+    "GDPpercapita": 21170.508059292,
+    "LowCarbonShare": 26.0732643298148,
+    "GDP_range": "20K$-30K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 2000,
+    "HDI_indx": 0.810212121212121,
+    "GDPpercapita": 22509.7744490697,
+    "LowCarbonShare": 26.9575204312155,
+    "GDP_range": "20K$-30K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 2001,
+    "HDI_indx": 0.817181818181818,
+    "GDPpercapita": 23087.143857494,
+    "LowCarbonShare": 26.3754392302009,
+    "GDP_range": "20K$-30K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 2002,
+    "HDI_indx": 0.822545454545455,
+    "GDPpercapita": 23470.4188950166,
+    "LowCarbonShare": 26.1827832649323,
+    "GDP_range": "20K$-30K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 2003,
+    "HDI_indx": 0.829121212121212,
+    "GDPpercapita": 23566.065886106,
+    "LowCarbonShare": 24.6531672864145,
+    "GDP_range": "20K$-30K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 2004,
+    "HDI_indx": 0.835545454545455,
+    "GDPpercapita": 24477.8716925323,
+    "LowCarbonShare": 25.1857779861086,
+    "GDP_range": "20K$-30K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 2005,
+    "HDI_indx": 0.841878787878788,
+    "GDPpercapita": 25797.413637088,
+    "LowCarbonShare": 25.6418984929153,
+    "GDP_range": "20K$-30K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 2006,
+    "HDI_indx": 0.847939393939394,
+    "GDPpercapita": 27199.7829389392,
+    "LowCarbonShare": 25.3209354858683,
+    "GDP_range": "20K$-30K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 2007,
+    "HDI_indx": 0.853727272727273,
+    "GDPpercapita": 28981.8713399148,
+    "LowCarbonShare": 26.5342652750259,
+    "GDP_range": "20K$-30K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 2008,
+    "HDI_indx": 0.858030303030303,
+    "GDPpercapita": 29782.002293198,
+    "LowCarbonShare": 28.9414803048569,
+    "GDP_range": "20K$-30K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 2009,
+    "HDI_indx": 0.85869696969697,
+    "GDPpercapita": 28588.1353848312,
+    "LowCarbonShare": 30.1075001865348,
+    "GDP_range": "20K$-30K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 2010,
+    "HDI_indx": 0.862606060606061,
+    "GDPpercapita": 29443.0033114604,
+    "LowCarbonShare": 29.3469885599645,
+    "GDP_range": "20K$-30K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 2011,
+    "HDI_indx": 0.866545454545455,
+    "GDPpercapita": 30620.6123043667,
+    "LowCarbonShare": 29.7089760136814,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 2012,
+    "HDI_indx": 0.868515151515152,
+    "GDPpercapita": 31111.9572838712,
+    "LowCarbonShare": 31.3822636660739,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 2013,
+    "HDI_indx": 0.873757575757576,
+    "GDPpercapita": 31755.8702868032,
+    "LowCarbonShare": 31.9534385252831,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 2014,
+    "HDI_indx": 0.877424242424242,
+    "GDPpercapita": 32152.6321970843,
+    "LowCarbonShare": 33.2280128120482,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 2015,
+    "HDI_indx": 0.880181818181818,
+    "GDPpercapita": 32427.3822271287,
+    "LowCarbonShare": 33.2960910092529,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Europe",
+    "Year": 2016,
+    "HDI_indx": 0.883090909090909,
+    "GDPpercapita": 32623.4951332119,
+    "LowCarbonShare": 32.9961557139362,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 1990,
+    "HDI_indx": 0.8485,
+    "GDPpercapita": 26480.984912815,
+    "LowCarbonShare": 20.380189040725,
+    "GDP_range": "20K$-30K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 1991,
+    "HDI_indx": 0.849,
+    "GDPpercapita": 25383.4094848558,
+    "LowCarbonShare": 20.2881513628667,
+    "GDP_range": "20K$-30K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 1992,
+    "HDI_indx": 0.8525,
+    "GDPpercapita": 26519.7344635255,
+    "LowCarbonShare": 18.8947276980994,
+    "GDP_range": "20K$-30K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 1993,
+    "HDI_indx": 0.86,
+    "GDPpercapita": 26934.0179229933,
+    "LowCarbonShare": 20.0670416508036,
+    "GDP_range": "20K$-30K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 1994,
+    "HDI_indx": 0.866,
+    "GDPpercapita": 28062.4258067407,
+    "LowCarbonShare": 20.5227237361166,
+    "GDP_range": "20K$-30K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 1995,
+    "HDI_indx": 0.8735,
+    "GDPpercapita": 28981.3019220971,
+    "LowCarbonShare": 20.8249368736054,
+    "GDP_range": "20K$-30K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 1996,
+    "HDI_indx": 0.876,
+    "GDPpercapita": 29830.2592035059,
+    "LowCarbonShare": 19.6075454295001,
+    "GDP_range": "20K$-30K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 1997,
+    "HDI_indx": 0.8805,
+    "GDPpercapita": 30780.2891505488,
+    "LowCarbonShare": 17.6559389695035,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 1998,
+    "HDI_indx": 0.883,
+    "GDPpercapita": 31497.4563111171,
+    "LowCarbonShare": 18.8863085035993,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 1999,
+    "HDI_indx": 0.886,
+    "GDPpercapita": 32842.1082063169,
+    "LowCarbonShare": 17.202289736248,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 2000,
+    "HDI_indx": 0.8895,
+    "GDPpercapita": 34063.4633410941,
+    "LowCarbonShare": 17.8386412718849,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 2001,
+    "HDI_indx": 0.8925,
+    "GDPpercapita": 34411.1154395533,
+    "LowCarbonShare": 16.0211328119347,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 2002,
+    "HDI_indx": 0.8975,
+    "GDPpercapita": 35481.9380243109,
+    "LowCarbonShare": 17.2731346777364,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": "0.8-0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 2003,
+    "HDI_indx": 0.9,
+    "GDPpercapita": 35904.5927429586,
+    "LowCarbonShare": 16.5896606938581,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": ">0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 2004,
+    "HDI_indx": 0.9025,
+    "GDPpercapita": 36769.6160267112,
+    "LowCarbonShare": 18.0734163582017,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": ">0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 2005,
+    "HDI_indx": 0.901,
+    "GDPpercapita": 38496.3395574566,
+    "LowCarbonShare": 16.7150813180672,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": ">0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 2006,
+    "HDI_indx": 0.9035,
+    "GDPpercapita": 38604.7264486889,
+    "LowCarbonShare": 16.3748848892878,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": ">0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 2007,
+    "HDI_indx": 0.9065,
+    "GDPpercapita": 39683.4864209313,
+    "LowCarbonShare": 16.5240693187376,
+    "GDP_range": "30K$-40K$",
+    "HDI_range": ">0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 2008,
+    "HDI_indx": 0.914,
+    "GDPpercapita": 41155.7985162046,
+    "LowCarbonShare": 16.132759501184,
+    "GDP_range": "40K$-50K$",
+    "HDI_range": ">0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 2009,
+    "HDI_indx": 0.9165,
+    "GDPpercapita": 40423.4102937792,
+    "LowCarbonShare": 17.9311675079619,
+    "GDP_range": "40K$-50K$",
+    "HDI_range": ">0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 2010,
+    "HDI_indx": 0.918,
+    "GDPpercapita": 42488.21866164,
+    "LowCarbonShare": 18.9272845681334,
+    "GDP_range": "40K$-50K$",
+    "HDI_range": ">0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 2011,
+    "HDI_indx": 0.9205,
+    "GDPpercapita": 43328.2635308083,
+    "LowCarbonShare": 19.7514316352511,
+    "GDP_range": "40K$-50K$",
+    "HDI_range": ">0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 2012,
+    "HDI_indx": 0.924,
+    "GDPpercapita": 42306.0061376589,
+    "LowCarbonShare": 18.6870649411178,
+    "GDP_range": "40K$-50K$",
+    "HDI_range": ">0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 2013,
+    "HDI_indx": 0.9225,
+    "GDPpercapita": 41549.6507525023,
+    "LowCarbonShare": 19.0991720225583,
+    "GDP_range": "40K$-50K$",
+    "HDI_range": ">0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 2014,
+    "HDI_indx": 0.9245,
+    "GDPpercapita": 41471.3819059793,
+    "LowCarbonShare": 19.290803344991,
+    "GDP_range": "40K$-50K$",
+    "HDI_range": ">0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 2015,
+    "HDI_indx": 0.9295,
+    "GDPpercapita": 42141.0305811469,
+    "LowCarbonShare": 19.6149277478978,
+    "GDP_range": "40K$-50K$",
+    "HDI_range": ">0.9"
+  },
+  {
+    "Continent": "Oceania",
+    "Year": 2016,
+    "HDI_indx": 0.9315,
+    "GDPpercapita": 42493.6034852362,
+    "LowCarbonShare": 20.4586722734297,
+    "GDP_range": "40K$-50K$",
+    "HDI_range": ">0.9"
+  }
+]
