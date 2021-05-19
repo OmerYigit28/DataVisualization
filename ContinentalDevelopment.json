@@ -769,12 +769,6 @@
   },
   {
     "Continent": "Asia",
-    "Year": 1990,
-    "HDI_range": "NA",
-    "LowCarbonShare": 3.79
-  },
-  {
-    "Continent": "Asia",
     "Year": 1991,
     "HDI_range": "0.4-0.5",
     "LowCarbonShare": 13.43
@@ -802,12 +796,6 @@
     "Year": 1991,
     "HDI_range": "0.8-0.9",
     "LowCarbonShare": 9.66
-  },
-  {
-    "Continent": "Asia",
-    "Year": 1991,
-    "HDI_range": "NA",
-    "LowCarbonShare": 3.58
   },
   {
     "Continent": "Asia",
@@ -841,12 +829,6 @@
   },
   {
     "Continent": "Asia",
-    "Year": 1992,
-    "HDI_range": "NA",
-    "LowCarbonShare": 3.8
-  },
-  {
-    "Continent": "Asia",
     "Year": 1993,
     "HDI_range": "0.4-0.5",
     "LowCarbonShare": 11.5
@@ -874,12 +856,6 @@
     "Year": 1993,
     "HDI_range": "0.8-0.9",
     "LowCarbonShare": 10.31
-  },
-  {
-    "Continent": "Asia",
-    "Year": 1993,
-    "HDI_range": "NA",
-    "LowCarbonShare": 4.03
   },
   {
     "Continent": "Asia",
@@ -913,12 +889,6 @@
   },
   {
     "Continent": "Asia",
-    "Year": 1994,
-    "HDI_range": "NA",
-    "LowCarbonShare": 4.11
-  },
-  {
-    "Continent": "Asia",
     "Year": 1995,
     "HDI_range": "0.4-0.5",
     "LowCarbonShare": 10.66
@@ -946,12 +916,6 @@
     "Year": 1995,
     "HDI_range": "0.8-0.9",
     "LowCarbonShare": 10.04
-  },
-  {
-    "Continent": "Asia",
-    "Year": 1995,
-    "HDI_range": "NA",
-    "LowCarbonShare": 4.2
   },
   {
     "Continent": "Asia",
@@ -985,12 +949,6 @@
   },
   {
     "Continent": "Asia",
-    "Year": 1996,
-    "HDI_range": "NA",
-    "LowCarbonShare": 4.06
-  },
-  {
-    "Continent": "Asia",
     "Year": 1997,
     "HDI_range": "0.4-0.5",
     "LowCarbonShare": 8.71
@@ -1018,12 +976,6 @@
     "Year": 1997,
     "HDI_range": "0.8-0.9",
     "LowCarbonShare": 3.82
-  },
-  {
-    "Continent": "Asia",
-    "Year": 1997,
-    "HDI_range": "NA",
-    "LowCarbonShare": 4.06
   },
   {
     "Continent": "Asia",
@@ -1057,12 +1009,6 @@
   },
   {
     "Continent": "Asia",
-    "Year": 1998,
-    "HDI_range": "NA",
-    "LowCarbonShare": 3.94
-  },
-  {
-    "Continent": "Asia",
     "Year": 1999,
     "HDI_range": "0.4-0.5",
     "LowCarbonShare": 9.15
@@ -1090,12 +1036,6 @@
     "Year": 1999,
     "HDI_range": "0.8-0.9",
     "LowCarbonShare": 2.92
-  },
-  {
-    "Continent": "Asia",
-    "Year": 1999,
-    "HDI_range": "NA",
-    "LowCarbonShare": 3.74
   },
   {
     "Continent": "Asia",
@@ -1129,12 +1069,6 @@
   },
   {
     "Continent": "Asia",
-    "Year": 2000,
-    "HDI_range": "NA",
-    "LowCarbonShare": 5.38
-  },
-  {
-    "Continent": "Asia",
     "Year": 2001,
     "HDI_range": "0.4-0.5",
     "LowCarbonShare": 8.31
@@ -1162,12 +1096,6 @@
     "Year": 2001,
     "HDI_range": "0.8-0.9",
     "LowCarbonShare": 3.18
-  },
-  {
-    "Continent": "Asia",
-    "Year": 2001,
-    "HDI_range": "NA",
-    "LowCarbonShare": 4.4
   },
   {
     "Continent": "Asia",
@@ -1201,12 +1129,6 @@
   },
   {
     "Continent": "Asia",
-    "Year": 2002,
-    "HDI_range": "NA",
-    "LowCarbonShare": 4.76
-  },
-  {
-    "Continent": "Asia",
     "Year": 2003,
     "HDI_range": "0.4-0.5",
     "LowCarbonShare": 10.35
@@ -1234,12 +1156,6 @@
     "Year": 2003,
     "HDI_range": "0.8-0.9",
     "LowCarbonShare": 2.89
-  },
-  {
-    "Continent": "Asia",
-    "Year": 2003,
-    "HDI_range": "NA",
-    "LowCarbonShare": 4.18
   },
   {
     "Continent": "Asia",
@@ -1273,12 +1189,6 @@
   },
   {
     "Continent": "Asia",
-    "Year": 2004,
-    "HDI_range": "NA",
-    "LowCarbonShare": 4.02
-  },
-  {
-    "Continent": "Asia",
     "Year": 2005,
     "HDI_range": "0.4-0.5",
     "LowCarbonShare": 13.95
@@ -1306,12 +1216,6 @@
     "Year": 2005,
     "HDI_range": "0.8-0.9",
     "LowCarbonShare": 2.36
-  },
-  {
-    "Continent": "Asia",
-    "Year": 2005,
-    "HDI_range": "NA",
-    "LowCarbonShare": 4.13
   },
   {
     "Continent": "Asia",
@@ -1345,12 +1249,6 @@
   },
   {
     "Continent": "Asia",
-    "Year": 2006,
-    "HDI_range": "NA",
-    "LowCarbonShare": 4.01
-  },
-  {
-    "Continent": "Asia",
     "Year": 2007,
     "HDI_range": "0.4-0.5",
     "LowCarbonShare": 12.56
@@ -1381,12 +1279,6 @@
   },
   {
     "Continent": "Asia",
-    "Year": 2007,
-    "HDI_range": "NA",
-    "LowCarbonShare": 3.99
-  },
-  {
-    "Continent": "Asia",
     "Year": 2008,
     "HDI_range": "0.5-0.6",
     "LowCarbonShare": 7.75
@@ -1411,12 +1303,6 @@
   },
   {
     "Continent": "Asia",
-    "Year": 2008,
-    "HDI_range": "NA",
-    "LowCarbonShare": 4.4
-  },
-  {
-    "Continent": "Asia",
     "Year": 2009,
     "HDI_range": "0.5-0.6",
     "LowCarbonShare": 7.45
@@ -1438,12 +1324,6 @@
     "Year": 2009,
     "HDI_range": "0.8-0.9",
     "LowCarbonShare": 2.66
-  },
-  {
-    "Continent": "Asia",
-    "Year": 2009,
-    "HDI_range": "NA",
-    "LowCarbonShare": 3.78
   },
   {
     "Continent": "Asia",
@@ -1477,12 +1357,6 @@
   },
   {
     "Continent": "Asia",
-    "Year": 2010,
-    "HDI_range": "NA",
-    "LowCarbonShare": 5.41
-  },
-  {
-    "Continent": "Asia",
     "Year": 2011,
     "HDI_range": ">0.9",
     "LowCarbonShare": 0.21
@@ -1510,12 +1384,6 @@
     "Year": 2011,
     "HDI_range": "0.8-0.9",
     "LowCarbonShare": 2.76
-  },
-  {
-    "Continent": "Asia",
-    "Year": 2011,
-    "HDI_range": "NA",
-    "LowCarbonShare": 5.43
   },
   {
     "Continent": "Asia",
@@ -1549,12 +1417,6 @@
   },
   {
     "Continent": "Asia",
-    "Year": 2012,
-    "HDI_range": "NA",
-    "LowCarbonShare": 5.51
-  },
-  {
-    "Continent": "Asia",
     "Year": 2013,
     "HDI_range": ">0.9",
     "LowCarbonShare": 3.65
@@ -1582,12 +1444,6 @@
     "Year": 2013,
     "HDI_range": "0.8-0.9",
     "LowCarbonShare": 0.2
-  },
-  {
-    "Continent": "Asia",
-    "Year": 2013,
-    "HDI_range": "NA",
-    "LowCarbonShare": 5.5
   },
   {
     "Continent": "Asia",
@@ -1621,12 +1477,6 @@
   },
   {
     "Continent": "Asia",
-    "Year": 2014,
-    "HDI_range": "NA",
-    "LowCarbonShare": 5.44
-  },
-  {
-    "Continent": "Asia",
     "Year": 2015,
     "HDI_range": ">0.9",
     "LowCarbonShare": 4.18
@@ -1654,12 +1504,6 @@
     "Year": 2015,
     "HDI_range": "0.8-0.9",
     "LowCarbonShare": 0.7
-  },
-  {
-    "Continent": "Asia",
-    "Year": 2015,
-    "HDI_range": "NA",
-    "LowCarbonShare": 4.82
   },
   {
     "Continent": "Asia",
@@ -1692,12 +1536,6 @@
     "LowCarbonShare": 0.97
   },
   {
-    "Continent": "Asia",
-    "Year": 2016,
-    "HDI_range": "NA",
-    "LowCarbonShare": 4.44
-  },
-  {
     "Continent": "Europe",
     "Year": 1990,
     "HDI_range": "0.6-0.7",
@@ -1714,12 +1552,6 @@
     "Year": 1990,
     "HDI_range": "0.8-0.9",
     "LowCarbonShare": 39.33
-  },
-  {
-    "Continent": "Europe",
-    "Year": 1990,
-    "HDI_range": "NA",
-    "LowCarbonShare": 1.18
   },
   {
     "Continent": "Europe",
@@ -1741,12 +1573,6 @@
   },
   {
     "Continent": "Europe",
-    "Year": 1991,
-    "HDI_range": "NA",
-    "LowCarbonShare": 2.05
-  },
-  {
-    "Continent": "Europe",
     "Year": 1992,
     "HDI_range": "0.6-0.7",
     "LowCarbonShare": 10.69
@@ -1762,12 +1588,6 @@
     "Year": 1992,
     "HDI_range": "0.8-0.9",
     "LowCarbonShare": 32.52
-  },
-  {
-    "Continent": "Europe",
-    "Year": 1992,
-    "HDI_range": "NA",
-    "LowCarbonShare": 2.12
   },
   {
     "Continent": "Europe",
@@ -1789,12 +1609,6 @@
   },
   {
     "Continent": "Europe",
-    "Year": 1993,
-    "HDI_range": "NA",
-    "LowCarbonShare": 1.53
-  },
-  {
-    "Continent": "Europe",
     "Year": 1994,
     "HDI_range": "0.6-0.7",
     "LowCarbonShare": 13.63
@@ -1810,12 +1624,6 @@
     "Year": 1994,
     "HDI_range": "0.8-0.9",
     "LowCarbonShare": 31.24
-  },
-  {
-    "Continent": "Europe",
-    "Year": 1994,
-    "HDI_range": "NA",
-    "LowCarbonShare": 2.35
   },
   {
     "Continent": "Europe",
@@ -1837,12 +1645,6 @@
   },
   {
     "Continent": "Europe",
-    "Year": 1995,
-    "HDI_range": "NA",
-    "LowCarbonShare": 7.8
-  },
-  {
-    "Continent": "Europe",
     "Year": 1996,
     "HDI_range": "0.6-0.7",
     "LowCarbonShare": 9.14
@@ -1861,12 +1663,6 @@
   },
   {
     "Continent": "Europe",
-    "Year": 1996,
-    "HDI_range": "NA",
-    "LowCarbonShare": 7.13
-  },
-  {
-    "Continent": "Europe",
     "Year": 1997,
     "HDI_range": "0.6-0.7",
     "LowCarbonShare": 11.08
@@ -1882,12 +1678,6 @@
     "Year": 1997,
     "HDI_range": "0.8-0.9",
     "LowCarbonShare": 30.2
-  },
-  {
-    "Continent": "Europe",
-    "Year": 1997,
-    "HDI_range": "NA",
-    "LowCarbonShare": 8.37
   },
   {
     "Continent": "Europe",
@@ -1915,12 +1705,6 @@
   },
   {
     "Continent": "Europe",
-    "Year": 1998,
-    "HDI_range": "NA",
-    "LowCarbonShare": 8.92
-  },
-  {
-    "Continent": "Europe",
     "Year": 1999,
     "HDI_range": ">0.9",
     "LowCarbonShare": 67.37
@@ -1942,12 +1726,6 @@
     "Year": 1999,
     "HDI_range": "0.8-0.9",
     "LowCarbonShare": 27.92
-  },
-  {
-    "Continent": "Europe",
-    "Year": 1999,
-    "HDI_range": "NA",
-    "LowCarbonShare": 11.96
   },
   {
     "Continent": "Europe",
